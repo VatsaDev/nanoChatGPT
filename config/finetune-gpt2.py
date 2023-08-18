@@ -1,10 +1,10 @@
 import time
 
-out_dir = 'out-shakespeare'
+out_dir = 'out-gpt2-finetune'
 eval_interval = 5
 eval_iters = 40
 wandb_log = False # feel free to turn on
-wandb_project = 'shakespeare'
+wandb_project = 'gpt2-finetune'
 wandb_run_name = 'ft-' + str(time.time())
 
 dataset = 'shakespeare'
