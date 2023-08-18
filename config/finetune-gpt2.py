@@ -1,14 +1,14 @@
 import time
 
-out_dir = 'out-gpt2-finetune'
+out_dir = 'out-shakespeare'
 eval_interval = 5
 eval_iters = 40
 wandb_log = False # feel free to turn on
-wandb_project = 'gpt2-finetune'
+wandb_project = 'gpt2finetune'
 wandb_run_name = 'ft-' + str(time.time())
 
 dataset = 'shakespeare'
-init_from = 'gpt2-large' # this is the largest GPT-2 model
+init_from = 'gpt2-large' # this is the second largest GPT-2 model, good for google colab
 
 # only save checkpoints if the validation loss improves
 always_save_checkpoint = False
