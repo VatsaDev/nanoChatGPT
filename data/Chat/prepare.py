@@ -15,7 +15,7 @@ def concatenate_text_files(file_paths):
       text = response.text
       outfile.write(text)
 
-  return os.path.abspath("input.txt")
+  return os.path.abspath("concatenated.txt")
 
 #save file in colab
 file_paths = ["https://raw.githubusercontent.com/VatsaDev/nanoChatGPT/main/data/Chat/input1.txt", "https://raw.githubusercontent.com/VatsaDev/nanoChatGPT/main/data/Chat/input2.txt", "https://raw.githubusercontent.com/VatsaDev/nanoChatGPT/main/data/Chat/input3.txt", "https://raw.githubusercontent.com/VatsaDev/nanoChatGPT/main/data/Chat/input4.txt", "https://raw.githubusercontent.com/VatsaDev/nanoChatGPT/main/data/Chat/input5.txt", "https://raw.githubusercontent.com/VatsaDev/nanoChatGPT/main/data/Chat/input6.txt", "https://raw.githubusercontent.com/VatsaDev/nanoChatGPT/main/data/Chat/input7.txt", "https://raw.githubusercontent.com/VatsaDev/nanoChatGPT/main/data/Chat/input8.txt"]
@@ -24,7 +24,7 @@ concatenated_file_path = concatenate_text_files(file_paths)
 print(f"The concatenated file is saved at {concatenated_file_path}.")
 
 # get input file
-input_file_path = './updates.md';
+input_file_path = './concatenated.txt';
 if not os.path.exists(input_file_path):
     data_url = 'https://www.dropbox.com/scl/fi/zsk7h4gg1pbzt02vwa4xh/concatenated.txt';
     with open(input_file_path, 'w') as f:
