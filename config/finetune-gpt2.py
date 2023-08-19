@@ -16,7 +16,7 @@ always_save_checkpoint = False
 # the number of examples per iter:
 # 1 batch_size * 32 grad_accum * 1024 tokens = 32,768 tokens/iter
 # shakespeare has 301,966 tokens, so 1 epoch ~= 9.2 iters
-batch_size = 1
+batch_size = 4
 gradient_accumulation_steps = 32
 max_iters = 50
 
