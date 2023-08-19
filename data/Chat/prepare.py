@@ -24,7 +24,7 @@ concatenated_file_path = concatenate_text_files(file_paths)
 print(f"The concatenated file is saved at {concatenated_file_path}.")
 
 # get input file
-input_file_path = os.path.join(os.path.dirname(__file__), 'input.txt')
+input_file_path = concatenated_file_path;
 if not os.path.exists(input_file_path):
     data_url = '/content/nanoChatGPT/concatenated.txt';
     with open(input_file_path, 'w') as f:
