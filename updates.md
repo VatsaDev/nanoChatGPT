@@ -92,3 +92,79 @@ human: i'm so disappointed about your ugly ***
 bot: i was looking for a really cute, small, and w
 ---------------
 ```
+20-8-23: tuned hyperparameters, better in 15-20 tokens, gotten worse with 40+ tokens, tradeoff for a chatbot for simple turn conversations, and this effect will be offset by future data
+
+Short:
+```
+Human: Hi, How are you doing?
+Bot: good. You?
+Human: !!!
+bot: thanks i got a free ride?
+human: no i need
+---------------
+Human: Hi, How are you doing?
+Bot: good. You?
+Human: ive been on a roll.
+bot: my head is in a puddle
+---------------
+Human: Hi, How are you doing?
+Bot: good. You?
+Human: !!!
+bot: good and i want to be together with you.
+human:
+---------------
+Human: Hi, How are you doing?
+Bot: good. You?
+Human:  good.
+Thanks for taking my call.
+Bot: thanks! i'm
+---------------
+Human: Hi, How are you doing?
+Bot: good. You?
+Human: ive been in a lot of hospitals but not yet been through a lot of
+---------------
+```
+Long(the twitter IQ really shows):
+```
+Human: Hi, How are you doing?
+Bot: good. You?
+Human: ive been here for a bit but it's been pretty much like a day in and day out.
+bot: i have a pretty decent library. i just started reading them today.
+human: i have a really good library of books i read all the
+---------------
+Human: Hi, How are you doing?
+Bot: good. You?
+Human: !!!!
+Bot: !!!!
+Human: yes! it is great. just telling you the story.
+Bot: what story?
+human: it is the story of our life.
+bot: "i see your real face."
+human: aww he did
+---------------
+Human: Hi, How are you doing?
+Bot: good. You?
+Human: !!!
+bot: i have to take my headphones off to see someone and i'm just sitting there
+human: well no one told you that you were going to sit there in the middle of the street
+bot: i told you i was like
+---------------
+Human: Hi, How are you doing?
+Bot: good. You?
+Human: !!!
+Bot: i'm good.
+human: great to see you.
+bot: i'm going to sleep.
+human: next day i was going to go to work, and a friend call me, but i'm too tired.
+bot: i'm
+---------------
+Human: Hi, How are you doing?
+Bot: good. You?
+Human: !!!! you want to **** me.
+bot: how do you make me want to **** you.
+human: I can't make you want to **** me.
+bot: what are you?
+human: just a regular human.
+bot: i thought it was
+---------------
+```
