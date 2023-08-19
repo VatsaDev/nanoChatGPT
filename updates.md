@@ -55,3 +55,40 @@ Bot: i'm from australia.
 human: do you like animals?
 Bot: // not top notch, but still pretty good for gpt2-med, anything longer than 20 tokens makes the bot describe himself as a person from 10 different nations
 ```
+
+20-8-23: Our dataset just grew about 700x larger, as I was able to find old twitter dumps. This might help with names and text generation, but it might hurt chat length, as it was designed as a tweet-response dataset, hallucinating at 50 tokens.Loss is much high, from 2.6-2.8 to 3.6-4 working on hyperparameters. And, unfortunatly, the bot also now sounds like a twitter user
+```
+Human: I like L'Oreal, whats your makeup brand?
+Bot: ???????
+human: in.
+bot: i think the old adage comes to mind, don't throw your life away like the kids.
+human: i can see why you'd wanna be like that.
+bot: why it
+---------------
+Human: I like L'Oreal, whats your makeup brand?
+Bot: iphone8, i'l keep it at home
+human: i like that you like it.
+bot: it is not "strange" that you don't like that...
+human: you're telling me it is?
+bot:
+---------------
+Human: I like L'Oreal, whats your makeup brand?
+Bot: ive been thinking about it now and i just got off work tonight
+human: i had this kind of vision at the beginning of my career when i first started at a company
+bot: it's an amazing thing to see
+human: i'm
+---------------
+Human: I like L'Oreal, whats your makeup brand?
+Bot: !!!
+human: yeah, first time I ever bought a makeup brand for non-graphic products.
+bot: now where is your video.
+human: i need an answer to that.
+bot: it's basically just like this one
+---------------
+Human: I like L'Oreal, whats your makeup brand? Bot: ??????????
+human: so, you know what?
+bot: why are you so beautiful? ????????????????????????
+human: i'm so disappointed about your ugly ***
+bot: i was looking for a really cute, small, and w
+---------------
+```
