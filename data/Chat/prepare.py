@@ -15,7 +15,7 @@ def concatenate_text_files(file_paths):
       text = response.text
       outfile.write(text)
 
-  return os.path.abspath("concatenated.txt")
+  return os.path.abspath("input.txt")
 
 #save file in colab
 file_paths = ["https://raw.githubusercontent.com/VatsaDev/nanoChatGPT/main/data/Chat/input1.txt", "https://raw.githubusercontent.com/VatsaDev/nanoChatGPT/main/data/Chat/input2.txt", "https://raw.githubusercontent.com/VatsaDev/nanoChatGPT/main/data/Chat/input3.txt", "https://raw.githubusercontent.com/VatsaDev/nanoChatGPT/main/data/Chat/input4.txt", "https://raw.githubusercontent.com/VatsaDev/nanoChatGPT/main/data/Chat/input5.txt", "https://raw.githubusercontent.com/VatsaDev/nanoChatGPT/main/data/Chat/input6.txt", "https://raw.githubusercontent.com/VatsaDev/nanoChatGPT/main/data/Chat/input7.txt", "https://raw.githubusercontent.com/VatsaDev/nanoChatGPT/main/data/Chat/input8.txt"]
