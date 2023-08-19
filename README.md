@@ -1,5 +1,7 @@
 # nanoChatGpt
 
+![](assets/)
+
 Nanogpt, but finetuned on conversational data 
 
 [Colab link](https://colab.research.google.com/drive/1a2aW5eClKjHVQJp-qtHDz4m6ai4yh49Z?usp=sharing)
