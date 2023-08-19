@@ -34,15 +34,25 @@ Bot:
 I did not make the database, and can't account for any biases, as the dataset it self is based off the conversations of real people who may or may not have had biases. The model is meant for academic research purposes, and isn't meant for any important or high risk scenarios. Do not follow its advice
 
 ## Problems / TODOs
- - ### Very small dataset
-    - Right now, the dataset is a very small right now, the current data was just copy-paste conversions, and definitly needs to be automated 
- - ### Very small conversations
-    - Right now, the dataset used is made up of very small conversations, at best 8-10 sentences long, so including more medium sized and large conversations is a necessity
- - ### Repetitive with larger amounts of tokens
-    - While this effect is greatly reduced with prompting, it turns extremely repetitive when asked for more than 15-30 tokens. It can also start repeating the bot prompt or replace it with human names
+ * ### Very small dataset
+    
+    * Right now, the dataset is very small, the current data was just copy-paste conversions, and definitely needs to be automated
+        
+    
+* ### Very small conversations
+    
+    * Right now, the dataset used is made up of very small conversations, at best 8-10 sentences long, so including more medium-sized and large conversations is a necessity
+        
+    
+* ### Repetitive with larger amounts of tokens
+    
+    * While this effect is greatly reduced with prompting, it turns extremely repetitive when asked for more than 15-30 tokens. It can also start repeating the bot prompt or replace it with human names
+        
+    
 
 example:
-```
+
+```plaintext
 Human: Hi, how are you? Bot: i'm good, how are you? Human: I'm good: where are you from? Bot: i live in seattle, seattle, seattle, seattle
 
 Bot: Hi, how are you? Bot: i'm good, how are you? Human: i live in seattle, seattle, seattle, seattle, seattle
@@ -51,17 +61,24 @@ Bot: Hi, how are you? Bot: i'm good, how are you? Human: i live in seattle, seat
 
 Bot: Yo,
 ```
-- ### Not having clear anwser and also continuing to generate an anwser 
-    - While this effect is greatly reduced with more and better data, the model probably needs padding to set outputs to a certain size, and also probably a stop at a certain word function.
- - ### no memory/recallation
-    - With many models, you can ask what you were just talking about or to summarize the conversation above. When that is attempted with this model:
-      ``` 
-      Human: Dogecoin is cool 
-      Bot: indeed, very shibe
-      Human: what were we just talking about?
-      Bot: me and a friend gave up on mining, but now I can
-      ```
-      as we can see, it continues on with a sentence on mining, confirming that it understood the context(GPT2 info) but it does not have the ability to recall. I suspect that has to do with the models data, and that if I were to feed it data like short-context calling and summarization data, it would gain those abilities
+
+* ### Not having a clear answer and also continuing to generate an answer
+    
+    * While this effect is greatly reduced with more and better data, the model probably needs padding to set outputs to a certain size, and also probably a stop at a certain word function.
+        
+    
+* ### no memory/recall
+    
+    * With many models, you can ask what you were just talking about or to summarize the conversation above. When that is attempted with this model:
+        
+        ```plaintext
+        Human: Dogecoin is cool 
+        Bot: indeed, very shibe
+        Human: what were we just talking about?
+        Bot: me and a friend gave up on mining, but now I can
+        ```
+        
+        as we can see, it continues on with a sentence on mining, confirming that it understood the context(GPT2 info) but it does not have the ability to recall. I suspect that has to do with the models data, and that if I were to feed it data like short-context calling and summarization data, it would gain those abilities
 
       
 <br /><br /><br />
