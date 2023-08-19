@@ -33,7 +33,11 @@ Bot:
 
 ## Limitations 
 
-I did not make the database, and can't account for any biases, as the dataset it self is based off the conversations of real people who may or may not have had biases. The model is meant for academic research purposes, and isn't meant for any important or high risk scenarios. Do not follow its advice
+I did not make the databases that make up this database, and can't account for any biases, as the dataset it self is based off the conversations of real people who may or may not have had biases. The model is meant for academic research purposes, and isn't meant for any important or high risk scenarios. Do not follow its advice
+
+### whats in the data
+ - personaChat database
+ - twitter Dumps 
 
 ## Problems / TODOs
  * ### Very small dataset
