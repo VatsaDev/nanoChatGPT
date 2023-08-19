@@ -6,8 +6,6 @@ a barebones Nanogpt, but finetuned on conversational data
 
 [Colab link](https://colab.research.google.com/drive/1a2aW5eClKjHVQJp-qtHDz4m6ai4yh49Z?usp=sharing)
 
-This is a fork of Nanogpt, but trained on the data format of a chatbot like chatgpt, with the format inspired by `redpajama-chat` 
-
 ## Updates!
 19-8-23: added the full personaChat data, showing general improvement in abilites, including recall
 latest dogecoin example!
@@ -17,6 +15,9 @@ Bot: indeed, very shibe
 Human: what were we just talking about?
 Bot: pretty cool. Dogecoin and Dogecoin in general have a common
 ```
+## how does it work?
+
+This is a fork of Nanogpt, but trained on the data format of a chatbot like chatgpt, with the format inspired by `redpajama-chat` 
 
 ```
 Human: ...
@@ -27,7 +28,7 @@ Human: ...
 Bot: ...
 ```
 
-The training data is a cleaned up, conversational version of the PersonaChat Dataset, compressed into a single `input.txt` I only converted about a thousand lines of conversation, and then copy-pasted 40 times to have a sizeable dataset. it is trained on the regular 124mil param gpt-2, as that was the best colab could handle. 
+The training data is a cleaned up, conversational version of the PersonaChat Dataset, compressed into a single `input.txt`. It is trained on the regular 124mil param gpt-2, as that was the best colab could handle. 
 
 ## Demo
 to view its capabilites, simply run the colab, the whole thing should take around ~5 minutes on a t4 instance. If you look at both outputs, you would notice the model definitly requires prompting, with the ideal prompting being
