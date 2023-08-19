@@ -4,7 +4,8 @@
 
 a barebones Nanogpt, but finetuned on conversational data 
 
-[Colab link](https://colab.research.google.com/drive/1a2aW5eClKjHVQJp-qtHDz4m6ai4yh49Z?usp=sharing)
+[Colab link](https://colab.research.google.com/drive/1a2aW5eClKjHVQJp-qtHDz4m6ai4yh49Z?usp=sharing)   
+all updates in [updates.md](updates.md)
 ## how does it work?
 
 This is a fork of Nanogpt, but trained on the data format of a chatbot like chatgpt, with the format inspired by `redpajama-chat` 
