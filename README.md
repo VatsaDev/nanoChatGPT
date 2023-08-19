@@ -48,7 +48,9 @@ I did not make the database, and can't account for any biases, as the dataset it
 * ### Repetitive with larger amounts of tokens
     
     * While this effect is greatly reduced with prompting, it turns extremely repetitive when asked for more than 15-30 tokens. It can also start repeating the bot prompt or replace it with human names
-        
+
+* ### bigger models
+     * try using huggingface methods, etc, to get up to gpt2-xl
     
 
 example:
