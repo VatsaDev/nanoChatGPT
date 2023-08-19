@@ -2,7 +2,7 @@
 
 ![nanoChatGPT](https://github.com/VatsaDev/nanoChatGPT/blob/fbe107f9687464a1bea9b052009389f92a96983f/assets/template.png)
 
-Nanogpt, but finetuned on conversational data 
+a barebones Nanogpt, but finetuned on conversational data 
 
 [Colab link](https://colab.research.google.com/drive/1a2aW5eClKjHVQJp-qtHDz4m6ai4yh49Z?usp=sharing)
 
