@@ -18,7 +18,7 @@ Human: ...
 Bot: ...
 ```
 
-The training data is a cleaned up, conversational version of the PersonaChat Dataset, compressed into a single `input.txt`. It is trained on the regular 124mil param gpt-2, as that was the best colab could handle. 
+The training data is a cleaned up, conversational version of the PersonaChat Dataset, compressed into a single `input.txt`. It is trained on the gpt-2-medium model, as that was the best colab could handle. 
 
 ## Demo
 to view its capabilites, simply run the colab, the whole thing should take around ~5 minutes on a t4 instance. If you look at both outputs, you would notice the model definitly requires prompting, with the ideal prompting being
