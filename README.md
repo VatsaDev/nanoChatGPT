@@ -1,6 +1,6 @@
 # nanoChatGpt
 
-![](assets/)
+![nanoChatGPT](https://github.com/VatsaDev/nanoChatGPT/blob/fbe107f9687464a1bea9b052009389f92a96983f/assets/template.png)
 
 Nanogpt, but finetuned on conversational data 
 
