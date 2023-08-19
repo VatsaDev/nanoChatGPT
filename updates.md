@@ -168,3 +168,25 @@ human: just a regular human.
 bot: i thought it was
 ---------------
 ```
+some iphone obsession, really found the iphone popping up in all sorts of other prompts, though I would put it here:
+```
+Human: what Iphone model you got
+Bot: iphone 5s.
+human: well you should have asked for it
+---------------
+Human: what Iphone model you got
+Bot: iphone 7/8.5/9.5 (2015) 6
+---------------
+Human: what Iphone model you got
+Bot: iphone 5.1. can't find the option, should check for
+---------------
+Human: what Iphone model you got
+Bot: iphone 4 sim card
+bot: i bought a sim card 😊
+---------------
+Human: what Iphone model you got
+Bot: iphone 5s
+human: it's a good phone man
+bot
+---------------
+```
