@@ -5,26 +5,6 @@
 a barebones Nanogpt, but finetuned on conversational data 
 
 [Colab link](https://colab.research.google.com/drive/1a2aW5eClKjHVQJp-qtHDz4m6ai4yh49Z?usp=sharing)
-
-## Updates!
-19-8-23: added the full personaChat data, showing general improvement in abilites, less repititions in longer inferences(except name labels) and a little recall improv
-latest dogecoin examples!
-```
-Human: Dogecoin is cool
-Bot: indeed, very shibe
-Human: what were we just talking about?
-Bot: pretty cool. Dogecoin and Dogecoin in general have a common
----------------
-Human: Dogecoin is cool
-Bot: indeed, very shibe
-Human: what do you think about crypto mining?
-Bot: interesting
-Humans: I think it is funny
-Humans: how would you rate a lot of crypto mining?
-Humans: Not very interesting and it is usually a bad idea
-Humans: How about you humans?
-Bot
-```
 ## how does it work?
 
 This is a fork of Nanogpt, but trained on the data format of a chatbot like chatgpt, with the format inspired by `redpajama-chat` 
