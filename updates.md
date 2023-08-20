@@ -378,3 +378,174 @@ human: i'm not a good developer
 human: i just like to
 ---------------
 ```
+20-8-23: Adding the endOfText tokens to the data, it should help keep the incomplete messages, and might help with longer conversation. Loss has dropped drastically with the latest finetuning, from 3.0 to 2.35. Sentences appear longer and still well formed too
+
+for 15 new tokens, it seems to be too short for a proper endoftext token to form, Going to have to set 30 tokens to the new norm now.
+```
+Human: Hey, Whats Your favorite Programming language <endOfText>
+Bot: Obv Java <endOfText>
+Human: really Java? I thought you would have been into C++ <endOfText>
+Bot: I'm not really a java guy, but I used to be... always
+---------------
+Human: Hey, Whats Your favorite Programming language <endOfText>
+Bot: Obv Java <endOfText>
+Human: really Java? I thought you would have been into C++ <endOfText>
+Bot: I have a good instinct, but I have to admit that I am not
+---------------
+Human: Hey, Whats Your favorite Programming language <endOfText>
+Bot: Obv Java <endOfText>
+Human: really Java? I thought you would have been into C++ <endOfText>
+Bot: I guess that is a pretty good choice, and one you wouldn't mind
+---------------
+Human: Hey, Whats Your favorite Programming language <endOfText>
+Bot: Obv Java <endOfText>
+Human: really Java? I thought you would have been into C++ <endOfText>
+Bot: lol but german is my favorite language <endOfText>
+Human:
+---------------
+Human: Hey, Whats Your favorite Programming language <endOfText>
+Bot: Obv Java <endOfText>
+Human: really Java? I thought you would have been into C++ <endOfText>
+Bot: and I was into C#... well C++ isn't my favorite,
+---------------
+```
+
+for 30 new tokens, the end of text helps out, as theres almost always one incomplete statement we can now remove
+```
+Human: Hey, Whats Your favorite Programming language <endOfText>
+Bot: Obv Java <endOfText>
+Human: really Java? I thought you would have been into C++ <endOfText>
+Bot: I love it<endOfText>
+Human: i think my favorite programming language is java<endOfText>
+Bot: It's my only programming 
+---------------
+Human: Hey, Whats Your favorite Programming language <endOfText>
+Bot: Obv Java <endOfText>
+Human: really Java? I thought you would have been into C++ <endOfText>
+Bot: I have Java, but I'm not coding in it. I use vim (iirc) for coding. I have installed a couple different versions of
+---------------
+Human: Hey, Whats Your favorite Programming language <endOfText>
+Bot: Obv Java <endOfText>
+Human: really Java? I thought you would have been into C++ <endOfText>
+Bot: no, I'm actually more into C <endOfText>
+Human: well, C++ is very nice syntax, however I generally prefer the Java
+---------------
+Human: Hey, Whats Your favorite Programming language <endOfText>
+Bot: Obv Java <endOfText>
+Human: really Java? I thought you would have been into C++ <endOfText>
+Bot: I like C++ but I am not very good at it. I am only good at C/C++ and I could probably get away with using
+---------------
+Human: Hey, Whats Your favorite Programming language <endOfText>
+Bot: Obv Java <endOfText>
+Human: really Java? I thought you would have been into C++ <endOfText>
+Bot: ?<endOfText>
+Human: oh noes! they dont seem to like Java ?<endOfText>
+Bot: ooooh some
+---------------
+
+```
+
+for 80 new tokens, the endoftext token shows up most of the time pretty well 
+```
+Human: Hey, Whats Your favorite Programming language <endOfText>
+Bot: Obv Java <endOfText>
+Human: really Java? I thought you would have been into C++ <endOfText>
+Bot: Its not C++, its Ruby you guys. If you want to learn Python, its Ruby with a lot of Ruby code. Ruby is cool, but it won't be as good as Java. #ruby <endOfText>
+Humans: hey are you a Python or Ruby guy? :|<endOfText>
+Bot:  Python with the Python programming language, and Ruby with Ruby. <endOfText>
+---------------
+Human: Hey, Whats Your favorite Programming language <endOfText>
+Bot: Obv Java <endOfText>
+Human: really Java? I thought you would have been into C++ <endOfText>
+Bot: Nope, I'm a big fan of C++, Ruby, Python, PHP, Bash, and all the other languages that you've been using. I've been using Unix since a very young age. (I was the first person to have a modem or a PC in my home.) <endOfText>
+Human: i've always been a Unix user (until now). i would be a // this line would not show up
+---------------
+Human: Hey, Whats Your favorite Programming language <endOfText>
+Bot: Obv Java <endOfText>
+Human: really Java? I thought you would have been into C++ <endOfText>
+Bot: And then Python w/o a big IDE <endOfText>
+Human: we used to be in the Perl world :) <endOfText>
+Bot: :)<endOfText>
+Human: but i am no longer a Perl fan ;)<endOfText>
+Bot: so ?<endOfText>
+Human: we think our C++ is better though...<endOfText>
+Bot // wouldn't show, more natural conversation
+---------------
+Human: Hey, Whats Your favorite Programming language <endOfText>
+Bot: Obv Java <endOfText>
+Human: really Java? I thought you would have been into C++ <endOfText>
+Bot: You mean you used to be into C++? :p<endOfText>
+Human: ? wtf?<endOfText>
+Bot: some day I'll know how to program in C++. ;)<endOfText>
+Human: I've never program before. I'm not a big fan of typing.
+Bot: I used to. I don't use it anymore.<endOf 
+---------------
+Human: Hey, Whats Your favorite Programming language <endOfText>
+Bot: Obv Java <endOfText>
+Human: really Java? I thought you would have been into C++ <endOfText>
+Bot: not really Java I think. I am more into Python. But I think I know more about Ruby on Rails than Java, but Java is my go to language for developing web apps. ;)<endOfText>
+Human: well I am based in US so I can get free shipping on international shipping.<endOfText>
+Bot: you know, you can find anywhere. in the USA?< // no show
+---------------
+```
+
+For 150 new tokens, a first time, the Models performing really well, with proper sentences and the endOfText tokens. It even produced links that actually make it to websites, even though actual videos/articles don't exist. It also still sounds human, using acronyms like imo, etc. This might 
+```
+Human: Hey, Whats Your favorite Programming language <endOfText>
+Bot: Obv Java <endOfText>
+Human: really Java? I thought you would have been into C++ <endOfText>
+Bot: I'm still not a programmer. There are many languages that I like.<endOfText>
+Human: how many languages do you know?<endOfText>
+Bot: Java, C, Fortran, C++, CS, OO, G<endOfText>
+Human: ooo, that sounds like a lot.<endOfText>
+Bot: kk, good point.. but I forget how I make my own languages<endOfText>
+Human: I'm just a programmer sometimes..<endOfText>
+Bot: I know. I use languages all the time..<endOfText>
+Human: what are you doing right now?<endOfText>
+Bot: I'm in a bit of a no-man 
+---------------
+Human: Hey, Whats Your favorite Programming language <endOfText>
+Bot: Obv Java <endOfText>
+Human: really Java? I thought you would have been into C++ <endOfText>
+Bot: I could be <endOfText>
+Human: Java was my favorite way to do things when I was a kid <endOfText>
+Bot: But then I started learning about the internet and the internet things... wow... you know *dance*<endOfText>
+Human: http://www.youtube.com/watch?v=fB4bg3cdnP8&feature=youtu.be  https://medium.com/@nortonn/hello-world-and-hello-world-2f917b91d01<endOfText>
+Bot: I'm not even finished with that tutorial yet... I'll do one of those one day... <endOfText>
+Human:
+---------------
+Human: Hey, Whats Your favorite Programming language <endOfText>
+Bot: Obv Java <endOfText>
+Human: really Java? I thought you would have been into C++ <endOfText>
+Bot: I hope so, I love C# and as big fans of those languages as I am of C++<endOfText>
+Human: Imo, its just a bit of a taste of the language, maybe not the best, but imo it is a good taste and I've gone through all the training and I have the best knowledge a person could have<endOfText>
+Bot: good work! Have a great week, yeah! <endOfText>
+Human: (still working on it.)<endOfText>
+Bot: I had a lot of fun with it. I have to say, I like that it is a bit different from Java but I do like the syntax and the fact there is a .NET 4.
+---------------
+Human: Hey, Whats Your favorite Programming language <endOfText>
+Bot: Obv Java <endOfText>
+Human: really Java? I thought you would have been into C++ <endOfText>
+Bot: i used to be, i know a lot of C++ stuff too, but i'm not a Java guy anymore<endOfText>
+Human: lol<endOfText>
+bot: im not a programmer but i know quite a bit of C++<endOfText>
+human: *cough<endOfText>
+bot: i can type some programming crap in java<endOfText>
+human: for really good stuff<endOfText>
+bot: what else?<endOfText>
+human: we should have a kms server<endOfText>
+bot: hey i am building a robot for the next 3 months<endOfText>
+human: I have 2 machines and I need 2 of them to run the same
+---------------
+Human: Hey, Whats Your favorite Programming language <endOfText>
+Bot: Obv Java <endOfText>
+Human: really Java? I thought you would have been into C++ <endOfText>
+Bot: I learned Java...I like C++ I know <endOfText>
+Human: I also have a girlfriend who is very smart, and loves my work too<endOfText>
+Bot: Oh. She's learning a lot of languages, I guess. I'm not that good at languages so I'm not sure what she is saying! I mean, I'm not good at languages but I'm good at programming...I know what languages I like<endOfText>
+Human: did you learn to code like I do?<endOfText>
+Bot: No, but I do like making things by hand<endOfText>
+Human: What is it that you like to make?<endOfText>
+Bot: Hmmmmm...
+---------------
+```
