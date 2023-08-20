@@ -39,6 +39,9 @@ I did not make the data dumps/corpuses that make up this data, and can't account
  - personaChat corpus
  - twitter Dumps corpus
  - Ubuntu dialog corpus
+ - Chatbot arena conversations (not for commercial use)
+
+for commercial purposes, just take the files `input1.txt` through `input36.txt`
 
 ## Features
 
@@ -79,3 +82,15 @@ I did not make the data dumps/corpuses that make up this data, and can't account
       
 <br /><br /><br />
 Anyone Who can contribute to the repo, please do so, any and all contributions are welcome, simply add a little to `input.txt` and expand our dataset would be amazing.
+
+#### citations
+```
+@misc{zheng2023judging,
+      title={Judging LLM-as-a-judge with MT-Bench and Chatbot Arena}, 
+      author={Lianmin Zheng and Wei-Lin Chiang and Ying Sheng and Siyuan Zhuang and Zhanghao Wu and Yonghao Zhuang and Zi Lin and Zhuohan Li and Dacheng Li and Eric. P Xing and Hao Zhang and Joseph E. Gonzalez and Ion Stoica},
+      year={2023},
+      eprint={2306.05685},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
