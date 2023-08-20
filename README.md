@@ -43,7 +43,8 @@ I did not make the data dumps/corpuses that make up this data, and can't account
 ## Features
 
  * Medium Dataset(187mb) and growing
- * Eariler the model would grow extremely repetitive after 15-30 tokens, now its pretty good 80 or less tokens. It would also also start repeating the bot prompt or replace it with human names, but with recent increases in data, it happens very rarely.
+ * Eariler the model would grow extremely repetitive after 15-30 tokens, now its pretty good at 150 or so tokens. It would also also start repeating the bot prompt or replace it with human names, but with recent increases in data, it happens very rarely.
+ * The model used to not generate good anwsers, or proper english, and often have incomplete generations. Though with more data flowing in and the endOfText Token in Model Generation, we can check for incomplete sentences and get better responses.
 
 ## Problems / TODOs
 
@@ -54,10 +55,9 @@ I did not make the data dumps/corpuses that make up this data, and can't account
 * ### bigger models
      * try using huggingface methods, etc, to get up to gpt2-xl
 
-* ### Not having a clear answer and also continuing to generate an answer
+* ### Add a stop function like the OpenAI API
     
-    * While this effect is greatly reduced with more and better data, the model probably needs padding to set outputs to a certain size, and also probably a stop at a certain word function.
-    * Another Option Might also be to add an endOfText Token like EluthierAI models
+    * Add the function to stop at a certain word, to allow for the model to stop, so the human can respond.
 
 * ### Math
     
