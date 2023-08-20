@@ -1,3 +1,3 @@
 # Chat Dataset
 
-Labeled Chat dataset based of personality dataset on kaggle
+dataset based on multiple corpuses, see the whole list in the readme
