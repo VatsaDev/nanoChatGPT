@@ -549,3 +549,5 @@ Human: What is it that you like to make?<endOfText>
 Bot: Hmmmmm...
 ---------------
 ```
+
+20-8-23: standardized tokens, `<human>`, `<bot>` and `<endOfText>`
