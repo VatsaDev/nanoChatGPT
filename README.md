@@ -59,9 +59,9 @@ I did not make the data dumps/corpuses that make up this data, and can't account
     
     * Add the function to stop at a certain word, to allow for the model to stop, so the human can respond.
 
-* ### Math
+* ### Math and Logical Reasoning
     
-    * While mostly out of the scope of this model, the two main options are to detect math and run backend code, or train the model with Chain-of-though math prompting, which is probably more feasible
+    * While mostly out of the scope of this model, the two main options are to detect math and run backend code, or train the model with Chain-of-though math prompting, which is probably more feasible, For logical reasoning, I might try incorporating datasets like `garage-bAInd/Open-Platypus`, etc
     
 * ### no memory/recall
     
