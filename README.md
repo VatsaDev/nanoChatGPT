@@ -75,7 +75,10 @@ Bot: Yo,
     
     * While this effect is greatly reduced with more and better data, the model probably needs padding to set outputs to a certain size, and also probably a stop at a certain word function.
     * Another Option Might also be to add an <endOfText> Token like EluthierAI models
-        
+
+* ### Math
+    
+    * While mostly out of the scope of this model, the two main options are to detect math and run backend code, or train the model with Chain-of-though math prompting, which is probably more feasible
     
 * ### no memory/recall
     
