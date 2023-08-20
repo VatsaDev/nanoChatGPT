@@ -40,36 +40,19 @@ I did not make the databases that make up this database, and can't account for a
  - twitter Dumps corpus
  - Ubuntu dialog corpus
 
+## Features
+
+ * Medium Dataset(187mb) and growing
+ * Eariler the model would grow extremely repetitive after 15-30 tokens, now its pretty good 80 or less tokens. It would also also start repeating the bot prompt or replace it with human names, but with recent increases in data, it happens very rarely.
+
 ## Problems / TODOs
- * ### Very small dataset
-    
-    * Right now, the dataset is very small, the current data was just copy-paste conversions, and definitely needs to be automated
-        
-    
+
 * ### Very small conversations
     
     * Right now, the dataset used is made up of very small conversations, at best 8-10 sentences long, so including more medium-sized and large conversations is a necessity
-        
-    
-* ### Repetitive with larger amounts of tokens
-    
-    * While this effect is greatly reduced with prompting, it turns extremely repetitive when asked for more than 15-30 tokens. It can also start repeating the bot prompt or replace it with human names
 
 * ### bigger models
      * try using huggingface methods, etc, to get up to gpt2-xl
-    
-
-example:
-
-```plaintext
-Human: Hi, how are you? Bot: i'm good, how are you? Human: I'm good: where are you from? Bot: i live in seattle, seattle, seattle, seattle
-
-Bot: Hi, how are you? Bot: i'm good, how are you? Human: i live in seattle, seattle, seattle, seattle, seattle
-
-Bot: Hi, how are you? Bot: i'm good, how are you? Human: i live in seattle, seattle, seattle, seattle, seattle
-
-Bot: Yo,
-```
 
 * ### Not having a clear answer and also continuing to generate an answer
     
