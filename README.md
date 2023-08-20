@@ -74,7 +74,7 @@ Bot: Yo,
 * ### Not having a clear answer and also continuing to generate an answer
     
     * While this effect is greatly reduced with more and better data, the model probably needs padding to set outputs to a certain size, and also probably a stop at a certain word function.
-    * Another Option Might also be to add an <endOfText> Token like EluthierAI models
+    * Another Option Might also be to add an endOfText Token like EluthierAI models
 
 * ### Math
     
