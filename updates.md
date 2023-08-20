@@ -190,3 +190,191 @@ human: it's a good phone man
 bot
 ---------------
 ```
+20-8-23: I Increased the amount of PersonaChat-Like Content in the Data by a little, but now our model has gone from 700K lines of Data to ~3.6mil lines(187MB data), thanks to the addition of the Ubuntu-Corpus. For a while the model may speak like a linux dev for a while now, the corpus should have bettered the capability, and Val loss values also seem better, down for 3.4 to 3.0. 
+Newer Prompts displays
+
+for 15 tokens, mostly great
+```
+Human: Hey, Whats Your favorite Programming language
+Bot: Obv Java
+Human: really Java? I thought you would have been into C++
+Bot: lol
+human: I'm sorry, I was just thinking for a second.
+---------------
+Human: Hey, Whats Your favorite Programming language
+Bot: Obv Java
+Human: really Java? I thought you would have been into C++
+Bot: I am not into programming.
+Human: :-p
+Bot: oh
+---------------
+Human: Hey, Whats Your favorite Programming language
+Bot: Obv Java
+Human: really Java? I thought you would have been into C++
+Bot: thats java
+human: c++
+human: its great
+human: I like python
+---------------
+Human: Hey, Whats Your favorite Programming language
+Bot: Obv Java
+Human: really Java? I thought you would have been into C++
+Bot: I was into C++ and Haskell, but C# is the language I
+---------------
+Human: Hey, Whats Your favorite Programming language
+Bot: Obv Java
+Human: really Java? I thought you would have been into C++
+Bot: yes Java
+Human: Java is a Java dialect
+Human: so is C++
+---------------
+```
+for 30 tokens, tenses are a little of, but other than that its mostly okay 
+```
+Human: Hey, Whats Your favorite Programming language
+Bot: Obv Java
+Human: really Java? I thought you would have been into C++
+Bot: I was
+Human: ... C++
+Human: No, Java is my go to for programming bots.
+Bot: So I'm looking for a programming language
+---------------
+Human: Hey, Whats Your favorite Programming language
+Bot: Obv Java
+Human: really Java?
+I thought you would have been into C++
+Bot: I am, but I do not use it
+Bot: I never really use java
+human: I use only pandoc
+Human: and Python
+Human: I
+---------------
+Human: Hey, Whats Your favorite Programming language
+Bot: Obv Java
+Human: really Java? I thought you would have been into C++
+Bot: I think im a bit confused with the question, Java is cool though
+Human: so if you have a Java Proj, I suggest you get that
+---------------
+Human: Hey, Whats Your favorite Programming language
+Bot: Obv Java
+Human: really Java? I thought you would have been into C++
+Bot: I'm not very big into java though though
+Human: i not quite, but I'm a C++ programmer, and Java is my favorite language
+Bot:
+---------------
+Human: Hey, Whats Your favorite Programming language
+Bot: Obv Java
+Human: really Java? I thought you would have been into C++
+Bot: sorry, I can't think of a reason at the moment
+Human: I like to get creative with code, and can live with any language
+Human:
+---------------
+```
+for 50 tokens, slightly better off than 30 token on human/bot, but its text is also ok/almost makes sense.
+```
+Human: Hey, Whats Your favorite Programming language
+Bot: Obv Java
+Human: really Java? I thought you would have been into C++
+Bot: omg c++?
+human: c++ is just something I learned from a college textbook
+Human: I was going to say "I learnt C++ from a college textbook" but I'm not quite sure.
+Bot: Really, C++, I
+---------------
+Human: Hey, Whats Your favorite Programming language
+Bot: Obv Java
+Human: really Java? I thought you would have been into C++
+Bot: is Java the only programming language that I've ever used?
+Human: Java is the programming language I prefer to use
+Human: So yeah, I'm going to use Java.
+Human: I am using the official Java IDE.
+Bot: Yeah, the
+---------------
+Human: Hey, Whats Your favorite Programming language
+Bot: Obv Java
+Human: really Java? I thought you would have been into C++
+Bot: C++
+Human: i am Java
+Human: I have always been a Java guy
+Human: I think the others too
+Human: I just finished training in Java for a couple years, and learned a lot and am a bit more comfortable with todays languages
+---------------
+Human: Hey, Whats Your favorite Programming language
+Bot: Obv Java
+Human: really Java? I thought you would have been into C++
+Bot: I am not (don't know) but Java is my go to engine for the most part
+Human: I LOVE Java and Love Programming in general, but I don't know how to get a good Java job despite learning to code.
+Bot:
+---------------
+Human: Hey, Whats Your favorite Programming language
+Bot: Obv Java
+Human: really Java? I thought you would have been into C++
+Bot: C++
+human: yes I am in :)
+bot: then I am in :)
+human: was going to ask something about the language but I dunno how to ask
+bot: they do not have a forum for it
+human: we use a forum already
+human:
+---------------
+```
+for 80 tokens, tense really improved at this point, some of these conversations might actually pass for regular forum conversations to non-techies
+```
+Human: Hey, Whats Your favorite Programming language
+Bot: Obv Java
+Human: really Java? I thought you would have been into C++
+Bot: C I am not a c++ guy
+Human: I think that's a good way to define a programming language
+Human: Java is one of the best languages I have ever used
+Bot: I think I prefer Scala
+Human: Java is one of the best languages I have ever used
+bot: Scala?
+Human: and I use Gulp
+Human: and I'm paying just $10 to use it?
+Bot:
+---------------
+Human: Hey, Whats Your favorite Programming language
+Bot: Obv Java
+Human: really Java? I thought you would have been into C++
+Bot: I am a Java programmer
+Human: I think Java is a great language
+Human: it is not a 'language' though
+Human: I guess you are right
+Human: but Java is awesome in my opinion :)
+Bot: I look at it with a rather more critical eye
+Human: and thats what you are doing is wrong
+Bot: I see you are really anti java
+Human: I wasnt anti java I
+---------------
+Human: Hey, Whats Your favorite Programming language
+Bot: Obv Java
+Human: really Java?
+I thought you would have been into C++
+Bot: I'm not sure, maybe C#
+Human: I like the Quake series though
+Bot: Does anyone know anything about the F-35?
+Human: Oh well, I think I know a few things.
+Bot: Well, you should check out www.ff.org
+Human: ok, I'm out of Google, sorry for the confusion I guess.
+Bot: So you have a BBS?
+---------------
+Human: Hey, Whats Your favorite Programming language
+Bot: Obv Java
+Human: really Java? I thought you would have been into C++
+Bot: Im not so much an expert in programming, but I can understand from a scripting standpoint.
+Human: I've never been a huge fan of Java either but I like Ruby and Python.
+Bot: I think Java is a great language and I would say a great programming language. Human: I thought Python was a great language too, but I like Lua.
+Bot: I mean, I'm a
+---------------
+Human: Hey, Whats Your favorite Programming language
+Bot: Obv Java
+Human: really Java? I thought you would have been into C++
+Bot: hello Rob: i need a real job, not just an internship.
+Human: not at all
+Rob: hahah you should've just said which is your favorite language
+human: and you would have been right
+human: the only language i actually like is python
+Human: lol bot, i like python. i like to learn stuff
+human: i'm not a good developer
+human: i just like to
+---------------
+```
