@@ -8,15 +8,15 @@ a barebones Nanogpt, but finetuned on conversational data
 all updates in [updates.md](updates.md)
 ## how does it work?
 
-This is a fork of Nanogpt, but trained on the data format of a chatbot like chatgpt, with the format inspired by `redpajama-chat` 
+This is a fork of Nanogpt, but trained on the data format of a chatbot like chatgpt, with the format inspired by `oasst-pythia-12b` 
 
 ```
-Human: ...
-Bot: ...
-Human: ...
-Bot: ...
-Human: ...
-Bot: ...
+<human> ... <endOfText>
+<Bot> ... <endOfText>
+<human> ... <endOfText>
+<Bot> ... <endOfText>
+<human> ... <endOfText>
+<Bot> ... <endOfText>
 ```
 
 The training data is a cleaned up, conversational version of the PersonaChat Dataset, compressed into a single `input.txt`. It is trained on the gpt-2-medium model, as that was the best colab could handle. 
@@ -25,10 +25,10 @@ The training data is a cleaned up, conversational version of the PersonaChat Dat
 to view its capabilites, simply run the colab, the whole thing should take around ~5 minutes on a t4 instance. If you look at both outputs, you would notice the model definitly requires prompting, with the ideal prompting being
 
 ```
-Human: ...
-Bot: ...
-Human: ...
-Bot:
+<human> ... <endOfText>
+<Bot> ... <endOfText>
+<Human> ... <endOfText>
+<Bot>
 ```
 
 ## Limitations 
