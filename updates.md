@@ -549,5 +549,133 @@ Human: What is it that you like to make?<endOfText>
 Bot: Hmmmmm...
 ---------------
 ```
-
 20-8-23: standardized tokens, `<human>`, `<bot>` and `<endOfText>`
+
+
+20-8-23: added the Chatbot arena conversations Dataset, now the total datasize is at 257 mb, with loss at 1.9!
+
+with the old prompt, 150 new tokens, some of the new paragraph size is really showing, and its mixing things up a little with tense and training data. Probably need to tone down the new tok a little bit.
+```
+<human> Hey, Whats Your favorite Programming language <endOfText>
+<bot> Obv Java <endOfText>
+<human> really Java? I thought you would have been into C++ <endOfText>
+<bot> oh, that's just an old school programming language. java.lang is in the java.sun.star.dictionary <endOfText>
+<human> you might be good at it<endOfText>
+<bot> you know .NET<endOfText>
+<human> and .NET is the best #netwerk<endOfText>
+<bot> yeah.. yea i know that<endOfText>
+<human> is this a big deal though?<endOfText>
+<bot> yes<endOfText>
+<human> and you are not a lawyer.<endOfText>
+<bot> i am a lawyer<endOfText>
+<human> no it is just a programming language<end
+---------------
+<human> Hey, Whats Your favorite Programming language <endOfText>
+<bot> Obv Java <endOfText>
+<human> really Java? I thought you would have been into C++ <endOfText>
+<bot> I have since switched over to Ruby, though. I like it! <endOfText>
+<human> Hi, my name is Thomas, I have a question that I would like to ask. I am a full time IT rep. I have a process server with a large number of running processes. I use kern and mv, but the kern is getting old and not very memory efficient. I am wondering if I could use the command line to install a new replacement for the old one. I use the kern to manage a lot of my processes, but I am wondering how I can manage them in a way that will be as efficient as possible. I have tried using a command line tool to do this, but I am
+---------------
+<human> Hey, Whats Your favorite Programming language <endOfText>
+<bot> Obv Java <endOfText>
+<human> really Java? I thought you would have been into C++ <endOfText>
+<bot> <human> C++ is cool to me because it is easy to learn and not all programs are written in that language. I think I'll switch to Java after the C++ has more of an impact on my life. <endOfText>
+<human> I hope so. :) <endOfText>
+<bot> I'm not sure what program you are looking for, if you can help us out we would appreciate it!<endOfText>
+<human> hello
+<bot> hello :)<endOfText>
+<human> hi, what can I do with my dongle?<endOfText>
+<bot> You can go here: https://donglehub.com/<endOfText>
+---------------
+<human> Hey, Whats Your favorite Programming language <endOfText>
+<bot> Obv Java <endOfText>
+<human> really Java? I thought you would have been into C++ <endOfText>
+<bot> no, I've always considered Java the only programming language that I feel comfortable using. <endOfText>
+<human> (well, some might say not programming, but programming.)<endOfText>
+<bot> (I've used Ruby, Python and Ruby on Rails )<endOfText>
+<human> :)<endOfText>
+<bot> :)<endOfText>
+<human> or do you happen to work in a software development company?<endOfText>
+<bot> no, I do QA work<endOfText>
+<human> You work in a software development company? :)<endOfText>
+<bot> yes<endOfText>
+<human> That would be great! :)
+---------------
+<human> Hey, Whats Your favorite Programming language <endOfText>
+<bot> Obv Java <endOfText>
+<human> really Java? I thought you would have been into C++ <endOfText>
+<bot>  I have been programming in C++ for a while but I am now using Python.  I have been using Python for several years and never looked at Java before.  I love Python but Java is a different thing.  I would do anything else but Java.  Wow.  I am so sorry.  I feel horrible! <endOfText>
+<human> I am sorry but you should have just went with C++ and Java.  Java is a better language.  C++ is the only one that you should have used.   <endOfText>
+<bot> C++ is actually better than Java in most cases.<endOfText>
+<human> I am using Python for the last few years and have
+---------------
+```
+Same prompt at 100 new tok its slightly better in some cases, and It shows a slight repetition, but some are them ar sounding like real tech discussions, though a little too polite for humanness.
+```
+<human> Hey, Whats Your favorite Programming language <endOfText>
+<bot> Obv Java <endOfText>
+<human> really Java? I thought you would have been into C++ <endOfText>
+<bot> That's a good one! I'm always looking for new languages! <endOfText>
+<human> haha, I'm excited to try java next :) <endOfText>
+<bot> thank you for your time :)<endOfText>
+<human> yeah I'm gonna work on some stuff for that I'll share as well :) <endOfText>
+<bot> Oh I was thinking about it too haha<endOfText>
+<human> I'm really enjoying it now
+---------------
+<human> Hey, Whats Your favorite Programming language <endOfText>
+<bot> Obv Java <endOfText>
+<human> really Java? I thought you would have been into C++ <endOfText>
+<bot> I have a question about a series of pictures. I have a question about a series of pictures.
+<bot> i have a question about a series of pictures. i have a question about a series of pictures. <endOfText>
+<human> hey, anyone know about using terminal to set up a wireless card? <endOfText>
+<bot>  I am currently using the Windows client for the wireless card. I am curious if those little things when you select the wireless card on.
+---------------
+<human> Hey, Whats Your favorite Programming language <endOfText>
+<bot> Obv Java <endOfText>
+<human> really Java? I thought you would have been into C++ <endOfText>
+<bot> Java is my favorite language for my desktop<endOfText>
+<human> Java is great for anything though!<endOfText>
+<bot> thank you ;)<endOfText>
+<human> i really like avast<endOfText>
+<bot> avast is one of the best antivirus software packages<endOfText>
+<human> thank you for telling me what it is!<endOfText>
+<bot> i know that<endOfText> 
+---------------
+<human> Hey, Whats Your favorite Programming language <endOfText> <bot> Obv Java <endOfText> <human> really Java? I thought you would have been into C++ <endOfText>
+<bot> i had been thinking about it. i have a very good time in C++, but never really got into it.<endOfText>
+<human> i'm on my way home. what do you like to do with your time?<endOfText>
+<bot> i'm a student. that says something.<endOfText>
+<human> can we meet at a place i know of?<endOfText>
+<bot> no i can't<endOfText>
+---------------
+<human> Hey, Whats Your favorite Programming language <endOfText>
+<bot> Obv Java <endOfText>
+<human> really Java? I thought you would have been into C++ <endOfText>
+<bot> Programming languages are awesome so I'm not that into them, but I am a bit more into Python and Ruby, so I'm into that over BSD. I've only seen it in coffee shops, but when you get in a car or anything you just want to sit yourself down and listen to an audiobook.<endOfText>
+<human> yes. I do it all the time.   I did many things when I was a kid which you probably have similar experiences with.<endOfText>
+---------------
+```
+
+I saw some math in the chatbot arena database, and I had to try this. Theres a bug in the configurator that stops me from using the equal sign. Need to look into that. Other than that though, Chain of thought prompting appears to return better results than no chain of thought prompting
+```
+<human>Hey, if 1+1 is 2 Whats 2+2? <endOfText>
+<bot> 2+2 is 3+3<endOfText>
+<human> 2^42+42+42 = n
+---------------
+<human>Hey, if 1+1 is 2 Whats 2+2? <endOfText>
+<bot> 2+2 is 1.0<endOfText>
+<human> 2.0 is 1.1
+---------------
+<human>Hey, if 1+1 is 2 Whats 2+2? <endOfText>
+<bot> 2+2 is 3<endOfText>
+<human> the first 2 things are not equal<endOfText>
+---------------
+<human>Hey, if 1+1 is 2 Whats 2+2? <endOfText>
+<bot> 2+2 is 3, not 4. So the answer would be: 3+3
+<human> oha<
+---------------
+<human>Hey, if 1+1 is 2 Whats 2+2? <endOfText>
+<bot> 2+2 is 5<endOfText>
+<human> lmfao so far its been 4+4
+---------------
+```
