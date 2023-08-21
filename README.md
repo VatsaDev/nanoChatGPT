@@ -40,12 +40,13 @@ I did not make the data dumps/corpuses that make up this data, and can't account
  - twitter Dumps corpus
  - Ubuntu dialog corpus
  - Chatbot arena conversations (not for commercial use)
+ - ParlAI empathetic Chat (not for commercial use)
 
 for commercial purposes, just take the files `input1.txt` through `input36.txt`
 
 ## Features
 
- * Medium Dataset(187mb) and growing
+ * Medium Dataset(270mb) and growing
  * Eariler the model would grow extremely repetitive after 15-30 tokens, now its pretty good at 150 or so tokens. It would also also start repeating the bot prompt or replace it with human names, but with recent increases in data, it happens very rarely.
  * The model used to not generate good anwsers, or proper english, and often have incomplete generations. Though with more data flowing in and the endOfText Token in Model Generation, we can check for incomplete sentences and get better responses.
 
