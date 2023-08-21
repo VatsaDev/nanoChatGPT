@@ -610,7 +610,7 @@ with the old prompt, 150 new tokens, some of the new paragraph size is really sh
 <human> I am using Python for the last few years and have
 ---------------
 ```
-Same prompt at 100 new tok its slightly better in some cases, and It shows a slight repetition, but some are them ar sounding like real tech discussions, though a little too polite for humanness.
+Same prompt at 100 new tok its slightly better in some cases, and It shows a slight repetition, but some of them are sounding like real tech discussions, though a little too polite for humanness.
 ```
 <human> Hey, Whats Your favorite Programming language <endOfText>
 <bot> Obv Java <endOfText>
@@ -683,3 +683,124 @@ I saw some math in the chatbot arena database, and I had to try this. Theres a b
 21-8-23: the equal sign usage was a missing maxsplit for the '=' charecter. I've fixed the bug for this repository, and sent a PR to the main NanoGPT repo for it.
 
 21-8-23: Added the ParlAi Empathetic chat dataset
+
+21-8-23: Added the Hackernews Chat corpus, Loss has risen up to 2.7, but dataset size is at 419mb, with ~120 million tokens.
+
+trying to prompt it on HackerNews-like conversation, 100 new tokens, 150 new tokens is somewhat disjoint between all the data, good english, but it seems to start stiching and mixing together, combining hackernews data with other corpuses. There is also the fact that I have prompted it with far less than usual. 
+```
+<human> Whats RLHF?<endOfText>
+<bot> RLHF: Reinforcement Learning from Human Feedback, is  the new frontier of reinforcement learning.<endOfText>
+<human> just a bunch of people doing something while talking to each other where they talk without talking to each other<endOfText>
+<bot> I agree. For me, it's the best of both worlds.<endOfText>
+<human> is there a nice list of a few things you like to read?<endOfText>
+---------------
+<human> Whats RLHF?<endOfText>
+<bot> RLHF: Reinforcement Learning from Human Feedback, is  freely available from http://www.lrhb.org/<endOfText>
+<human>  This is certainly a nice example of how the AI seems to learn from the human.<endOfText>
+<bot>  Yes, it can. With a computer, the AI will learn to do just what you tell it to do and that is to ensure that it can get away with it. However, the AI is still learning and has to do some things it has never done before <endOfText>
+---------------
+<human> Whats RLHF?<endOfText>
+<bot> RLHF: Reinforcement Learning from Human Feedback, is  http://rsl.or.kr/~hrman/papers/reinforcement-learning-from-human-feedback-1.pdf<endOfText>
+<human> if it is illegal to do so to stop it, then why are some people doing it anyway?<endOfText>
+<bot> Also, as it says in the title of the article, I feel that the authors decided they would publish a paper that would get their name out there, but they
+---------------
+<human> Whats RLHF?<endOfText>
+<bot> RLHF: Reinforcement Learning from Human Feedback, is   a blog about algorithms and reinforcement learning provided by Matthew Robbins, where he describes how reinforcement learning can be applied to   large-scale training problems.<endOfText> <human> I wish I could show the user how to delete their web browser history. That is the whole point of having a browser, right?<endOfText>
+<bot> I like that word "digital" because it can be applied to a wide range of things.<endOfText>
+<human> why
+---------------
+<human> Whats RLHF?<endOfText>
+<bot> RLHF: Reinforcement Learning from Human Feedback, is  http://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback<endOfText>
+<human>  Its a really cool idea.  Have you seen the video I made for that when I was a kid about how the world was getting a lot more interesting and exciting?<endOfText>
+<bot>  Yes. That is one of the reasons why I started working with robots.  I did a lot of research about the topic and
+---------------
+```
+
+after trying it out with a slightly larger prompt than needed, 150tok, much better conversation, but anyone who knows a little about programming will see straight through this. 
+```
+<human> Hey, how are you doing?<endOfText>
+<bot> Good, wbu? <endOfText>
+<human> I'm good, just got a backend job at cisco <endOfText>
+<bot> Cisco? I work there as a web developer. <endOfText>
+<human> A web developer? sus. Whats Javascript? <endOfText>
+<bot> Javscript, is everything the same?<endOfText>
+<human> what? Javscript is a language that aims to be a much simpler and more verbose alternative to HTML<endOfText>
+<bot> Not sure, I think it was a language built for web development, but I never used it and I haven't used any of the other languages ever since. Java made me a programmer and C made me a web developer. But anyways if you can learn something new I'd say that code is what makes it all that fun.<endOfText>
+<human> I know what you're talking about, but I guess it's possible to be a web developer and also be a programmer, but that usually just boils down to the application being web related.<endOfText>
+---------------
+<human> Hey, how are you doing?<endOfText>
+<bot> Good, wbu? <endOfText>
+<human> I'm good, just got a backend job at cisco <endOfText>
+<bot> Cisco? I work there as a web developer. <endOfText>
+<human> A web developer? sus. Whats Javascript? <endOfText>
+<bot> Javscript, is simple, fast, fast. I like the syntax - easy to learn, easy to learn, easy to use. <endOfText>
+<human> Now to enjoy Javscript<endOfText>
+<bot> I did my own thing on the other side. Nice job :)<endOfText>
+<human> I know.. I was so surprised!<endOfText>
+<bot> I picked them all up..they are all good<endOfText>
+<human> Here are some of the prices for some of the items we have on sale..<endOfText>
+<bot> I noticed some of the more expensive items are not only more expensive than others.. but also have a more limited number of colors. I
+---------------
+<human> Hey, how are you doing?<endOfText>
+<bot> Good, wbu? <endOfText>
+<human> I'm good, just got a backend job at cisco <endOfText>
+<bot> Cisco? I work there as a web developer. <endOfText>
+<human> A web developer? sus. Whats Javascript? <endOfText>
+<bot> Javscript, is that the correct way to do things with CSS? <endOfText>
+<human> That's one of the most popular programming languages. I use it for a bit, but I want to try out C. <endOfText>
+<bot> I'm on IRC, and I'm really interested in learning more about ReactJS. While I'm not a great React guy, I'm also not a great UI developer either. But I think that there is a huge opportunity for UI design in React. And since I'm a UI guy, I'm mostly looking at UI/UX in React.<endOfText>
+<human> I've seen a lot of people asking "How do I get my cat to eat a cookie?"<p
+---------------
+<human> Hey, how are you doing?<endOfText>
+<bot> Good, wbu? <endOfText>
+<human> I'm good, just got a backend job at cisco <endOfText>
+<bot> Cisco? I work there as a web developer. <endOfText>
+<human> A web developer? sus. Whats Javascript? <endOfText>
+<bot> Javscript, is that the same as Java<endOfText>
+<human> What is the difference between the two?<endOfText>
+<human> I know Haskell, so I'm not familiar with Java, but the idea is pretty similar. I had a friend who used to work on x86 now, and he's amazing<endOfText>
+<bot> So what?<endOfText>
+<human> How is it different from Haskell in the sense that it is at the source level and has the same language?<endOfText> <bot> Haskell's code is compiled in a language that is optimized for the type of the program you're writing. <endOfText> <human> A lot of the time you are using a
+---------------
+<human> Hey, how are you doing?<endOfText>
+<bot> Good, wbu? <endOfText>
+<human> I'm good, just got a backend job at cisco <endOfText>
+<bot> Cisco? I work there as a web developer. <endOfText>
+<human> A web developer? sus. Whats Javascript? <endOfText>
+<bot> Javscript, is that better?<endOfText>
+<human> Javscript is a scripting language for JAVA. Adobe uses it for their Photoshop and Illustrator programs. <endOfText> <bot> I've been wanting to do that for a while now.  If you're interested, do me a favor and give me a call.  I love to talk to new people :)<endOfText>
+<human> I have some advice for you, and it's not necessarily for your specific problem.  It's based on the philosophy of the way I have taught myself. I believe that what you are trying to accomplish is a "service".  I believe that the service you are trying to deliver is a "user". <endOfText>
+---------------
+```
+testing bot short response 30tok, some responses are much better than others, but the `୧༼ಠ益ಠ༽୨` looked really cool
+```
+<human> Hey, how are you doing?<endOfText>
+<bot> Good, wbu? <endOfText><human> I'm good, where are you from?<endOfText>
+<bot>I'm in England, sorry, I'm a student.<endOfText>
+<human>       I
+---------------
+<human> Hey, how are you doing?<endOfText>
+<bot> Good, wbu? <endOfText>
+<human> I'm good, where are you from?<endOfText>
+<bot> <endOfText>
+<human> I'm from USA.                 
+---------------
+<human> Hey, how are you doing?<endOfText>
+<bot> Good, wbu? <endOfText>
+<human> I'm good, where are you from?<endOfText>
+<bot>  I am from Miami.<endOfText>
+<human> What do you do for a living?<endOfText>
+<bot>  I
+---------------
+<human> Hey, how are you doing?<endOfText>
+<bot> Good, wbu? <endOfText>
+<human> I'm good, where are you from?<endOfText>
+<bot> <endOfText>
+<human> is it true that the numbers in your video are also in the images?<endOfText>
+---------------
+<human> Hey, how are you doing?<endOfText>
+<bot> Good, wbu? <endOfText>
+<human> I'm good, where are you from?<endOfText>
+<bot> ୧༼ಠ益ಠ༽୨ ୧༼ಠ益� <endOfText>
+---------------
+```
