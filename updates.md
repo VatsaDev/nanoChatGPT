@@ -679,3 +679,5 @@ I saw some math in the chatbot arena database, and I had to try this. Theres a b
 <human> lmfao so far its been 4+4
 ---------------
 ```
+
+the equal sign usage was a missing maxsplit for the '=' charecter. I've fixed the bug for this repository, and sent a PR to the main NanoGPT repo for it.
