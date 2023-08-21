@@ -41,6 +41,7 @@ I did not make the data dumps/corpuses that make up this data, and can't account
  - Ubuntu dialog corpus
  - Chatbot arena conversations (not for commercial use)
  - ParlAI empathetic Chat (not for commercial use)
+ - Hackernews Dumps corpus
 
 for commercial purposes, just take the files `input1.txt` through `input36.txt`
 
