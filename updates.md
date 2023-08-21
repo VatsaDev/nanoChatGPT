@@ -680,4 +680,6 @@ I saw some math in the chatbot arena database, and I had to try this. Theres a b
 ---------------
 ```
 
-the equal sign usage was a missing maxsplit for the '=' charecter. I've fixed the bug for this repository, and sent a PR to the main NanoGPT repo for it.
+21-8-23: the equal sign usage was a missing maxsplit for the '=' charecter. I've fixed the bug for this repository, and sent a PR to the main NanoGPT repo for it.
+
+21-8-23: Added the ParlAi Empathetic chat dataset
