@@ -88,13 +88,11 @@ while True:
     #context = context+decode(start_ids)
     
     out = respond(start, num_samples)
-    print(out)
+    # Label removing 
+    out = out.replace('<human>',' ')
+    out = out.replace('<bot>',' ')
+    out = out.replace('<endOfText>',' ')
+    print(Bot: out)
 
     # old code
-    # text = text.replace(context,'') not working
     # context=context+text
-    # santize tokens from output code
-    # text = text.replace('<human>',' ')
-    # text = text.replace('<bot>',' ')
-    # text = text.replace('<endOfText>',' ')
-    # print('Bot:'+ text)
