@@ -84,7 +84,7 @@ def respond(input, samples): # generation function
 while True:
     # get input from user
     start_input = input('User: ')
-    start = '<human>'+start+'<endOfText><bot>'
+    start = '<human>'+start_input+'<endOfText><bot>'
     #context = context+decode(start_ids)
     
     out = respond(start, num_samples)
