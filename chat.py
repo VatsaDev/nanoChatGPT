@@ -49,6 +49,7 @@ model.to(device)
 if compile:
     model = torch.compile(model) # requires PyTorch 2.0 (optional)
 
+# -- remove this
 # look for the meta pickle in case it is available in the dataset folder
 load_meta = False
 if init_from == 'resume' and 'config' in checkpoint and 'dataset' in checkpoint['config']: # older checkpoints might not have these...
@@ -62,7 +63,7 @@ if load_meta:
     stoi, itos = meta['stoi'], meta['itos']
     encode = lambda s: [stoi[c] for c in s]
     decode = lambda l: ''.join([itos[i] for i in l])
-else:
+else: # --
     # ok let's assume gpt-2 encodings by default
     print("No meta.pkl found, assuming GPT-2 encodings...")
     enc = tiktoken.get_encoding("gpt2")
@@ -80,7 +81,7 @@ def respond(input, samples): # generation function
                 text = 'some string... this part will be removed.'
                 output =  output.partition('<human>')
                 output[0] =  output.rpartition('<endOftext>')
-                output = output[0] 
+                output = output[0] + output[1]
                 return output
 
 # re-add context functionality
