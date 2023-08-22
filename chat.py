@@ -83,4 +83,5 @@ while True:
             for k in range(num_samples):
                 y = model.generate(x, max_new_tokens, temperature=temperature, top_k=top_k)
                 text = decode(y[0].tolist())
+                text.replace(start_ids,'')
                 print(text)
