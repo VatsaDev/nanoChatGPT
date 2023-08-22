@@ -10,7 +10,7 @@ from model import GPTConfig, GPT
 
 # -----------------------------------------------------------------------------
 init_from = 'resume' # our finetuned model
-out_dir = 'out' # ignored if init_from is not 'resume'
+out_dir = 'out-chat' # where finetuned model lives
 num_samples = 1 # no samples. 1 for 1 chat at a time
 max_new_tokens = 50 
 temperature = 0.9 
@@ -18,7 +18,6 @@ top_k = 150 # retain only the top_k most likely tokens, clamp others to have 0 p
 device = 'cuda' # examples: 'cpu', 'cuda', 'cuda:0', 'cuda:1', etc.
 dtype = 'bfloat16' if torch.cuda.is_available() and torch.cuda.is_bf16_supported() else 'float16' # 'float32' or 'bfloat16' or 'float16'
 compile = False # use PyTorch 2.0 to compile the model to be faster
-exec(open('configurator.py').read()) # overrides from command line or config file
 # -----------------------------------------------------------------------------
 
 torch.backends.cuda.matmul.allow_tf32 = True # allow tf32 on matmul
