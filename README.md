@@ -48,15 +48,16 @@ for commercial purposes, just take the files `input1.txt` through `input36.txt`
 
 ## Features
 
- * Medium Dataset(270mb) and growing
- * Eariler the model would grow extremely repetitive after 15-30 tokens, now its pretty good at 150 or so tokens. It would also also start repeating the bot prompt or replace it with human names, but with recent increases in data, it happens very rarely.
- * The model used to not generate good anwsers, or proper english, and often have incomplete generations. Though with more data flowing in and the endOfText Token in Model Generation, we can check for incomplete sentences and get better responses.
+ * Medium Dataset(~300mb)
+ * Pretty fast inference, even 200 tokens or more.
+ * Proper English, and mostly stays on topic with good prompting
+ * Rudimentary user to bot chat
 
 ## Problems / TODOs
 
-* ### Very small conversations
+* ### Better conversations
     
-    * Right now, the dataset used is made up of very small conversations, at best 8-10 sentences long, so including more medium-sized and large conversations is a necessity
+    * Right now, the dataset used is made up of a variety of conversations, not really designed to be used by the Bot. Probably needs some sort of rudimentary RLHF
 
 * ### bigger models
      * try using huggingface methods, etc, to get up to gpt2-xl
@@ -67,11 +68,11 @@ for commercial purposes, just take the files `input1.txt` through `input36.txt`
 
 * ### Math and Logical Reasoning
     
-    * While mostly out of the scope of this model, the two main options are to detect math and run backend code, or train the model with Chain-of-though math prompting, which is probably more feasible, For logical reasoning, I might try incorporating datasets like `garage-bAInd/Open-Platypus`, etc
+    * While mostly out of the scope of this model, this is something for future models, the two main options are to detect math and run backend code, or train the model with Chain-of-though math prompting, which is probably more feasible, For logical reasoning, I might try incorporating datasets like `garage-bAInd/Open-Platypus`, etc
     
 * ### no memory/recall
     
-    * With many models, you can ask what you were just talking about or to summarize the conversation above. When that is attempted with this model:
+    * Though probably out of scope for this model, this is something for future models, With many models, you can ask what you were just talking about or to summarize the conversation above. When that is attempted with this model:
         
         ```plaintext
         Human: Dogecoin is cool 
