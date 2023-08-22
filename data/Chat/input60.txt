@@ -1,0 +1,4000 @@
+<human>What is (9 + 8) * 2?<endOfText>
+<bot> 34<endOfText>
+<human>What is (4 - 7) - 3?<endOfText>
+<bot> -6<endOfText>
+<human>What is (1 - 5) - 6?<endOfText>
+<bot> -10<endOfText>
+<human>What is (1 - 9) * 5?<endOfText>
+<bot> -40<endOfText>
+<human>What is (4 * 4) * 1?<endOfText>
+<bot> 16<endOfText>
+<human>What is (8 + 3) * 5?<endOfText>
+<bot> 55<endOfText>
+<human>What is (7 + 5) - 6?<endOfText>
+<bot> 6<endOfText>
+<human>What is (2 - 8) - 4?<endOfText>
+<bot> -10<endOfText>
+<human>What is (2 * 4) * 6?<endOfText>
+<bot> 48<endOfText>
+<human>What is (3 - 4) - 1?<endOfText>
+<bot> -2<endOfText>
+<human>What is (3 + 8) * 8?<endOfText>
+<bot> 88<endOfText>
+<human>What is (5 - 9) * 3?<endOfText>
+<bot> -12<endOfText>
+<human>What is (3 * 5) + 7?<endOfText>
+<bot> 22<endOfText>
+<human>What is (5 + 4) * 7?<endOfText>
+<bot> 63<endOfText>
+<human>What is (2 + 5) + 3?<endOfText>
+<bot> 10<endOfText>
+<human>What is (7 * 5) - 4?<endOfText>
+<bot> 31<endOfText>
+<human>What is (5 - 1) * 6?<endOfText>
+<bot> 24<endOfText>
+<human>What is (1 * 5) * 7?<endOfText>
+<bot> 35<endOfText>
+<human>What is (5 - 1) * 7?<endOfText>
+<bot> 28<endOfText>
+<human>What is (5 + 1) + 1?<endOfText>
+<bot> 7<endOfText>
+<human>What is (4 * 9) + 2?<endOfText>
+<bot> 38<endOfText>
+<human>What is (2 - 6) * 2?<endOfText>
+<bot> -8<endOfText>
+<human>What is (2 + 5) - 1?<endOfText>
+<bot> 6<endOfText>
+<human>What is (9 + 5) * 4?<endOfText>
+<bot> 56<endOfText>
+<human>What is (2 - 3) - 2?<endOfText>
+<bot> -3<endOfText>
+<human>What is (1 - 3) + 9?<endOfText>
+<bot> 7<endOfText>
+<human>What is (8 * 2) + 8?<endOfText>
+<bot> 24<endOfText>
+<human>What is (1 + 5) * 3?<endOfText>
+<bot> 18<endOfText>
+<human>What is (6 - 4) + 5?<endOfText>
+<bot> 7<endOfText>
+<human>What is (5 - 4) - 9?<endOfText>
+<bot> -8<endOfText>
+<human>What is (2 + 4) - 1?<endOfText>
+<bot> 5<endOfText>
+<human>What is (9 - 4) + 9?<endOfText>
+<bot> 14<endOfText>
+<human>What is (1 - 2) * 8?<endOfText>
+<bot> -8<endOfText>
+<human>What is (1 * 8) - 9?<endOfText>
+<bot> -1<endOfText>
+<human>What is (4 * 7) + 2?<endOfText>
+<bot> 30<endOfText>
+<human>What is (4 + 8) - 9?<endOfText>
+<bot> 3<endOfText>
+<human>What is (4 + 1) + 7?<endOfText>
+<bot> 12<endOfText>
+<human>What is (3 - 7) + 6?<endOfText>
+<bot> 2<endOfText>
+<human>What is (5 - 9) * 8?<endOfText>
+<bot> -32<endOfText>
+<human>What is (9 + 9) - 2?<endOfText>
+<bot> 16<endOfText>
+<human>What is (1 - 9) - 2?<endOfText>
+<bot> -10<endOfText>
+<human>What is (7 - 4) - 1?<endOfText>
+<bot> 2<endOfText>
+<human>What is (3 * 5) + 8?<endOfText>
+<bot> 23<endOfText>
+<human>What is (1 - 5) * 4?<endOfText>
+<bot> -16<endOfText>
+<human>What is (2 * 6) - 7?<endOfText>
+<bot> 5<endOfText>
+<human>What is (1 * 5) - 8?<endOfText>
+<bot> -3<endOfText>
+<human>What is (6 * 5) - 2?<endOfText>
+<bot> 28<endOfText>
+<human>What is (3 * 4) - 8?<endOfText>
+<bot> 4<endOfText>
+<human>What is (8 + 9) + 8?<endOfText>
+<bot> 25<endOfText>
+<human>What is (7 * 7) - 2?<endOfText>
+<bot> 47<endOfText>
+<human>What is (6 - 5) + 7?<endOfText>
+<bot> 8<endOfText>
+<human>What is (5 - 6) * 4?<endOfText>
+<bot> -4<endOfText>
+<human>What is (2 * 7) - 7?<endOfText>
+<bot> 7<endOfText>
+<human>What is (1 * 1) + 6?<endOfText>
+<bot> 7<endOfText>
+<human>What is (6 + 6) + 1?<endOfText>
+<bot> 13<endOfText>
+<human>What is (7 + 5) + 5?<endOfText>
+<bot> 17<endOfText>
+<human>What is (3 + 7) - 6?<endOfText>
+<bot> 4<endOfText>
+<human>What is (5 + 3) * 4?<endOfText>
+<bot> 32<endOfText>
+<human>What is (8 * 9) + 8?<endOfText>
+<bot> 80<endOfText>
+<human>What is (5 * 5) * 2?<endOfText>
+<bot> 50<endOfText>
+<human>What is (2 * 7) + 2?<endOfText>
+<bot> 16<endOfText>
+<human>What is (8 * 3) + 4?<endOfText>
+<bot> 28<endOfText>
+<human>What is (6 + 3) - 5?<endOfText>
+<bot> 4<endOfText>
+<human>What is (3 * 2) + 1?<endOfText>
+<bot> 7<endOfText>
+<human>What is (5 + 8) + 7?<endOfText>
+<bot> 20<endOfText>
+<human>What is (8 * 8) - 1?<endOfText>
+<bot> 63<endOfText>
+<human>What is (7 + 5) + 3?<endOfText>
+<bot> 15<endOfText>
+<human>What is (7 * 8) - 1?<endOfText>
+<bot> 55<endOfText>
+<human>What is (1 + 6) - 9?<endOfText>
+<bot> -2<endOfText>
+<human>What is (5 - 1) - 9?<endOfText>
+<bot> -5<endOfText>
+<human>What is (6 - 5) * 3?<endOfText>
+<bot> 3<endOfText>
+<human>What is (3 * 8) * 2?<endOfText>
+<bot> 48<endOfText>
+<human>What is (8 * 7) * 1?<endOfText>
+<bot> 56<endOfText>
+<human>What is (4 + 1) * 6?<endOfText>
+<bot> 30<endOfText>
+<human>What is (8 - 9) + 8?<endOfText>
+<bot> 7<endOfText>
+<human>What is (7 + 9) + 5?<endOfText>
+<bot> 21<endOfText>
+<human>What is (7 * 8) + 4?<endOfText>
+<bot> 60<endOfText>
+<human>What is (7 - 6) * 7?<endOfText>
+<bot> 7<endOfText>
+<human>What is (6 * 7) - 7?<endOfText>
+<bot> 35<endOfText>
+<human>What is (7 - 7) + 3?<endOfText>
+<bot> 3<endOfText>
+<human>What is (4 * 6) - 9?<endOfText>
+<bot> 15<endOfText>
+<human>What is (2 - 7) * 9?<endOfText>
+<bot> -45<endOfText>
+<human>What is (3 + 8) * 3?<endOfText>
+<bot> 33<endOfText>
+<human>What is (3 + 4) * 8?<endOfText>
+<bot> 56<endOfText>
+<human>What is (4 + 9) * 7?<endOfText>
+<bot> 91<endOfText>
+<human>What is (2 + 3) * 5?<endOfText>
+<bot> 25<endOfText>
+<human>What is (1 * 4) - 2?<endOfText>
+<bot> 2<endOfText>
+<human>What is (4 - 4) - 6?<endOfText>
+<bot> -6<endOfText>
+<human>What is (4 + 7) + 3?<endOfText>
+<bot> 14<endOfText>
+<human>What is (9 + 5) * 8?<endOfText>
+<bot> 112<endOfText>
+<human>What is (3 - 6) * 7?<endOfText>
+<bot> -21<endOfText>
+<human>What is (8 - 9) * 3?<endOfText>
+<bot> -3<endOfText>
+<human>What is (7 - 9) + 1?<endOfText>
+<bot> -1<endOfText>
+<human>What is (8 * 7) + 2?<endOfText>
+<bot> 58<endOfText>
+<human>What is (6 * 9) - 1?<endOfText>
+<bot> 53<endOfText>
+<human>What is (2 - 6) - 7?<endOfText>
+<bot> -11<endOfText>
+<human>What is (1 * 5) * 6?<endOfText>
+<bot> 30<endOfText>
+<human>What is (7 - 3) - 3?<endOfText>
+<bot> 1<endOfText>
+<human>What is (8 - 1) + 8?<endOfText>
+<bot> 15<endOfText>
+<human>What is (3 - 2) + 6?<endOfText>
+<bot> 7<endOfText>
+<human>What is (6 - 3) - 2?<endOfText>
+<bot> 1<endOfText>
+<human>What is (8 - 2) + 2?<endOfText>
+<bot> 8<endOfText>
+<human>What is (7 + 2) - 4?<endOfText>
+<bot> 5<endOfText>
+<human>What is (5 * 1) + 6?<endOfText>
+<bot> 11<endOfText>
+<human>What is (5 * 4) + 5?<endOfText>
+<bot> 25<endOfText>
+<human>What is (2 - 1) - 1?<endOfText>
+<bot> 0<endOfText>
+<human>What is (2 * 7) + 5?<endOfText>
+<bot> 19<endOfText>
+<human>What is (5 * 2) - 8?<endOfText>
+<bot> 2<endOfText>
+<human>What is (2 + 6) * 2?<endOfText>
+<bot> 16<endOfText>
+<human>What is (1 + 9) * 4?<endOfText>
+<bot> 40<endOfText>
+<human>What is (6 - 8) - 5?<endOfText>
+<bot> -7<endOfText>
+<human>What is (9 * 3) - 2?<endOfText>
+<bot> 25<endOfText>
+<human>What is (7 * 1) - 1?<endOfText>
+<bot> 6<endOfText>
+<human>What is (8 * 8) * 8?<endOfText>
+<bot> 512<endOfText>
+<human>What is (3 - 2) - 5?<endOfText>
+<bot> -4<endOfText>
+<human>What is (9 + 9) * 2?<endOfText>
+<bot> 36<endOfText>
+<human>What is (9 * 2) + 4?<endOfText>
+<bot> 22<endOfText>
+<human>What is (3 * 7) + 4?<endOfText>
+<bot> 25<endOfText>
+<human>What is (8 + 4) * 2?<endOfText>
+<bot> 24<endOfText>
+<human>What is (5 + 8) * 6?<endOfText>
+<bot> 78<endOfText>
+<human>What is (5 * 7) - 4?<endOfText>
+<bot> 31<endOfText>
+<human>What is (2 * 9) - 1?<endOfText>
+<bot> 17<endOfText>
+<human>What is (1 * 2) + 9?<endOfText>
+<bot> 11<endOfText>
+<human>What is (4 + 2) + 5?<endOfText>
+<bot> 11<endOfText>
+<human>What is (4 - 6) * 3?<endOfText>
+<bot> -6<endOfText>
+<human>What is (1 + 7) - 1?<endOfText>
+<bot> 7<endOfText>
+<human>What is (9 + 2) + 9?<endOfText>
+<bot> 20<endOfText>
+<human>What is (3 - 4) - 9?<endOfText>
+<bot> -10<endOfText>
+<human>What is (4 * 1) * 1?<endOfText>
+<bot> 4<endOfText>
+<human>What is (3 + 3) + 3?<endOfText>
+<bot> 9<endOfText>
+<human>What is (9 + 2) - 7?<endOfText>
+<bot> 4<endOfText>
+<human>What is (7 - 3) * 6?<endOfText>
+<bot> 24<endOfText>
+<human>What is (8 + 8) * 5?<endOfText>
+<bot> 80<endOfText>
+<human>What is (5 * 7) + 5?<endOfText>
+<bot> 40<endOfText>
+<human>What is (5 - 3) * 5?<endOfText>
+<bot> 10<endOfText>
+<human>What is (5 - 8) * 4?<endOfText>
+<bot> -12<endOfText>
+<human>What is (3 + 5) * 6?<endOfText>
+<bot> 48<endOfText>
+<human>What is (6 * 9) + 2?<endOfText>
+<bot> 56<endOfText>
+<human>What is (2 + 7) + 5?<endOfText>
+<bot> 14<endOfText>
+<human>What is (7 + 4) + 7?<endOfText>
+<bot> 18<endOfText>
+<human>What is (8 + 9) - 5?<endOfText>
+<bot> 12<endOfText>
+<human>What is (8 + 2) + 1?<endOfText>
+<bot> 11<endOfText>
+<human>What is (3 * 9) * 8?<endOfText>
+<bot> 216<endOfText>
+<human>What is (7 + 1) + 4?<endOfText>
+<bot> 12<endOfText>
+<human>What is (5 - 9) + 1?<endOfText>
+<bot> -3<endOfText>
+<human>What is (2 - 6) * 5?<endOfText>
+<bot> -20<endOfText>
+<human>What is (5 - 7) - 1?<endOfText>
+<bot> -3<endOfText>
+<human>What is (1 * 6) * 3?<endOfText>
+<bot> 18<endOfText>
+<human>What is (9 + 8) - 3?<endOfText>
+<bot> 14<endOfText>
+<human>What is (6 - 4) * 8?<endOfText>
+<bot> 16<endOfText>
+<human>What is (4 + 4) + 6?<endOfText>
+<bot> 14<endOfText>
+<human>What is (5 - 1) * 5?<endOfText>
+<bot> 20<endOfText>
+<human>What is (4 - 9) * 2?<endOfText>
+<bot> -10<endOfText>
+<human>What is (5 * 6) - 3?<endOfText>
+<bot> 27<endOfText>
+<human>What is (5 - 2) * 1?<endOfText>
+<bot> 3<endOfText>
+<human>What is (9 - 7) - 4?<endOfText>
+<bot> -2<endOfText>
+<human>What is (1 * 6) * 8?<endOfText>
+<bot> 48<endOfText>
+<human>What is (3 + 2) * 4?<endOfText>
+<bot> 20<endOfText>
+<human>What is (4 * 5) + 5?<endOfText>
+<bot> 25<endOfText>
+<human>What is (2 * 8) * 2?<endOfText>
+<bot> 32<endOfText>
+<human>What is (5 * 5) + 8?<endOfText>
+<bot> 33<endOfText>
+<human>What is (4 + 4) * 1?<endOfText>
+<bot> 8<endOfText>
+<human>What is (3 * 9) * 3?<endOfText>
+<bot> 81<endOfText>
+<human>What is (6 - 2) - 5?<endOfText>
+<bot> -1<endOfText>
+<human>What is (2 - 2) + 9?<endOfText>
+<bot> 9<endOfText>
+<human>What is (3 + 5) - 2?<endOfText>
+<bot> 6<endOfText>
+<human>What is (7 * 6) * 9?<endOfText>
+<bot> 378<endOfText>
+<human>What is (4 * 2) - 3?<endOfText>
+<bot> 5<endOfText>
+<human>What is (1 - 3) + 7?<endOfText>
+<bot> 5<endOfText>
+<human>What is (7 + 3) * 7?<endOfText>
+<bot> 70<endOfText>
+<human>What is (6 + 9) - 4?<endOfText>
+<bot> 11<endOfText>
+<human>What is (3 - 2) * 9?<endOfText>
+<bot> 9<endOfText>
+<human>What is (9 * 9) * 9?<endOfText>
+<bot> 729<endOfText>
+<human>What is (2 * 5) - 9?<endOfText>
+<bot> 1<endOfText>
+<human>What is (6 * 3) * 1?<endOfText>
+<bot> 18<endOfText>
+<human>What is (9 + 1) - 8?<endOfText>
+<bot> 2<endOfText>
+<human>What is (6 * 4) * 6?<endOfText>
+<bot> 144<endOfText>
+<human>What is (4 * 7) + 3?<endOfText>
+<bot> 31<endOfText>
+<human>What is (4 - 5) - 8?<endOfText>
+<bot> -9<endOfText>
+<human>What is (4 * 5) + 4?<endOfText>
+<bot> 24<endOfText>
+<human>What is (7 * 5) * 8?<endOfText>
+<bot> 280<endOfText>
+<human>What is (1 * 5) + 9?<endOfText>
+<bot> 14<endOfText>
+<human>What is (9 - 7) * 4?<endOfText>
+<bot> 8<endOfText>
+<human>What is (9 * 2) * 4?<endOfText>
+<bot> 72<endOfText>
+<human>What is (7 - 1) * 2?<endOfText>
+<bot> 12<endOfText>
+<human>What is (8 + 4) - 5?<endOfText>
+<bot> 7<endOfText>
+<human>What is (8 + 7) * 2?<endOfText>
+<bot> 30<endOfText>
+<human>What is (3 * 6) + 2?<endOfText>
+<bot> 20<endOfText>
+<human>What is (4 * 3) + 4?<endOfText>
+<bot> 16<endOfText>
+<human>What is (3 - 4) - 6?<endOfText>
+<bot> -7<endOfText>
+<human>What is (9 - 1) - 5?<endOfText>
+<bot> 3<endOfText>
+<human>What is (5 - 5) * 1?<endOfText>
+<bot> 0<endOfText>
+<human>What is (8 - 1) + 4?<endOfText>
+<bot> 11<endOfText>
+<human>What is (5 + 3) * 5?<endOfText>
+<bot> 40<endOfText>
+<human>What is (2 - 1) + 6?<endOfText>
+<bot> 7<endOfText>
+<human>What is (4 - 9) * 5?<endOfText>
+<bot> -25<endOfText>
+<human>What is (4 + 7) - 4?<endOfText>
+<bot> 7<endOfText>
+<human>What is (5 - 4) * 6?<endOfText>
+<bot> 6<endOfText>
+<human>What is (8 - 9) - 3?<endOfText>
+<bot> -4<endOfText>
+<human>What is (1 + 7) * 6?<endOfText>
+<bot> 48<endOfText>
+<human>What is (6 - 2) - 9?<endOfText>
+<bot> -5<endOfText>
+<human>What is (6 - 6) - 9?<endOfText>
+<bot> -9<endOfText>
+<human>What is (8 - 6) * 5?<endOfText>
+<bot> 10<endOfText>
+<human>What is (6 + 7) * 3?<endOfText>
+<bot> 39<endOfText>
+<human>What is (6 - 6) * 3?<endOfText>
+<bot> 0<endOfText>
+<human>What is (6 + 7) - 9?<endOfText>
+<bot> 4<endOfText>
+<human>What is (5 + 3) * 7?<endOfText>
+<bot> 56<endOfText>
+<human>What is (4 - 5) * 4?<endOfText>
+<bot> -4<endOfText>
+<human>What is (9 - 6) - 4?<endOfText>
+<bot> -1<endOfText>
+<human>What is (1 * 7) - 4?<endOfText>
+<bot> 3<endOfText>
+<human>What is (5 - 5) - 4?<endOfText>
+<bot> -4<endOfText>
+<human>What is (2 * 3) - 9?<endOfText>
+<bot> -3<endOfText>
+<human>What is (4 * 5) * 9?<endOfText>
+<bot> 180<endOfText>
+<human>What is (4 - 7) * 3?<endOfText>
+<bot> -9<endOfText>
+<human>What is (2 - 7) - 4?<endOfText>
+<bot> -9<endOfText>
+<human>What is (9 + 6) + 5?<endOfText>
+<bot> 20<endOfText>
+<human>What is (8 - 2) + 1?<endOfText>
+<bot> 7<endOfText>
+<human>What is (3 + 6) + 9?<endOfText>
+<bot> 18<endOfText>
+<human>What is (7 * 7) - 6?<endOfText>
+<bot> 43<endOfText>
+<human>What is (6 - 2) + 4?<endOfText>
+<bot> 8<endOfText>
+<human>What is (4 * 9) * 8?<endOfText>
+<bot> 288<endOfText>
+<human>What is (1 * 2) * 9?<endOfText>
+<bot> 18<endOfText>
+<human>What is (2 + 4) * 1?<endOfText>
+<bot> 6<endOfText>
+<human>What is (7 + 1) - 8?<endOfText>
+<bot> 0<endOfText>
+<human>What is (5 * 5) + 1?<endOfText>
+<bot> 26<endOfText>
+<human>What is (5 + 3) - 6?<endOfText>
+<bot> 2<endOfText>
+<human>What is (1 + 2) * 1?<endOfText>
+<bot> 3<endOfText>
+<human>What is (6 * 9) * 7?<endOfText>
+<bot> 378<endOfText>
+<human>What is (7 + 5) * 4?<endOfText>
+<bot> 48<endOfText>
+<human>What is (1 * 6) + 6?<endOfText>
+<bot> 12<endOfText>
+<human>What is (4 * 5) - 6?<endOfText>
+<bot> 14<endOfText>
+<human>What is (3 + 3) * 6?<endOfText>
+<bot> 36<endOfText>
+<human>What is (6 * 3) * 2?<endOfText>
+<bot> 36<endOfText>
+<human>What is (4 + 6) * 2?<endOfText>
+<bot> 20<endOfText>
+<human>What is (7 - 5) * 7?<endOfText>
+<bot> 14<endOfText>
+<human>What is (2 * 9) + 1?<endOfText>
+<bot> 19<endOfText>
+<human>What is (3 * 8) * 5?<endOfText>
+<bot> 120<endOfText>
+<human>What is (8 * 9) * 9?<endOfText>
+<bot> 648<endOfText>
+<human>What is (3 * 7) - 6?<endOfText>
+<bot> 15<endOfText>
+<human>What is (7 - 4) + 4?<endOfText>
+<bot> 7<endOfText>
+<human>What is (6 + 6) - 4?<endOfText>
+<bot> 8<endOfText>
+<human>What is (5 + 5) * 1?<endOfText>
+<bot> 10<endOfText>
+<human>What is (7 - 3) + 9?<endOfText>
+<bot> 13<endOfText>
+<human>What is (9 + 2) + 5?<endOfText>
+<bot> 16<endOfText>
+<human>What is (9 - 4) + 6?<endOfText>
+<bot> 11<endOfText>
+<human>What is (5 + 4) + 4?<endOfText>
+<bot> 13<endOfText>
+<human>What is (3 + 4) * 7?<endOfText>
+<bot> 49<endOfText>
+<human>What is (1 - 6) + 2?<endOfText>
+<bot> -3<endOfText>
+<human>What is (2 * 1) - 1?<endOfText>
+<bot> 1<endOfText>
+<human>What is (6 - 3) * 1?<endOfText>
+<bot> 3<endOfText>
+<human>What is (8 * 3) * 5?<endOfText>
+<bot> 120<endOfText>
+<human>What is (7 + 6) + 2?<endOfText>
+<bot> 15<endOfText>
+<human>What is (1 - 5) - 3?<endOfText>
+<bot> -7<endOfText>
+<human>What is (4 - 9) * 7?<endOfText>
+<bot> -35<endOfText>
+<human>What is (3 - 2) - 1?<endOfText>
+<bot> 0<endOfText>
+<human>What is (8 - 1) + 2?<endOfText>
+<bot> 9<endOfText>
+<human>What is (4 * 1) - 3?<endOfText>
+<bot> 1<endOfText>
+<human>What is (5 + 9) * 8?<endOfText>
+<bot> 112<endOfText>
+<human>What is (1 - 2) - 1?<endOfText>
+<bot> -2<endOfText>
+<human>What is (5 * 6) * 7?<endOfText>
+<bot> 210<endOfText>
+<human>What is (4 + 3) + 8?<endOfText>
+<bot> 15<endOfText>
+<human>What is (9 * 6) - 2?<endOfText>
+<bot> 52<endOfText>
+<human>What is (8 + 7) - 3?<endOfText>
+<bot> 12<endOfText>
+<human>What is (7 - 6) - 9?<endOfText>
+<bot> -8<endOfText>
+<human>What is (3 - 6) * 6?<endOfText>
+<bot> -18<endOfText>
+<human>What is (8 * 1) * 8?<endOfText>
+<bot> 64<endOfText>
+<human>What is (4 + 5) - 1?<endOfText>
+<bot> 8<endOfText>
+<human>What is (6 + 1) + 1?<endOfText>
+<bot> 8<endOfText>
+<human>What is (1 * 6) - 8?<endOfText>
+<bot> -2<endOfText>
+<human>What is (1 + 5) * 2?<endOfText>
+<bot> 12<endOfText>
+<human>What is (1 * 4) * 9?<endOfText>
+<bot> 36<endOfText>
+<human>What is (7 - 5) * 1?<endOfText>
+<bot> 2<endOfText>
+<human>What is (8 * 4) + 3?<endOfText>
+<bot> 35<endOfText>
+<human>What is (1 * 4) + 7?<endOfText>
+<bot> 11<endOfText>
+<human>What is (3 + 5) * 7?<endOfText>
+<bot> 56<endOfText>
+<human>What is (1 + 2) - 4?<endOfText>
+<bot> -1<endOfText>
+<human>What is (3 + 9) + 7?<endOfText>
+<bot> 19<endOfText>
+<human>What is (3 + 9) + 3?<endOfText>
+<bot> 15<endOfText>
+<human>What is (9 + 6) * 2?<endOfText>
+<bot> 30<endOfText>
+<human>What is (2 - 5) + 2?<endOfText>
+<bot> -1<endOfText>
+<human>What is (9 - 2) * 9?<endOfText>
+<bot> 63<endOfText>
+<human>What is (3 + 6) - 7?<endOfText>
+<bot> 2<endOfText>
+<human>What is (7 * 5) - 1?<endOfText>
+<bot> 34<endOfText>
+<human>What is (5 + 9) - 5?<endOfText>
+<bot> 9<endOfText>
+<human>What is (1 + 4) * 5?<endOfText>
+<bot> 25<endOfText>
+<human>What is (5 * 6) + 5?<endOfText>
+<bot> 35<endOfText>
+<human>What is (3 - 3) + 2?<endOfText>
+<bot> 2<endOfText>
+<human>What is (2 - 9) - 7?<endOfText>
+<bot> -14<endOfText>
+<human>What is (8 * 3) + 2?<endOfText>
+<bot> 26<endOfText>
+<human>What is (6 * 3) - 6?<endOfText>
+<bot> 12<endOfText>
+<human>What is (1 - 6) + 7?<endOfText>
+<bot> 2<endOfText>
+<human>What is (1 * 5) + 5?<endOfText>
+<bot> 10<endOfText>
+<human>What is (2 + 2) * 3?<endOfText>
+<bot> 12<endOfText>
+<human>What is (9 - 5) * 1?<endOfText>
+<bot> 4<endOfText>
+<human>What is (1 * 9) - 6?<endOfText>
+<bot> 3<endOfText>
+<human>What is (9 - 8) + 6?<endOfText>
+<bot> 7<endOfText>
+<human>What is (2 + 6) - 4?<endOfText>
+<bot> 4<endOfText>
+<human>What is (6 * 2) + 1?<endOfText>
+<bot> 13<endOfText>
+<human>What is (3 + 7) * 2?<endOfText>
+<bot> 20<endOfText>
+<human>What is (5 * 5) - 2?<endOfText>
+<bot> 23<endOfText>
+<human>What is (4 + 2) + 2?<endOfText>
+<bot> 8<endOfText>
+<human>What is (6 - 3) * 4?<endOfText>
+<bot> 12<endOfText>
+<human>What is (2 * 6) + 7?<endOfText>
+<bot> 19<endOfText>
+<human>What is (4 * 2) - 4?<endOfText>
+<bot> 4<endOfText>
+<human>What is (6 * 5) * 2?<endOfText>
+<bot> 60<endOfText>
+<human>What is (3 - 6) - 4?<endOfText>
+<bot> -7<endOfText>
+<human>What is (6 - 5) + 9?<endOfText>
+<bot> 10<endOfText>
+<human>What is (1 + 4) * 1?<endOfText>
+<bot> 5<endOfText>
+<human>What is (1 + 7) * 5?<endOfText>
+<bot> 40<endOfText>
+<human>What is (6 - 7) * 5?<endOfText>
+<bot> -5<endOfText>
+<human>What is (7 + 7) + 7?<endOfText>
+<bot> 21<endOfText>
+<human>What is (8 + 8) - 2?<endOfText>
+<bot> 14<endOfText>
+<human>What is (2 - 1) + 4?<endOfText>
+<bot> 5<endOfText>
+<human>What is (9 + 7) * 7?<endOfText>
+<bot> 112<endOfText>
+<human>What is (1 * 2) * 1?<endOfText>
+<bot> 2<endOfText>
+<human>What is (7 + 7) * 1?<endOfText>
+<bot> 14<endOfText>
+<human>What is (5 + 8) - 1?<endOfText>
+<bot> 12<endOfText>
+<human>What is (5 * 9) * 1?<endOfText>
+<bot> 45<endOfText>
+<human>What is (9 * 5) - 9?<endOfText>
+<bot> 36<endOfText>
+<human>What is (5 - 4) * 3?<endOfText>
+<bot> 3<endOfText>
+<human>What is (3 - 3) + 6?<endOfText>
+<bot> 6<endOfText>
+<human>What is (2 - 8) + 8?<endOfText>
+<bot> 2<endOfText>
+<human>What is (8 + 7) * 7?<endOfText>
+<bot> 105<endOfText>
+<human>What is (3 + 1) + 6?<endOfText>
+<bot> 10<endOfText>
+<human>What is (7 * 5) * 9?<endOfText>
+<bot> 315<endOfText>
+<human>What is (6 * 9) - 3?<endOfText>
+<bot> 51<endOfText>
+<human>What is (3 + 5) - 9?<endOfText>
+<bot> -1<endOfText>
+<human>What is (6 * 7) - 2?<endOfText>
+<bot> 40<endOfText>
+<human>What is (5 - 2) * 7?<endOfText>
+<bot> 21<endOfText>
+<human>What is (3 * 2) * 4?<endOfText>
+<bot> 24<endOfText>
+<human>What is (2 + 3) * 4?<endOfText>
+<bot> 20<endOfText>
+<human>What is (9 * 8) * 3?<endOfText>
+<bot> 216<endOfText>
+<human>What is (7 * 4) - 4?<endOfText>
+<bot> 24<endOfText>
+<human>What is (8 - 1) - 6?<endOfText>
+<bot> 1<endOfText>
+<human>What is (9 * 1) - 9?<endOfText>
+<bot> 0<endOfText>
+<human>What is (6 * 2) + 4?<endOfText>
+<bot> 16<endOfText>
+<human>What is (7 * 5) - 6?<endOfText>
+<bot> 29<endOfText>
+<human>What is (6 + 2) * 6?<endOfText>
+<bot> 48<endOfText>
+<human>What is (3 + 3) - 8?<endOfText>
+<bot> -2<endOfText>
+<human>What is (9 - 3) * 9?<endOfText>
+<bot> 54<endOfText>
+<human>What is (4 - 7) - 8?<endOfText>
+<bot> -11<endOfText>
+<human>What is (4 * 1) + 5?<endOfText>
+<bot> 9<endOfText>
+<human>What is (2 - 5) + 1?<endOfText>
+<bot> -2<endOfText>
+<human>What is (2 + 2) * 5?<endOfText>
+<bot> 20<endOfText>
+<human>What is (7 - 5) + 7?<endOfText>
+<bot> 9<endOfText>
+<human>What is (1 - 4) - 8?<endOfText>
+<bot> -11<endOfText>
+<human>What is (2 + 6) + 8?<endOfText>
+<bot> 16<endOfText>
+<human>What is (7 + 9) * 3?<endOfText>
+<bot> 48<endOfText>
+<human>What is (8 * 3) * 3?<endOfText>
+<bot> 72<endOfText>
+<human>What is (8 + 3) * 6?<endOfText>
+<bot> 66<endOfText>
+<human>What is (6 + 7) + 5?<endOfText>
+<bot> 18<endOfText>
+<human>What is (5 - 5) * 7?<endOfText>
+<bot> 0<endOfText>
+<human>What is (7 - 8) * 3?<endOfText>
+<bot> -3<endOfText>
+<human>What is (6 + 9) - 6?<endOfText>
+<bot> 9<endOfText>
+<human>What is (4 + 5) + 8?<endOfText>
+<bot> 17<endOfText>
+<human>What is (2 + 3) * 2?<endOfText>
+<bot> 10<endOfText>
+<human>What is (9 + 5) + 3?<endOfText>
+<bot> 17<endOfText>
+<human>What is (3 + 1) + 2?<endOfText>
+<bot> 6<endOfText>
+<human>What is (3 - 8) - 6?<endOfText>
+<bot> -11<endOfText>
+<human>What is (2 - 6) + 7?<endOfText>
+<bot> 3<endOfText>
+<human>What is (4 + 3) + 2?<endOfText>
+<bot> 9<endOfText>
+<human>What is (4 + 5) * 2?<endOfText>
+<bot> 18<endOfText>
+<human>What is (6 - 4) - 2?<endOfText>
+<bot> 0<endOfText>
+<human>What is (4 - 2) * 9?<endOfText>
+<bot> 18<endOfText>
+<human>What is (5 - 6) - 8?<endOfText>
+<bot> -9<endOfText>
+<human>What is (4 + 1) * 9?<endOfText>
+<bot> 45<endOfText>
+<human>What is (2 + 6) * 6?<endOfText>
+<bot> 48<endOfText>
+<human>What is (7 * 4) + 9?<endOfText>
+<bot> 37<endOfText>
+<human>What is (1 * 1) - 5?<endOfText>
+<bot> -4<endOfText>
+<human>What is (6 * 9) + 3?<endOfText>
+<bot> 57<endOfText>
+<human>What is (7 - 1) * 9?<endOfText>
+<bot> 54<endOfText>
+<human>What is (8 + 5) * 7?<endOfText>
+<bot> 91<endOfText>
+<human>What is (9 * 5) + 9?<endOfText>
+<bot> 54<endOfText>
+<human>What is (7 * 5) + 3?<endOfText>
+<bot> 38<endOfText>
+<human>What is (4 * 9) + 9?<endOfText>
+<bot> 45<endOfText>
+<human>What is (9 - 9) * 4?<endOfText>
+<bot> 0<endOfText>
+<human>What is (2 * 4) * 1?<endOfText>
+<bot> 8<endOfText>
+<human>What is (9 * 6) * 9?<endOfText>
+<bot> 486<endOfText>
+<human>What is (1 - 7) - 7?<endOfText>
+<bot> -13<endOfText>
+<human>What is (5 - 9) - 8?<endOfText>
+<bot> -12<endOfText>
+<human>What is (1 * 3) - 3?<endOfText>
+<bot> 0<endOfText>
+<human>What is (1 * 6) - 5?<endOfText>
+<bot> 1<endOfText>
+<human>What is (4 * 9) - 4?<endOfText>
+<bot> 32<endOfText>
+<human>What is (9 * 7) - 4?<endOfText>
+<bot> 59<endOfText>
+<human>What is (3 - 3) * 3?<endOfText>
+<bot> 0<endOfText>
+<human>What is (2 * 6) * 3?<endOfText>
+<bot> 36<endOfText>
+<human>What is (9 - 3) * 8?<endOfText>
+<bot> 48<endOfText>
+<human>What is (7 - 2) + 3?<endOfText>
+<bot> 8<endOfText>
+<human>What is (4 * 5) * 1?<endOfText>
+<bot> 20<endOfText>
+<human>What is (8 * 8) + 7?<endOfText>
+<bot> 71<endOfText>
+<human>What is (7 * 5) * 2?<endOfText>
+<bot> 70<endOfText>
+<human>What is (2 - 3) - 9?<endOfText>
+<bot> -10<endOfText>
+<human>What is (8 * 7) * 6?<endOfText>
+<bot> 336<endOfText>
+<human>What is (1 - 8) * 5?<endOfText>
+<bot> -35<endOfText>
+<human>What is (5 - 6) - 5?<endOfText>
+<bot> -6<endOfText>
+<human>What is (2 + 7) - 1?<endOfText>
+<bot> 8<endOfText>
+<human>What is (3 + 1) + 7?<endOfText>
+<bot> 11<endOfText>
+<human>What is (5 - 4) - 8?<endOfText>
+<bot> -7<endOfText>
+<human>What is (5 * 7) - 1?<endOfText>
+<bot> 34<endOfText>
+<human>What is (6 - 9) - 1?<endOfText>
+<bot> -4<endOfText>
+<human>What is (9 * 7) * 6?<endOfText>
+<bot> 378<endOfText>
+<human>What is (1 * 2) + 1?<endOfText>
+<bot> 3<endOfText>
+<human>What is (2 * 2) + 3?<endOfText>
+<bot> 7<endOfText>
+<human>What is (1 + 6) + 8?<endOfText>
+<bot> 15<endOfText>
+<human>What is (5 * 8) - 1?<endOfText>
+<bot> 39<endOfText>
+<human>What is (4 - 1) * 4?<endOfText>
+<bot> 12<endOfText>
+<human>What is (7 - 8) - 5?<endOfText>
+<bot> -6<endOfText>
+<human>What is (3 * 6) + 9?<endOfText>
+<bot> 27<endOfText>
+<human>What is (8 + 2) + 4?<endOfText>
+<bot> 14<endOfText>
+<human>What is (3 + 9) - 6?<endOfText>
+<bot> 6<endOfText>
+<human>What is (4 - 3) - 8?<endOfText>
+<bot> -7<endOfText>
+<human>What is (8 * 9) - 6?<endOfText>
+<bot> 66<endOfText>
+<human>What is (9 + 9) * 4?<endOfText>
+<bot> 72<endOfText>
+<human>What is (8 + 9) + 2?<endOfText>
+<bot> 19<endOfText>
+<human>What is (8 - 1) - 5?<endOfText>
+<bot> 2<endOfText>
+<human>What is (6 - 6) + 7?<endOfText>
+<bot> 7<endOfText>
+<human>What is (6 * 4) * 5?<endOfText>
+<bot> 120<endOfText>
+<human>What is (9 * 9) - 9?<endOfText>
+<bot> 72<endOfText>
+<human>What is (9 * 9) + 8?<endOfText>
+<bot> 89<endOfText>
+<human>What is (3 * 1) * 5?<endOfText>
+<bot> 15<endOfText>
+<human>What is (5 * 6) - 4?<endOfText>
+<bot> 26<endOfText>
+<human>What is (8 - 4) + 5?<endOfText>
+<bot> 9<endOfText>
+<human>What is (3 - 7) + 7?<endOfText>
+<bot> 3<endOfText>
+<human>What is (1 - 9) - 1?<endOfText>
+<bot> -9<endOfText>
+<human>What is (1 - 3) - 2?<endOfText>
+<bot> -4<endOfText>
+<human>What is (5 * 1) - 6?<endOfText>
+<bot> -1<endOfText>
+<human>What is (9 * 6) + 8?<endOfText>
+<bot> 62<endOfText>
+<human>What is (5 - 2) * 8?<endOfText>
+<bot> 24<endOfText>
+<human>What is (5 - 3) - 8?<endOfText>
+<bot> -6<endOfText>
+<human>What is (5 + 2) - 2?<endOfText>
+<bot> 5<endOfText>
+<human>What is (8 - 4) + 8?<endOfText>
+<bot> 12<endOfText>
+<human>What is (5 * 6) * 3?<endOfText>
+<bot> 90<endOfText>
+<human>What is (5 - 5) + 6?<endOfText>
+<bot> 6<endOfText>
+<human>What is (3 * 7) + 6?<endOfText>
+<bot> 27<endOfText>
+<human>What is (1 * 5) * 8?<endOfText>
+<bot> 40<endOfText>
+<human>What is (6 + 5) * 8?<endOfText>
+<bot> 88<endOfText>
+<human>What is (4 * 8) + 7?<endOfText>
+<bot> 39<endOfText>
+<human>What is (8 + 5) + 6?<endOfText>
+<bot> 19<endOfText>
+<human>What is (6 + 2) * 2?<endOfText>
+<bot> 16<endOfText>
+<human>What is (5 * 4) - 5?<endOfText>
+<bot> 15<endOfText>
+<human>What is (7 - 4) - 9?<endOfText>
+<bot> -6<endOfText>
+<human>What is (9 * 9) - 6?<endOfText>
+<bot> 75<endOfText>
+<human>What is (7 * 3) + 8?<endOfText>
+<bot> 29<endOfText>
+<human>What is (8 - 3) * 2?<endOfText>
+<bot> 10<endOfText>
+<human>What is (7 + 6) - 9?<endOfText>
+<bot> 4<endOfText>
+<human>What is (2 * 8) - 9?<endOfText>
+<bot> 7<endOfText>
+<human>What is (2 + 4) * 4?<endOfText>
+<bot> 24<endOfText>
+<human>What is (3 - 9) * 7?<endOfText>
+<bot> -42<endOfText>
+<human>What is (1 * 5) * 4?<endOfText>
+<bot> 20<endOfText>
+<human>What is (7 * 5) * 3?<endOfText>
+<bot> 105<endOfText>
+<human>What is (9 - 9) + 2?<endOfText>
+<bot> 2<endOfText>
+<human>What is (4 * 6) - 1?<endOfText>
+<bot> 23<endOfText>
+<human>What is (2 - 7) + 2?<endOfText>
+<bot> -3<endOfText>
+<human>What is (8 * 8) - 8?<endOfText>
+<bot> 56<endOfText>
+<human>What is (4 + 3) + 4?<endOfText>
+<bot> 11<endOfText>
+<human>What is (7 - 9) * 7?<endOfText>
+<bot> -14<endOfText>
+<human>What is (8 + 8) + 5?<endOfText>
+<bot> 21<endOfText>
+<human>What is (5 * 2) - 4?<endOfText>
+<bot> 6<endOfText>
+<human>What is (2 * 7) * 7?<endOfText>
+<bot> 98<endOfText>
+<human>What is (6 + 4) - 6?<endOfText>
+<bot> 4<endOfText>
+<human>What is (6 - 8) - 8?<endOfText>
+<bot> -10<endOfText>
+<human>What is (7 - 9) - 7?<endOfText>
+<bot> -9<endOfText>
+<human>What is (2 * 2) - 5?<endOfText>
+<bot> -1<endOfText>
+<human>What is (4 - 7) + 4?<endOfText>
+<bot> 1<endOfText>
+<human>What is (2 * 8) + 1?<endOfText>
+<bot> 17<endOfText>
+<human>What is (8 - 5) - 9?<endOfText>
+<bot> -6<endOfText>
+<human>What is (6 + 1) - 2?<endOfText>
+<bot> 5<endOfText>
+<human>What is (6 + 5) + 8?<endOfText>
+<bot> 19<endOfText>
+<human>What is (8 - 9) + 7?<endOfText>
+<bot> 6<endOfText>
+<human>What is (5 + 6) + 6?<endOfText>
+<bot> 17<endOfText>
+<human>What is (1 + 6) * 4?<endOfText>
+<bot> 28<endOfText>
+<human>What is (6 + 4) - 3?<endOfText>
+<bot> 7<endOfText>
+<human>What is (1 - 9) + 5?<endOfText>
+<bot> -3<endOfText>
+<human>What is (3 * 4) + 9?<endOfText>
+<bot> 21<endOfText>
+<human>What is (6 - 9) * 1?<endOfText>
+<bot> -3<endOfText>
+<human>What is (9 * 7) - 3?<endOfText>
+<bot> 60<endOfText>
+<human>What is (6 - 1) * 9?<endOfText>
+<bot> 45<endOfText>
+<human>What is (9 + 7) + 1?<endOfText>
+<bot> 17<endOfText>
+<human>What is (6 - 1) * 4?<endOfText>
+<bot> 20<endOfText>
+<human>What is (5 * 4) - 6?<endOfText>
+<bot> 14<endOfText>
+<human>What is (1 * 3) * 8?<endOfText>
+<bot> 24<endOfText>
+<human>What is (3 - 7) * 8?<endOfText>
+<bot> -32<endOfText>
+<human>What is (6 + 9) + 3?<endOfText>
+<bot> 18<endOfText>
+<human>What is (4 - 9) - 9?<endOfText>
+<bot> -14<endOfText>
+<human>What is (3 * 1) - 3?<endOfText>
+<bot> 0<endOfText>
+<human>What is (9 + 3) - 1?<endOfText>
+<bot> 11<endOfText>
+<human>What is (3 * 2) - 6?<endOfText>
+<bot> 0<endOfText>
+<human>What is (4 - 3) + 4?<endOfText>
+<bot> 5<endOfText>
+<human>What is (4 + 8) + 2?<endOfText>
+<bot> 14<endOfText>
+<human>What is (4 - 1) - 4?<endOfText>
+<bot> -1<endOfText>
+<human>What is (5 + 5) + 5?<endOfText>
+<bot> 15<endOfText>
+<human>What is (5 - 5) - 5?<endOfText>
+<bot> -5<endOfText>
+<human>What is (1 * 6) - 2?<endOfText>
+<bot> 4<endOfText>
+<human>What is (5 * 5) * 9?<endOfText>
+<bot> 225<endOfText>
+<human>What is (1 + 4) + 4?<endOfText>
+<bot> 9<endOfText>
+<human>What is (3 * 8) * 3?<endOfText>
+<bot> 72<endOfText>
+<human>What is (2 + 6) + 4?<endOfText>
+<bot> 12<endOfText>
+<human>What is (1 + 2) * 7?<endOfText>
+<bot> 21<endOfText>
+<human>What is (9 + 3) - 3?<endOfText>
+<bot> 9<endOfText>
+<human>What is (3 * 5) - 1?<endOfText>
+<bot> 14<endOfText>
+<human>What is (9 + 4) - 9?<endOfText>
+<bot> 4<endOfText>
+<human>What is (2 * 3) + 4?<endOfText>
+<bot> 10<endOfText>
+<human>What is (1 * 6) * 4?<endOfText>
+<bot> 24<endOfText>
+<human>What is (1 + 6) + 3?<endOfText>
+<bot> 10<endOfText>
+<human>What is (6 + 1) - 7?<endOfText>
+<bot> 0<endOfText>
+<human>What is (6 + 7) + 7?<endOfText>
+<bot> 20<endOfText>
+<human>What is (7 * 6) - 8?<endOfText>
+<bot> 34<endOfText>
+<human>What is (7 * 1) - 2?<endOfText>
+<bot> 5<endOfText>
+<human>What is (6 * 3) - 7?<endOfText>
+<bot> 11<endOfText>
+<human>What is (6 + 6) + 4?<endOfText>
+<bot> 16<endOfText>
+<human>What is (1 - 9) + 4?<endOfText>
+<bot> -4<endOfText>
+<human>What is (5 * 8) * 3?<endOfText>
+<bot> 120<endOfText>
+<human>What is (6 * 4) * 9?<endOfText>
+<bot> 216<endOfText>
+<human>What is (6 - 8) + 4?<endOfText>
+<bot> 2<endOfText>
+<human>What is (5 - 2) + 6?<endOfText>
+<bot> 9<endOfText>
+<human>What is (7 - 8) - 4?<endOfText>
+<bot> -5<endOfText>
+<human>What is (5 * 1) - 5?<endOfText>
+<bot> 0<endOfText>
+<human>What is (3 + 4) - 9?<endOfText>
+<bot> -2<endOfText>
+<human>What is (5 - 2) - 1?<endOfText>
+<bot> 2<endOfText>
+<human>What is (9 * 3) + 8?<endOfText>
+<bot> 35<endOfText>
+<human>What is (8 * 3) + 8?<endOfText>
+<bot> 32<endOfText>
+<human>What is (7 - 3) * 4?<endOfText>
+<bot> 16<endOfText>
+<human>What is (7 - 3) - 4?<endOfText>
+<bot> 0<endOfText>
+<human>What is (3 * 9) + 4?<endOfText>
+<bot> 31<endOfText>
+<human>What is (4 * 6) - 2?<endOfText>
+<bot> 22<endOfText>
+<human>What is (2 - 8) + 7?<endOfText>
+<bot> 1<endOfText>
+<human>What is (6 + 2) - 7?<endOfText>
+<bot> 1<endOfText>
+<human>What is (8 - 3) * 4?<endOfText>
+<bot> 20<endOfText>
+<human>What is (6 + 7) + 1?<endOfText>
+<bot> 14<endOfText>
+<human>What is (4 - 6) - 2?<endOfText>
+<bot> -4<endOfText>
+<human>What is (4 - 8) + 1?<endOfText>
+<bot> -3<endOfText>
+<human>What is (8 * 8) + 6?<endOfText>
+<bot> 70<endOfText>
+<human>What is (8 + 7) + 9?<endOfText>
+<bot> 24<endOfText>
+<human>What is (4 - 2) * 1?<endOfText>
+<bot> 2<endOfText>
+<human>What is (5 + 4) + 7?<endOfText>
+<bot> 16<endOfText>
+<human>What is (3 * 3) + 7?<endOfText>
+<bot> 16<endOfText>
+<human>What is (6 + 2) + 3?<endOfText>
+<bot> 11<endOfText>
+<human>What is (8 * 3) - 2?<endOfText>
+<bot> 22<endOfText>
+<human>What is (3 + 9) - 9?<endOfText>
+<bot> 3<endOfText>
+<human>What is (6 - 7) + 5?<endOfText>
+<bot> 4<endOfText>
+<human>What is (8 * 7) + 8?<endOfText>
+<bot> 64<endOfText>
+<human>What is (2 - 9) * 7?<endOfText>
+<bot> -49<endOfText>
+<human>What is (1 - 3) + 1?<endOfText>
+<bot> -1<endOfText>
+<human>What is (2 + 1) + 7?<endOfText>
+<bot> 10<endOfText>
+<human>What is (5 * 6) * 1?<endOfText>
+<bot> 30<endOfText>
+<human>What is (9 - 3) + 7?<endOfText>
+<bot> 13<endOfText>
+<human>What is (7 * 7) * 8?<endOfText>
+<bot> 392<endOfText>
+<human>What is (9 - 9) * 5?<endOfText>
+<bot> 0<endOfText>
+<human>What is (6 + 1) + 8?<endOfText>
+<bot> 15<endOfText>
+<human>What is (4 + 7) - 9?<endOfText>
+<bot> 2<endOfText>
+<human>What is (1 - 2) + 9?<endOfText>
+<bot> 8<endOfText>
+<human>What is (7 + 6) - 1?<endOfText>
+<bot> 12<endOfText>
+<human>What is (4 * 8) - 9?<endOfText>
+<bot> 23<endOfText>
+<human>What is (8 + 6) - 1?<endOfText>
+<bot> 13<endOfText>
+<human>What is (7 + 8) + 4?<endOfText>
+<bot> 19<endOfText>
+<human>What is (9 - 7) - 5?<endOfText>
+<bot> -3<endOfText>
+<human>What is (4 * 3) + 5?<endOfText>
+<bot> 17<endOfText>
+<human>What is (3 - 9) * 2?<endOfText>
+<bot> -12<endOfText>
+<human>What is (7 + 1) * 4?<endOfText>
+<bot> 32<endOfText>
+<human>What is (6 - 8) + 5?<endOfText>
+<bot> 3<endOfText>
+<human>What is (7 * 4) * 8?<endOfText>
+<bot> 224<endOfText>
+<human>What is (1 + 8) - 8?<endOfText>
+<bot> 1<endOfText>
+<human>What is (7 * 2) * 5?<endOfText>
+<bot> 70<endOfText>
+<human>What is (1 + 1) - 7?<endOfText>
+<bot> -5<endOfText>
+<human>What is (1 + 2) - 7?<endOfText>
+<bot> -4<endOfText>
+<human>What is (5 * 2) - 3?<endOfText>
+<bot> 7<endOfText>
+<human>What is (7 + 2) - 2?<endOfText>
+<bot> 7<endOfText>
+<human>What is (6 * 6) - 9?<endOfText>
+<bot> 27<endOfText>
+<human>What is (9 + 7) - 8?<endOfText>
+<bot> 8<endOfText>
+<human>What is (2 - 6) + 1?<endOfText>
+<bot> -3<endOfText>
+<human>What is (8 - 7) + 6?<endOfText>
+<bot> 7<endOfText>
+<human>What is (7 * 8) + 3?<endOfText>
+<bot> 59<endOfText>
+<human>What is (9 + 9) + 9?<endOfText>
+<bot> 27<endOfText>
+<human>What is (4 + 6) * 8?<endOfText>
+<bot> 80<endOfText>
+<human>What is (8 - 1) + 1?<endOfText>
+<bot> 8<endOfText>
+<human>What is (3 + 2) - 5?<endOfText>
+<bot> 0<endOfText>
+<human>What is (2 + 3) + 7?<endOfText>
+<bot> 12<endOfText>
+<human>What is (5 + 2) - 1?<endOfText>
+<bot> 6<endOfText>
+<human>What is (1 - 7) * 8?<endOfText>
+<bot> -48<endOfText>
+<human>What is (3 - 7) - 8?<endOfText>
+<bot> -12<endOfText>
+<human>What is (6 * 3) - 2?<endOfText>
+<bot> 16<endOfText>
+<human>What is (7 * 5) - 8?<endOfText>
+<bot> 27<endOfText>
+<human>What is (5 * 3) + 8?<endOfText>
+<bot> 23<endOfText>
+<human>What is (2 + 8) + 4?<endOfText>
+<bot> 14<endOfText>
+<human>What is (2 + 5) + 6?<endOfText>
+<bot> 13<endOfText>
+<human>What is (3 + 6) + 4?<endOfText>
+<bot> 13<endOfText>
+<human>What is (8 - 3) + 6?<endOfText>
+<bot> 11<endOfText>
+<human>What is (8 * 2) * 1?<endOfText>
+<bot> 16<endOfText>
+<human>What is (1 * 1) - 3?<endOfText>
+<bot> -2<endOfText>
+<human>What is (9 * 7) + 8?<endOfText>
+<bot> 71<endOfText>
+<human>What is (2 - 2) + 8?<endOfText>
+<bot> 8<endOfText>
+<human>What is (1 - 6) + 5?<endOfText>
+<bot> 0<endOfText>
+<human>What is (7 + 5) - 3?<endOfText>
+<bot> 9<endOfText>
+<human>What is (2 * 5) + 6?<endOfText>
+<bot> 16<endOfText>
+<human>What is (9 - 6) * 6?<endOfText>
+<bot> 18<endOfText>
+<human>What is (5 * 7) * 4?<endOfText>
+<bot> 140<endOfText>
+<human>What is (2 + 7) * 2?<endOfText>
+<bot> 18<endOfText>
+<human>What is (8 - 8) - 5?<endOfText>
+<bot> -5<endOfText>
+<human>What is (8 - 6) * 2?<endOfText>
+<bot> 4<endOfText>
+<human>What is (6 + 9) - 9?<endOfText>
+<bot> 6<endOfText>
+<human>What is (9 * 2) * 3?<endOfText>
+<bot> 54<endOfText>
+<human>What is (4 - 9) + 3?<endOfText>
+<bot> -2<endOfText>
+<human>What is (6 * 1) + 1?<endOfText>
+<bot> 7<endOfText>
+<human>What is (3 * 1) - 5?<endOfText>
+<bot> -2<endOfText>
+<human>What is (8 * 3) * 6?<endOfText>
+<bot> 144<endOfText>
+<human>What is (3 * 4) + 4?<endOfText>
+<bot> 16<endOfText>
+<human>What is (2 * 1) * 9?<endOfText>
+<bot> 18<endOfText>
+<human>What is (9 - 8) * 1?<endOfText>
+<bot> 1<endOfText>
+<human>What is (7 * 1) * 7?<endOfText>
+<bot> 49<endOfText>
+<human>What is (8 * 7) - 5?<endOfText>
+<bot> 51<endOfText>
+<human>What is (8 - 2) * 6?<endOfText>
+<bot> 36<endOfText>
+<human>What is (1 + 9) - 2?<endOfText>
+<bot> 8<endOfText>
+<human>What is (5 + 1) - 6?<endOfText>
+<bot> 0<endOfText>
+<human>What is (6 - 4) + 1?<endOfText>
+<bot> 3<endOfText>
+<human>What is (3 * 7) + 5?<endOfText>
+<bot> 26<endOfText>
+<human>What is (2 + 8) - 3?<endOfText>
+<bot> 7<endOfText>
+<human>What is (9 * 9) - 8?<endOfText>
+<bot> 73<endOfText>
+<human>What is (4 + 7) * 6?<endOfText>
+<bot> 66<endOfText>
+<human>What is (2 * 2) * 8?<endOfText>
+<bot> 32<endOfText>
+<human>What is (6 * 3) - 3?<endOfText>
+<bot> 15<endOfText>
+<human>What is (6 - 9) - 6?<endOfText>
+<bot> -9<endOfText>
+<human>What is (8 + 4) * 7?<endOfText>
+<bot> 84<endOfText>
+<human>What is (8 + 8) * 3?<endOfText>
+<bot> 48<endOfText>
+<human>What is (9 - 5) - 8?<endOfText>
+<bot> -4<endOfText>
+<human>What is (1 + 7) + 5?<endOfText>
+<bot> 13<endOfText>
+<human>What is (9 * 3) - 9?<endOfText>
+<bot> 18<endOfText>
+<human>What is (7 + 1) + 8?<endOfText>
+<bot> 16<endOfText>
+<human>What is (3 * 2) * 5?<endOfText>
+<bot> 30<endOfText>
+<human>What is (8 - 9) - 6?<endOfText>
+<bot> -7<endOfText>
+<human>What is (2 - 1) * 5?<endOfText>
+<bot> 5<endOfText>
+<human>What is (6 * 4) + 9?<endOfText>
+<bot> 33<endOfText>
+<human>What is (4 - 9) + 9?<endOfText>
+<bot> 4<endOfText>
+<human>What is (8 - 5) * 8?<endOfText>
+<bot> 24<endOfText>
+<human>What is (5 - 1) * 9?<endOfText>
+<bot> 36<endOfText>
+<human>What is (5 + 7) - 2?<endOfText>
+<bot> 10<endOfText>
+<human>What is (6 - 5) * 7?<endOfText>
+<bot> 7<endOfText>
+<human>What is (6 - 3) - 3?<endOfText>
+<bot> 0<endOfText>
+<human>What is (5 - 9) - 2?<endOfText>
+<bot> -6<endOfText>
+<human>What is (9 + 3) * 5?<endOfText>
+<bot> 60<endOfText>
+<human>What is (3 * 8) * 1?<endOfText>
+<bot> 24<endOfText>
+<human>What is (2 - 7) * 3?<endOfText>
+<bot> -15<endOfText>
+<human>What is (1 + 5) - 1?<endOfText>
+<bot> 5<endOfText>
+<human>What is (8 + 4) * 5?<endOfText>
+<bot> 60<endOfText>
+<human>What is (8 - 9) - 4?<endOfText>
+<bot> -5<endOfText>
+<human>What is (5 * 1) - 8?<endOfText>
+<bot> -3<endOfText>
+<human>What is (1 + 2) - 3?<endOfText>
+<bot> 0<endOfText>
+<human>What is (9 - 7) + 5?<endOfText>
+<bot> 7<endOfText>
+<human>What is (9 * 5) + 3?<endOfText>
+<bot> 48<endOfText>
+<human>What is (5 - 2) + 1?<endOfText>
+<bot> 4<endOfText>
+<human>What is (1 + 4) + 1?<endOfText>
+<bot> 6<endOfText>
+<human>What is (3 - 4) * 3?<endOfText>
+<bot> -3<endOfText>
+<human>What is (5 * 3) + 7?<endOfText>
+<bot> 22<endOfText>
+<human>What is (2 * 5) + 9?<endOfText>
+<bot> 19<endOfText>
+<human>What is (3 * 7) * 8?<endOfText>
+<bot> 168<endOfText>
+<human>What is (1 + 6) + 6?<endOfText>
+<bot> 13<endOfText>
+<human>What is (6 - 9) - 2?<endOfText>
+<bot> -5<endOfText>
+<human>What is (9 - 3) - 4?<endOfText>
+<bot> 2<endOfText>
+<human>What is (8 - 5) + 9?<endOfText>
+<bot> 12<endOfText>
+<human>What is (8 * 9) * 8?<endOfText>
+<bot> 576<endOfText>
+<human>What is (6 * 7) + 5?<endOfText>
+<bot> 47<endOfText>
+<human>What is (4 + 8) - 4?<endOfText>
+<bot> 8<endOfText>
+<human>What is (7 * 9) - 5?<endOfText>
+<bot> 58<endOfText>
+<human>What is (9 - 8) - 9?<endOfText>
+<bot> -8<endOfText>
+<human>What is (8 - 1) * 6?<endOfText>
+<bot> 42<endOfText>
+<human>What is (7 + 7) + 2?<endOfText>
+<bot> 16<endOfText>
+<human>What is (9 - 4) * 8?<endOfText>
+<bot> 40<endOfText>
+<human>What is (1 - 3) - 4?<endOfText>
+<bot> -6<endOfText>
+<human>What is (5 - 5) - 2?<endOfText>
+<bot> -2<endOfText>
+<human>What is (5 - 6) + 5?<endOfText>
+<bot> 4<endOfText>
+<human>What is (3 - 4) - 2?<endOfText>
+<bot> -3<endOfText>
+<human>What is (2 * 4) + 6?<endOfText>
+<bot> 14<endOfText>
+<human>What is (6 - 4) * 9?<endOfText>
+<bot> 18<endOfText>
+<human>What is (5 * 4) + 7?<endOfText>
+<bot> 27<endOfText>
+<human>What is (5 * 4) * 3?<endOfText>
+<bot> 60<endOfText>
+<human>What is (9 - 5) - 9?<endOfText>
+<bot> -5<endOfText>
+<human>What is (1 * 3) - 2?<endOfText>
+<bot> 1<endOfText>
+<human>What is (2 - 3) - 5?<endOfText>
+<bot> -6<endOfText>
+<human>What is (6 + 6) * 5?<endOfText>
+<bot> 60<endOfText>
+<human>What is (3 * 6) * 4?<endOfText>
+<bot> 72<endOfText>
+<human>What is (5 - 8) * 3?<endOfText>
+<bot> -9<endOfText>
+<human>What is (7 + 1) + 3?<endOfText>
+<bot> 11<endOfText>
+<human>What is (9 - 7) + 2?<endOfText>
+<bot> 4<endOfText>
+<human>What is (8 + 6) * 1?<endOfText>
+<bot> 14<endOfText>
+<human>What is (5 - 6) * 1?<endOfText>
+<bot> -1<endOfText>
+<human>What is (5 * 8) - 6?<endOfText>
+<bot> 34<endOfText>
+<human>What is (9 + 2) + 8?<endOfText>
+<bot> 19<endOfText>
+<human>What is (2 + 7) + 7?<endOfText>
+<bot> 16<endOfText>
+<human>What is (6 - 4) - 6?<endOfText>
+<bot> -4<endOfText>
+<human>What is (1 - 8) * 1?<endOfText>
+<bot> -7<endOfText>
+<human>What is (5 - 8) * 9?<endOfText>
+<bot> -27<endOfText>
+<human>What is (3 * 4) * 4?<endOfText>
+<bot> 48<endOfText>
+<human>What is (8 * 8) - 5?<endOfText>
+<bot> 59<endOfText>
+<human>What is (8 * 5) * 5?<endOfText>
+<bot> 200<endOfText>
+<human>What is (4 * 9) + 3?<endOfText>
+<bot> 39<endOfText>
+<human>What is (9 + 5) + 5?<endOfText>
+<bot> 19<endOfText>
+<human>What is (7 - 6) + 5?<endOfText>
+<bot> 6<endOfText>
+<human>What is (1 * 9) + 3?<endOfText>
+<bot> 12<endOfText>
+<human>What is (9 + 7) - 5?<endOfText>
+<bot> 11<endOfText>
+<human>What is (7 * 6) * 4?<endOfText>
+<bot> 168<endOfText>
+<human>What is (7 * 4) * 7?<endOfText>
+<bot> 196<endOfText>
+<human>What is (7 - 2) - 8?<endOfText>
+<bot> -3<endOfText>
+<human>What is (8 + 7) * 9?<endOfText>
+<bot> 135<endOfText>
+<human>What is (4 + 8) + 9?<endOfText>
+<bot> 21<endOfText>
+<human>What is (5 * 5) + 5?<endOfText>
+<bot> 30<endOfText>
+<human>What is (1 * 5) + 6?<endOfText>
+<bot> 11<endOfText>
+<human>What is (7 - 2) * 5?<endOfText>
+<bot> 25<endOfText>
+<human>What is (4 - 8) * 7?<endOfText>
+<bot> -28<endOfText>
+<human>What is (4 + 3) * 8?<endOfText>
+<bot> 56<endOfText>
+<human>What is (3 + 4) + 8?<endOfText>
+<bot> 15<endOfText>
+<human>What is (2 - 1) + 9?<endOfText>
+<bot> 10<endOfText>
+<human>What is (1 * 7) + 1?<endOfText>
+<bot> 8<endOfText>
+<human>What is (3 + 8) + 1?<endOfText>
+<bot> 12<endOfText>
+<human>What is (4 * 9) * 6?<endOfText>
+<bot> 216<endOfText>
+<human>What is (3 + 6) + 7?<endOfText>
+<bot> 16<endOfText>
+<human>What is (1 + 3) * 9?<endOfText>
+<bot> 36<endOfText>
+<human>What is (9 + 5) + 1?<endOfText>
+<bot> 15<endOfText>
+<human>What is (5 + 3) - 3?<endOfText>
+<bot> 5<endOfText>
+<human>What is (8 - 8) + 3?<endOfText>
+<bot> 3<endOfText>
+<human>What is (5 * 2) + 4?<endOfText>
+<bot> 14<endOfText>
+<human>What is (5 + 1) * 3?<endOfText>
+<bot> 18<endOfText>
+<human>What is (2 + 9) - 4?<endOfText>
+<bot> 7<endOfText>
+<human>What is (1 * 8) + 4?<endOfText>
+<bot> 12<endOfText>
+<human>What is (1 - 9) - 9?<endOfText>
+<bot> -17<endOfText>
+<human>What is (2 - 4) + 3?<endOfText>
+<bot> 1<endOfText>
+<human>What is (1 + 9) - 3?<endOfText>
+<bot> 7<endOfText>
+<human>What is (8 - 8) * 6?<endOfText>
+<bot> 0<endOfText>
+<human>What is (3 - 6) - 2?<endOfText>
+<bot> -5<endOfText>
+<human>What is (2 + 1) + 2?<endOfText>
+<bot> 5<endOfText>
+<human>What is (1 + 7) * 2?<endOfText>
+<bot> 16<endOfText>
+<human>What is (3 + 4) * 9?<endOfText>
+<bot> 63<endOfText>
+<human>What is (1 + 2) - 2?<endOfText>
+<bot> 1<endOfText>
+<human>What is (6 - 6) - 2?<endOfText>
+<bot> -2<endOfText>
+<human>What is (6 + 7) + 2?<endOfText>
+<bot> 15<endOfText>
+<human>What is (1 * 3) - 6?<endOfText>
+<bot> -3<endOfText>
+<human>What is (5 * 2) - 5?<endOfText>
+<bot> 5<endOfText>
+<human>What is (2 - 9) + 2?<endOfText>
+<bot> -5<endOfText>
+<human>What is (2 + 7) + 4?<endOfText>
+<bot> 13<endOfText>
+<human>What is (8 + 4) + 6?<endOfText>
+<bot> 18<endOfText>
+<human>What is (5 + 5) - 8?<endOfText>
+<bot> 2<endOfText>
+<human>What is (8 + 4) - 8?<endOfText>
+<bot> 4<endOfText>
+<human>What is (9 * 5) - 3?<endOfText>
+<bot> 42<endOfText>
+<human>What is (5 + 2) * 8?<endOfText>
+<bot> 56<endOfText>
+<human>What is (1 - 3) - 9?<endOfText>
+<bot> -11<endOfText>
+<human>What is (5 - 9) * 9?<endOfText>
+<bot> -36<endOfText>
+<human>What is (7 * 3) + 9?<endOfText>
+<bot> 30<endOfText>
+<human>What is (8 + 1) + 8?<endOfText>
+<bot> 17<endOfText>
+<human>What is (3 + 6) - 5?<endOfText>
+<bot> 4<endOfText>
+<human>What is (4 - 2) + 7?<endOfText>
+<bot> 9<endOfText>
+<human>What is (6 * 7) - 6?<endOfText>
+<bot> 36<endOfText>
+<human>What is (6 - 3) - 1?<endOfText>
+<bot> 2<endOfText>
+<human>What is (3 * 5) + 9?<endOfText>
+<bot> 24<endOfText>
+<human>What is (6 - 7) - 9?<endOfText>
+<bot> -10<endOfText>
+<human>What is (1 + 5) - 5?<endOfText>
+<bot> 1<endOfText>
+<human>What is (8 - 6) - 6?<endOfText>
+<bot> -4<endOfText>
+<human>What is (6 - 3) + 1?<endOfText>
+<bot> 4<endOfText>
+<human>What is (8 - 9) - 2?<endOfText>
+<bot> -3<endOfText>
+<human>What is (2 - 1) * 4?<endOfText>
+<bot> 4<endOfText>
+<human>What is (9 + 1) - 9?<endOfText>
+<bot> 1<endOfText>
+<human>What is (2 * 7) - 3?<endOfText>
+<bot> 11<endOfText>
+<human>What is (3 * 8) + 3?<endOfText>
+<bot> 27<endOfText>
+<human>What is (1 - 6) + 8?<endOfText>
+<bot> 3<endOfText>
+<human>What is (6 * 5) * 5?<endOfText>
+<bot> 150<endOfText>
+<human>What is (4 + 7) * 8?<endOfText>
+<bot> 88<endOfText>
+<human>What is (3 * 4) * 6?<endOfText>
+<bot> 72<endOfText>
+<human>What is (8 * 7) - 9?<endOfText>
+<bot> 47<endOfText>
+<human>What is (7 + 7) + 4?<endOfText>
+<bot> 18<endOfText>
+<human>What is (1 * 6) - 7?<endOfText>
+<bot> -1<endOfText>
+<human>What is (4 + 1) - 4?<endOfText>
+<bot> 1<endOfText>
+<human>What is (1 * 9) * 9?<endOfText>
+<bot> 81<endOfText>
+<human>What is (5 - 6) - 2?<endOfText>
+<bot> -3<endOfText>
+<human>What is (3 - 9) - 7?<endOfText>
+<bot> -13<endOfText>
+<human>What is (6 - 5) * 4?<endOfText>
+<bot> 4<endOfText>
+<human>What is (4 - 9) * 4?<endOfText>
+<bot> -20<endOfText>
+<human>What is (2 + 6) + 1?<endOfText>
+<bot> 9<endOfText>
+<human>What is (1 + 9) + 2?<endOfText>
+<bot> 12<endOfText>
+<human>What is (7 + 6) * 9?<endOfText>
+<bot> 117<endOfText>
+<human>What is (1 - 7) + 6?<endOfText>
+<bot> 0<endOfText>
+<human>What is (2 * 3) + 7?<endOfText>
+<bot> 13<endOfText>
+<human>What is (4 * 9) - 8?<endOfText>
+<bot> 28<endOfText>
+<human>What is (7 + 3) * 2?<endOfText>
+<bot> 20<endOfText>
+<human>What is (1 + 5) * 9?<endOfText>
+<bot> 54<endOfText>
+<human>What is (1 * 3) * 5?<endOfText>
+<bot> 15<endOfText>
+<human>What is (6 + 5) - 5?<endOfText>
+<bot> 6<endOfText>
+<human>What is (1 * 4) - 8?<endOfText>
+<bot> -4<endOfText>
+<human>What is (8 - 3) - 1?<endOfText>
+<bot> 4<endOfText>
+<human>What is (1 + 5) - 7?<endOfText>
+<bot> -1<endOfText>
+<human>What is (8 - 2) * 8?<endOfText>
+<bot> 48<endOfText>
+<human>What is (7 * 1) * 6?<endOfText>
+<bot> 42<endOfText>
+<human>What is (4 - 3) + 2?<endOfText>
+<bot> 3<endOfText>
+<human>What is (4 - 4) - 3?<endOfText>
+<bot> -3<endOfText>
+<human>What is (4 * 7) * 3?<endOfText>
+<bot> 84<endOfText>
+<human>What is (1 + 7) + 4?<endOfText>
+<bot> 12<endOfText>
+<human>What is (2 - 6) - 8?<endOfText>
+<bot> -12<endOfText>
+<human>What is (1 - 8) - 9?<endOfText>
+<bot> -16<endOfText>
+<human>What is (4 - 1) + 4?<endOfText>
+<bot> 7<endOfText>
+<human>What is (1 * 7) * 8?<endOfText>
+<bot> 56<endOfText>
+<human>What is (7 + 6) + 1?<endOfText>
+<bot> 14<endOfText>
+<human>What is (5 + 1) * 1?<endOfText>
+<bot> 6<endOfText>
+<human>What is (7 + 5) + 7?<endOfText>
+<bot> 19<endOfText>
+<human>What is (7 * 5) * 1?<endOfText>
+<bot> 35<endOfText>
+<human>What is (9 - 2) - 1?<endOfText>
+<bot> 6<endOfText>
+<human>What is (3 + 3) - 9?<endOfText>
+<bot> -3<endOfText>
+<human>What is (5 + 4) * 5?<endOfText>
+<bot> 45<endOfText>
+<human>What is (4 * 8) - 4?<endOfText>
+<bot> 28<endOfText>
+<human>What is (5 * 4) * 2?<endOfText>
+<bot> 40<endOfText>
+<human>What is (8 + 3) + 9?<endOfText>
+<bot> 20<endOfText>
+<human>What is (2 * 2) * 9?<endOfText>
+<bot> 36<endOfText>
+<human>What is (8 + 4) * 9?<endOfText>
+<bot> 108<endOfText>
+<human>What is (3 * 8) + 4?<endOfText>
+<bot> 28<endOfText>
+<human>What is (6 - 9) + 2?<endOfText>
+<bot> -1<endOfText>
+<human>What is (1 * 7) * 6?<endOfText>
+<bot> 42<endOfText>
+<human>What is (9 + 1) * 7?<endOfText>
+<bot> 70<endOfText>
+<human>What is (2 - 7) * 4?<endOfText>
+<bot> -20<endOfText>
+<human>What is (7 * 7) - 3?<endOfText>
+<bot> 46<endOfText>
+<human>What is (3 - 9) * 1?<endOfText>
+<bot> -6<endOfText>
+<human>What is (1 + 9) * 1?<endOfText>
+<bot> 10<endOfText>
+<human>What is (3 + 9) * 8?<endOfText>
+<bot> 96<endOfText>
+<human>What is (4 - 3) + 9?<endOfText>
+<bot> 10<endOfText>
+<human>What is (6 * 9) + 4?<endOfText>
+<bot> 58<endOfText>
+<human>What is (3 + 6) - 9?<endOfText>
+<bot> 0<endOfText>
+<human>What is (4 + 7) * 4?<endOfText>
+<bot> 44<endOfText>
+<human>What is (5 - 7) - 7?<endOfText>
+<bot> -9<endOfText>
+<human>What is (3 * 8) + 7?<endOfText>
+<bot> 31<endOfText>
+<human>What is (2 + 1) * 7?<endOfText>
+<bot> 21<endOfText>
+<human>What is (4 * 1) + 1?<endOfText>
+<bot> 5<endOfText>
+<human>What is (8 + 2) + 2?<endOfText>
+<bot> 12<endOfText>
+<human>What is (2 * 6) + 5?<endOfText>
+<bot> 17<endOfText>
+<human>What is (3 * 9) + 6?<endOfText>
+<bot> 33<endOfText>
+<human>What is (4 + 4) - 7?<endOfText>
+<bot> 1<endOfText>
+<human>What is (5 - 5) + 2?<endOfText>
+<bot> 2<endOfText>
+<human>What is (3 - 8) * 6?<endOfText>
+<bot> -30<endOfText>
+<human>What is (7 + 5) * 3?<endOfText>
+<bot> 36<endOfText>
+<human>What is (9 - 6) * 8?<endOfText>
+<bot> 24<endOfText>
+<human>What is (2 + 5) * 1?<endOfText>
+<bot> 7<endOfText>
+<human>What is (2 * 9) * 7?<endOfText>
+<bot> 126<endOfText>
+<human>What is (1 - 4) - 7?<endOfText>
+<bot> -10<endOfText>
+<human>What is (4 + 6) + 5?<endOfText>
+<bot> 15<endOfText>
+<human>What is (4 + 6) - 8?<endOfText>
+<bot> 2<endOfText>
+<human>What is (2 + 6) - 7?<endOfText>
+<bot> 1<endOfText>
+<human>What is (6 - 7) * 2?<endOfText>
+<bot> -2<endOfText>
+<human>What is (6 + 9) * 3?<endOfText>
+<bot> 45<endOfText>
+<human>What is (2 * 1) - 7?<endOfText>
+<bot> -5<endOfText>
+<human>What is (6 + 6) - 9?<endOfText>
+<bot> 3<endOfText>
+<human>What is (4 * 3) + 9?<endOfText>
+<bot> 21<endOfText>
+<human>What is (7 + 7) * 3?<endOfText>
+<bot> 42<endOfText>
+<human>What is (7 - 3) * 2?<endOfText>
+<bot> 8<endOfText>
+<human>What is (9 + 6) - 2?<endOfText>
+<bot> 13<endOfText>
+<human>What is (9 + 9) + 1?<endOfText>
+<bot> 19<endOfText>
+<human>What is (1 - 9) * 6?<endOfText>
+<bot> -48<endOfText>
+<human>What is (1 - 1) - 3?<endOfText>
+<bot> -3<endOfText>
+<human>What is (6 * 8) + 2?<endOfText>
+<bot> 50<endOfText>
+<human>What is (6 - 4) + 9?<endOfText>
+<bot> 11<endOfText>
+<human>What is (7 - 6) - 4?<endOfText>
+<bot> -3<endOfText>
+<human>What is (9 - 7) * 1?<endOfText>
+<bot> 2<endOfText>
+<human>What is (9 - 1) * 2?<endOfText>
+<bot> 16<endOfText>
+<human>What is (4 + 1) * 8?<endOfText>
+<bot> 40<endOfText>
+<human>What is (3 * 1) * 3?<endOfText>
+<bot> 9<endOfText>
+<human>What is (5 * 3) + 2?<endOfText>
+<bot> 17<endOfText>
+<human>What is (5 * 2) * 9?<endOfText>
+<bot> 90<endOfText>
+<human>What is (7 * 6) * 8?<endOfText>
+<bot> 336<endOfText>
+<human>What is (6 * 1) * 4?<endOfText>
+<bot> 24<endOfText>
+<human>What is (6 - 2) * 6?<endOfText>
+<bot> 24<endOfText>
+<human>What is (6 - 9) + 7?<endOfText>
+<bot> 4<endOfText>
+<human>What is (9 - 7) * 9?<endOfText>
+<bot> 18<endOfText>
+<human>What is (7 - 4) - 4?<endOfText>
+<bot> -1<endOfText>
+<human>What is (2 + 1) - 6?<endOfText>
+<bot> -3<endOfText>
+<human>What is (4 - 3) * 9?<endOfText>
+<bot> 9<endOfText>
+<human>What is (5 + 1) - 5?<endOfText>
+<bot> 1<endOfText>
+<human>What is (2 * 1) - 3?<endOfText>
+<bot> -1<endOfText>
+<human>What is (5 - 4) - 5?<endOfText>
+<bot> -4<endOfText>
+<human>What is (2 * 7) - 9?<endOfText>
+<bot> 5<endOfText>
+<human>What is (2 - 9) - 2?<endOfText>
+<bot> -9<endOfText>
+<human>What is (6 * 9) + 6?<endOfText>
+<bot> 60<endOfText>
+<human>What is (8 * 5) + 9?<endOfText>
+<bot> 49<endOfText>
+<human>What is (9 - 4) * 9?<endOfText>
+<bot> 45<endOfText>
+<human>What is (1 * 8) + 3?<endOfText>
+<bot> 11<endOfText>
+<human>What is (6 * 5) + 4?<endOfText>
+<bot> 34<endOfText>
+<human>What is (5 * 9) + 2?<endOfText>
+<bot> 47<endOfText>
+<human>What is (8 * 9) - 3?<endOfText>
+<bot> 69<endOfText>
+<human>What is (8 - 1) - 2?<endOfText>
+<bot> 5<endOfText>
+<human>What is (7 + 2) + 9?<endOfText>
+<bot> 18<endOfText>
+<human>What is (5 - 1) + 7?<endOfText>
+<bot> 11<endOfText>
+<human>What is (7 + 2) + 2?<endOfText>
+<bot> 11<endOfText>
+<human>What is (8 - 1) + 6?<endOfText>
+<bot> 13<endOfText>
+<human>What is (5 + 8) + 8?<endOfText>
+<bot> 21<endOfText>
+<human>What is (8 * 1) + 2?<endOfText>
+<bot> 10<endOfText>
+<human>What is (9 - 6) - 8?<endOfText>
+<bot> -5<endOfText>
+<human>What is (4 - 9) + 6?<endOfText>
+<bot> 1<endOfText>
+<human>What is (9 * 3) * 9?<endOfText>
+<bot> 243<endOfText>
+<human>What is (3 - 3) - 9?<endOfText>
+<bot> -9<endOfText>
+<human>What is (6 - 6) * 1?<endOfText>
+<bot> 0<endOfText>
+<human>What is (7 * 3) + 6?<endOfText>
+<bot> 27<endOfText>
+<human>What is (6 * 1) - 9?<endOfText>
+<bot> -3<endOfText>
+<human>What is (9 * 2) + 6?<endOfText>
+<bot> 24<endOfText>
+<human>What is (5 * 3) + 3?<endOfText>
+<bot> 18<endOfText>
+<human>What is (8 + 7) - 1?<endOfText>
+<bot> 14<endOfText>
+<human>What is (9 * 7) * 9?<endOfText>
+<bot> 567<endOfText>
+<human>What is (5 - 7) * 5?<endOfText>
+<bot> -10<endOfText>
+<human>What is (1 + 3) * 4?<endOfText>
+<bot> 16<endOfText>
+<human>What is (8 - 1) * 3?<endOfText>
+<bot> 21<endOfText>
+<human>What is (3 + 5) * 5?<endOfText>
+<bot> 40<endOfText>
+<human>What is (1 * 4) + 1?<endOfText>
+<bot> 5<endOfText>
+<human>What is (1 - 6) * 6?<endOfText>
+<bot> -30<endOfText>
+<human>What is (8 + 8) + 3?<endOfText>
+<bot> 19<endOfText>
+<human>What is (4 - 9) * 6?<endOfText>
+<bot> -30<endOfText>
+<human>What is (8 - 5) + 6?<endOfText>
+<bot> 9<endOfText>
+<human>What is (4 - 2) - 4?<endOfText>
+<bot> -2<endOfText>
+<human>What is (3 + 8) + 4?<endOfText>
+<bot> 15<endOfText>
+<human>What is (7 * 2) * 4?<endOfText>
+<bot> 56<endOfText>
+<human>What is (9 * 2) - 3?<endOfText>
+<bot> 15<endOfText>
+<human>What is (4 - 9) - 8?<endOfText>
+<bot> -13<endOfText>
+<human>What is (8 + 9) * 1?<endOfText>
+<bot> 17<endOfText>
+<human>What is (9 - 2) - 7?<endOfText>
+<bot> 0<endOfText>
+<human>What is (5 - 9) * 4?<endOfText>
+<bot> -16<endOfText>
+<human>What is (8 * 6) * 9?<endOfText>
+<bot> 432<endOfText>
+<human>What is (9 + 3) + 1?<endOfText>
+<bot> 13<endOfText>
+<human>What is (8 + 1) - 6?<endOfText>
+<bot> 3<endOfText>
+<human>What is (5 * 1) + 7?<endOfText>
+<bot> 12<endOfText>
+<human>What is (8 * 7) + 5?<endOfText>
+<bot> 61<endOfText>
+<human>What is (6 * 4) * 8?<endOfText>
+<bot> 192<endOfText>
+<human>What is (5 * 5) * 3?<endOfText>
+<bot> 75<endOfText>
+<human>What is (6 - 1) + 4?<endOfText>
+<bot> 9<endOfText>
+<human>What is (3 + 4) + 9?<endOfText>
+<bot> 16<endOfText>
+<human>What is (8 - 5) - 6?<endOfText>
+<bot> -3<endOfText>
+<human>What is (9 + 6) * 6?<endOfText>
+<bot> 90<endOfText>
+<human>What is (4 - 8) + 8?<endOfText>
+<bot> 4<endOfText>
+<human>What is (6 + 7) + 9?<endOfText>
+<bot> 22<endOfText>
+<human>What is (5 - 4) - 2?<endOfText>
+<bot> -1<endOfText>
+<human>What is (6 - 1) * 7?<endOfText>
+<bot> 35<endOfText>
+<human>What is (6 + 7) * 2?<endOfText>
+<bot> 26<endOfText>
+<human>What is (3 - 2) * 6?<endOfText>
+<bot> 6<endOfText>
+<human>What is (4 + 5) - 4?<endOfText>
+<bot> 5<endOfText>
+<human>What is (9 * 2) - 5?<endOfText>
+<bot> 13<endOfText>
+<human>What is (6 + 9) + 5?<endOfText>
+<bot> 20<endOfText>
+<human>What is (1 * 5) - 6?<endOfText>
+<bot> -1<endOfText>
+<human>What is (6 + 1) * 9?<endOfText>
+<bot> 63<endOfText>
+<human>What is (8 - 3) - 8?<endOfText>
+<bot> -3<endOfText>
+<human>What is (2 - 8) + 3?<endOfText>
+<bot> -3<endOfText>
+<human>What is (6 + 9) - 3?<endOfText>
+<bot> 12<endOfText>
+<human>What is (9 + 7) - 9?<endOfText>
+<bot> 7<endOfText>
+<human>What is (8 - 5) * 4?<endOfText>
+<bot> 12<endOfText>
+<human>What is (5 + 2) - 5?<endOfText>
+<bot> 2<endOfText>
+<human>What is (9 * 2) - 1?<endOfText>
+<bot> 17<endOfText>
+<human>What is (9 - 2) + 8?<endOfText>
+<bot> 15<endOfText>
+<human>What is (1 * 9) + 6?<endOfText>
+<bot> 15<endOfText>
+<human>What is (5 - 3) - 1?<endOfText>
+<bot> 1<endOfText>
+<human>What is (2 - 8) - 1?<endOfText>
+<bot> -7<endOfText>
+<human>What is (4 * 6) - 8?<endOfText>
+<bot> 16<endOfText>
+<human>What is (3 - 8) + 7?<endOfText>
+<bot> 2<endOfText>
+<human>What is (6 - 5) - 1?<endOfText>
+<bot> 0<endOfText>
+<human>What is (4 - 4) - 1?<endOfText>
+<bot> -1<endOfText>
+<human>What is (6 - 1) - 5?<endOfText>
+<bot> 0<endOfText>
+<human>What is (7 * 5) + 6?<endOfText>
+<bot> 41<endOfText>
+<human>What is (3 + 1) - 5?<endOfText>
+<bot> -1<endOfText>
+<human>What is (1 + 9) + 7?<endOfText>
+<bot> 17<endOfText>
+<human>What is (9 + 2) + 1?<endOfText>
+<bot> 12<endOfText>
+<human>What is (1 * 1) * 5?<endOfText>
+<bot> 5<endOfText>
+<human>What is (3 * 3) - 6?<endOfText>
+<bot> 3<endOfText>
+<human>What is (8 - 8) - 7?<endOfText>
+<bot> -7<endOfText>
+<human>What is (7 + 5) + 8?<endOfText>
+<bot> 20<endOfText>
+<human>What is (4 - 1) - 5?<endOfText>
+<bot> -2<endOfText>
+<human>What is (5 + 9) + 6?<endOfText>
+<bot> 20<endOfText>
+<human>What is (2 + 6) + 7?<endOfText>
+<bot> 15<endOfText>
+<human>What is (8 + 3) - 4?<endOfText>
+<bot> 7<endOfText>
+<human>What is (9 + 2) * 4?<endOfText>
+<bot> 44<endOfText>
+<human>What is (7 + 8) * 5?<endOfText>
+<bot> 75<endOfText>
+<human>What is (7 + 7) - 5?<endOfText>
+<bot> 9<endOfText>
+<human>What is (8 + 7) * 8?<endOfText>
+<bot> 120<endOfText>
+<human>What is (1 * 4) + 9?<endOfText>
+<bot> 13<endOfText>
+<human>What is (4 * 8) * 8?<endOfText>
+<bot> 256<endOfText>
+<human>What is (7 + 5) - 2?<endOfText>
+<bot> 10<endOfText>
+<human>What is (8 * 8) + 4?<endOfText>
+<bot> 68<endOfText>
+<human>What is (6 - 2) + 3?<endOfText>
+<bot> 7<endOfText>
+<human>What is (6 + 3) * 3?<endOfText>
+<bot> 27<endOfText>
+<human>What is (4 + 2) - 5?<endOfText>
+<bot> 1<endOfText>
+<human>What is (4 * 5) + 7?<endOfText>
+<bot> 27<endOfText>
+<human>What is (8 - 6) * 8?<endOfText>
+<bot> 16<endOfText>
+<human>What is (6 * 9) * 3?<endOfText>
+<bot> 162<endOfText>
+<human>What is (7 + 8) + 1?<endOfText>
+<bot> 16<endOfText>
+<human>What is (8 - 6) * 7?<endOfText>
+<bot> 14<endOfText>
+<human>What is (5 + 5) * 7?<endOfText>
+<bot> 70<endOfText>
+<human>What is (6 - 1) - 4?<endOfText>
+<bot> 1<endOfText>
+<human>What is (4 * 3) * 9?<endOfText>
+<bot> 108<endOfText>
+<human>What is (6 - 2) - 8?<endOfText>
+<bot> -4<endOfText>
+<human>What is (5 - 7) + 8?<endOfText>
+<bot> 6<endOfText>
+<human>What is (8 + 8) - 3?<endOfText>
+<bot> 13<endOfText>
+<human>What is (8 - 5) - 8?<endOfText>
+<bot> -5<endOfText>
+<human>What is (9 + 2) * 1?<endOfText>
+<bot> 11<endOfText>
+<human>What is (6 + 2) - 2?<endOfText>
+<bot> 6<endOfText>
+<human>What is (5 * 1) * 8?<endOfText>
+<bot> 40<endOfText>
+<human>What is (8 - 2) - 1?<endOfText>
+<bot> 5<endOfText>
+<human>What is (6 + 2) + 7?<endOfText>
+<bot> 15<endOfText>
+<human>What is (3 + 3) - 4?<endOfText>
+<bot> 2<endOfText>
+<human>What is (2 + 8) - 2?<endOfText>
+<bot> 8<endOfText>
+<human>What is (6 - 3) * 7?<endOfText>
+<bot> 21<endOfText>
+<human>What is (1 * 8) + 9?<endOfText>
+<bot> 17<endOfText>
+<human>What is (3 - 1) + 5?<endOfText>
+<bot> 7<endOfText>
+<human>What is (6 * 4) - 1?<endOfText>
+<bot> 23<endOfText>
+<human>What is (8 * 1) - 5?<endOfText>
+<bot> 3<endOfText>
+<human>What is (7 + 7) + 9?<endOfText>
+<bot> 23<endOfText>
+<human>What is (9 + 1) - 6?<endOfText>
+<bot> 4<endOfText>
+<human>What is (4 + 8) - 2?<endOfText>
+<bot> 10<endOfText>
+<human>What is (6 + 3) + 4?<endOfText>
+<bot> 13<endOfText>
+<human>What is (9 * 6) - 5?<endOfText>
+<bot> 49<endOfText>
+<human>What is (4 - 6) - 1?<endOfText>
+<bot> -3<endOfText>
+<human>What is (2 - 3) - 4?<endOfText>
+<bot> -5<endOfText>
+<human>What is (8 - 6) + 5?<endOfText>
+<bot> 7<endOfText>
+<human>What is (9 - 8) - 3?<endOfText>
+<bot> -2<endOfText>
+<human>What is (7 - 5) + 5?<endOfText>
+<bot> 7<endOfText>
+<human>What is (5 - 8) - 7?<endOfText>
+<bot> -10<endOfText>
+<human>What is (3 * 1) + 4?<endOfText>
+<bot> 7<endOfText>
+<human>What is (8 + 4) - 7?<endOfText>
+<bot> 5<endOfText>
+<human>What is (2 - 3) * 8?<endOfText>
+<bot> -8<endOfText>
+<human>What is (1 + 2) * 8?<endOfText>
+<bot> 24<endOfText>
+<human>What is (1 + 3) + 5?<endOfText>
+<bot> 9<endOfText>
+<human>What is (2 + 8) * 1?<endOfText>
+<bot> 10<endOfText>
+<human>What is (4 + 4) * 6?<endOfText>
+<bot> 48<endOfText>
+<human>What is (3 + 9) - 3?<endOfText>
+<bot> 9<endOfText>
+<human>What is (4 - 7) * 2?<endOfText>
+<bot> -6<endOfText>
+<human>What is (3 + 4) * 1?<endOfText>
+<bot> 7<endOfText>
+<human>What is (9 - 9) - 7?<endOfText>
+<bot> -7<endOfText>
+<human>What is (9 - 2) * 2?<endOfText>
+<bot> 14<endOfText>
+<human>What is (9 - 8) * 2?<endOfText>
+<bot> 2<endOfText>
+<human>What is (3 * 1) * 6?<endOfText>
+<bot> 18<endOfText>
+<human>What is (2 + 9) + 2?<endOfText>
+<bot> 13<endOfText>
+<human>What is (4 * 6) - 6?<endOfText>
+<bot> 18<endOfText>
+<human>What is (4 + 6) + 7?<endOfText>
+<bot> 17<endOfText>
+<human>What is (6 * 5) - 4?<endOfText>
+<bot> 26<endOfText>
+<human>What is (2 * 2) + 5?<endOfText>
+<bot> 9<endOfText>
+<human>What is (4 - 6) + 9?<endOfText>
+<bot> 7<endOfText>
+<human>What is (8 + 2) - 8?<endOfText>
+<bot> 2<endOfText>
+<human>What is (6 - 3) - 9?<endOfText>
+<bot> -6<endOfText>
+<human>What is (7 + 7) - 2?<endOfText>
+<bot> 12<endOfText>
+<human>What is (2 + 7) + 2?<endOfText>
+<bot> 11<endOfText>
+<human>What is (4 + 3) - 6?<endOfText>
+<bot> 1<endOfText>
+<human>What is (8 - 3) + 1?<endOfText>
+<bot> 6<endOfText>
+<human>What is (7 + 1) - 1?<endOfText>
+<bot> 7<endOfText>
+<human>What is (8 * 6) * 4?<endOfText>
+<bot> 192<endOfText>
+<human>What is (8 + 4) * 6?<endOfText>
+<bot> 72<endOfText>
+<human>What is (1 + 8) * 7?<endOfText>
+<bot> 63<endOfText>
+<human>What is (8 * 8) * 1?<endOfText>
+<bot> 64<endOfText>
+<human>What is (2 - 4) - 1?<endOfText>
+<bot> -3<endOfText>
+<human>What is (5 * 7) * 6?<endOfText>
+<bot> 210<endOfText>
+<human>What is (2 * 6) * 6?<endOfText>
+<bot> 72<endOfText>
+<human>What is (3 - 6) + 9?<endOfText>
+<bot> 6<endOfText>
+<human>What is (7 - 7) + 6?<endOfText>
+<bot> 6<endOfText>
+<human>What is (1 + 6) * 7?<endOfText>
+<bot> 49<endOfText>
+<human>What is (8 + 9) * 7?<endOfText>
+<bot> 119<endOfText>
+<human>What is (1 * 7) - 2?<endOfText>
+<bot> 5<endOfText>
+<human>What is (2 - 3) - 7?<endOfText>
+<bot> -8<endOfText>
+<human>What is (3 + 7) + 9?<endOfText>
+<bot> 19<endOfText>
+<human>What is (5 + 4) - 6?<endOfText>
+<bot> 3<endOfText>
+<human>What is (4 - 1) + 3?<endOfText>
+<bot> 6<endOfText>
+<human>What is (9 - 1) + 8?<endOfText>
+<bot> 16<endOfText>
+<human>What is (9 + 3) * 1?<endOfText>
+<bot> 12<endOfText>
+<human>What is (2 * 8) * 5?<endOfText>
+<bot> 80<endOfText>
+<human>What is (3 - 1) - 9?<endOfText>
+<bot> -7<endOfText>
+<human>What is (5 + 2) + 1?<endOfText>
+<bot> 8<endOfText>
+<human>What is (4 * 6) - 3?<endOfText>
+<bot> 21<endOfText>
+<human>What is (9 * 6) - 8?<endOfText>
+<bot> 46<endOfText>
+<human>What is (9 * 4) + 3?<endOfText>
+<bot> 39<endOfText>
+<human>What is (2 * 2) * 2?<endOfText>
+<bot> 8<endOfText>
+<human>What is (7 + 9) + 6?<endOfText>
+<bot> 22<endOfText>
+<human>What is (6 * 8) + 4?<endOfText>
+<bot> 52<endOfText>
+<human>What is (8 * 4) * 1?<endOfText>
+<bot> 32<endOfText>
+<human>What is (2 * 7) + 6?<endOfText>
+<bot> 20<endOfText>
+<human>What is (8 - 6) - 4?<endOfText>
+<bot> -2<endOfText>
+<human>What is (7 + 5) + 4?<endOfText>
+<bot> 16<endOfText>
+<human>What is (8 * 5) * 1?<endOfText>
+<bot> 40<endOfText>
+<human>What is (8 * 6) - 1?<endOfText>
+<bot> 47<endOfText>
+<human>What is (3 * 1) + 7?<endOfText>
+<bot> 10<endOfText>
+<human>What is (8 - 3) + 8?<endOfText>
+<bot> 13<endOfText>
+<human>What is (6 + 9) * 8?<endOfText>
+<bot> 120<endOfText>
+<human>What is (3 * 1) * 4?<endOfText>
+<bot> 12<endOfText>
+<human>What is (9 * 2) * 8?<endOfText>
+<bot> 144<endOfText>
+<human>What is (6 - 5) + 5?<endOfText>
+<bot> 6<endOfText>
+<human>What is (1 + 1) - 4?<endOfText>
+<bot> -2<endOfText>
+<human>What is (1 * 9) - 8?<endOfText>
+<bot> 1<endOfText>
+<human>What is (1 - 1) * 1?<endOfText>
+<bot> 0<endOfText>
+<human>What is (5 * 9) - 3?<endOfText>
+<bot> 42<endOfText>
+<human>What is (5 + 8) - 4?<endOfText>
+<bot> 9<endOfText>
+<human>What is (4 * 5) - 1?<endOfText>
+<bot> 19<endOfText>
+<human>What is (3 - 4) + 7?<endOfText>
+<bot> 6<endOfText>
+<human>What is (7 * 2) + 4?<endOfText>
+<bot> 18<endOfText>
+<human>What is (5 * 5) + 4?<endOfText>
+<bot> 29<endOfText>
+<human>What is (9 + 9) + 7?<endOfText>
+<bot> 25<endOfText>
+<human>What is (2 + 1) + 3?<endOfText>
+<bot> 6<endOfText>
+<human>What is (5 * 6) + 8?<endOfText>
+<bot> 38<endOfText>
+<human>What is (6 - 7) + 3?<endOfText>
+<bot> 2<endOfText>
+<human>What is (6 + 1) - 9?<endOfText>
+<bot> -2<endOfText>
+<human>What is (5 * 9) - 9?<endOfText>
+<bot> 36<endOfText>
+<human>What is (1 - 8) - 3?<endOfText>
+<bot> -10<endOfText>
+<human>What is (7 - 7) - 5?<endOfText>
+<bot> -5<endOfText>
+<human>What is (5 * 3) - 6?<endOfText>
+<bot> 9<endOfText>
+<human>What is (5 * 8) - 9?<endOfText>
+<bot> 31<endOfText>
+<human>What is (4 * 4) * 4?<endOfText>
+<bot> 64<endOfText>
+<human>What is (4 - 1) - 6?<endOfText>
+<bot> -3<endOfText>
+<human>What is (2 - 3) + 9?<endOfText>
+<bot> 8<endOfText>
+<human>What is (5 - 1) - 7?<endOfText>
+<bot> -3<endOfText>
+<human>What is (8 * 6) * 1?<endOfText>
+<bot> 48<endOfText>
+<human>What is (4 - 1) - 3?<endOfText>
+<bot> 0<endOfText>
+<human>What is (2 - 2) * 5?<endOfText>
+<bot> 0<endOfText>
+<human>What is (4 + 8) * 4?<endOfText>
+<bot> 48<endOfText>
+<human>What is (3 - 2) * 7?<endOfText>
+<bot> 7<endOfText>
+<human>What is (7 - 2) * 8?<endOfText>
+<bot> 40<endOfText>
+<human>What is (6 * 3) + 5?<endOfText>
+<bot> 23<endOfText>
+<human>What is (4 + 6) + 2?<endOfText>
+<bot> 12<endOfText>
+<human>What is (7 * 4) + 1?<endOfText>
+<bot> 29<endOfText>
+<human>What is (7 - 1) + 8?<endOfText>
+<bot> 14<endOfText>
+<human>What is (2 - 2) + 3?<endOfText>
+<bot> 3<endOfText>
+<human>What is (7 * 2) - 6?<endOfText>
+<bot> 8<endOfText>
+<human>What is (3 + 9) - 7?<endOfText>
+<bot> 5<endOfText>
+<human>What is (4 - 8) * 2?<endOfText>
+<bot> -8<endOfText>
+<human>What is (5 * 2) + 5?<endOfText>
+<bot> 15<endOfText>
+<human>What is (4 - 1) + 8?<endOfText>
+<bot> 11<endOfText>
+<human>What is (2 - 6) + 9?<endOfText>
+<bot> 5<endOfText>
+<human>What is (9 - 7) + 4?<endOfText>
+<bot> 6<endOfText>
+<human>What is (9 + 8) + 8?<endOfText>
+<bot> 25<endOfText>
+<human>What is (2 - 1) + 5?<endOfText>
+<bot> 6<endOfText>
+<human>What is (1 + 3) - 7?<endOfText>
+<bot> -3<endOfText>
+<human>What is (8 - 2) - 6?<endOfText>
+<bot> 0<endOfText>
+<human>What is (3 + 7) - 3?<endOfText>
+<bot> 7<endOfText>
+<human>What is (4 - 8) * 6?<endOfText>
+<bot> -24<endOfText>
+<human>What is (1 * 3) + 5?<endOfText>
+<bot> 8<endOfText>
+<human>What is (9 * 9) - 1?<endOfText>
+<bot> 80<endOfText>
+<human>What is (9 * 5) * 2?<endOfText>
+<bot> 90<endOfText>
+<human>What is (1 * 4) * 2?<endOfText>
+<bot> 8<endOfText>
+<human>What is (5 - 5) + 5?<endOfText>
+<bot> 5<endOfText>
+<human>What is (9 + 2) - 5?<endOfText>
+<bot> 6<endOfText>
+<human>What is (3 * 4) + 1?<endOfText>
+<bot> 13<endOfText>
+<human>What is (4 * 4) - 5?<endOfText>
+<bot> 11<endOfText>
+<human>What is (6 * 4) - 2?<endOfText>
+<bot> 22<endOfText>
+<human>What is (3 * 3) - 2?<endOfText>
+<bot> 7<endOfText>
+<human>What is (7 - 5) - 7?<endOfText>
+<bot> -5<endOfText>
+<human>What is (3 * 6) - 5?<endOfText>
+<bot> 13<endOfText>
+<human>What is (7 - 7) + 7?<endOfText>
+<bot> 7<endOfText>
+<human>What is (6 + 8) * 4?<endOfText>
+<bot> 56<endOfText>
+<human>What is (9 + 7) + 6?<endOfText>
+<bot> 22<endOfText>
+<human>What is (1 + 1) * 1?<endOfText>
+<bot> 2<endOfText>
+<human>What is (9 - 4) + 2?<endOfText>
+<bot> 7<endOfText>
+<human>What is (9 * 4) * 5?<endOfText>
+<bot> 180<endOfText>
+<human>What is (9 - 1) + 3?<endOfText>
+<bot> 11<endOfText>
+<human>What is (2 + 5) - 6?<endOfText>
+<bot> 1<endOfText>
+<human>What is (7 - 1) + 4?<endOfText>
+<bot> 10<endOfText>
+<human>What is (3 - 6) - 8?<endOfText>
+<bot> -11<endOfText>
+<human>What is (3 - 1) - 3?<endOfText>
+<bot> -1<endOfText>
+<human>What is (7 - 6) + 3?<endOfText>
+<bot> 4<endOfText>
+<human>What is (1 + 7) - 2?<endOfText>
+<bot> 6<endOfText>
+<human>What is (8 - 9) + 3?<endOfText>
+<bot> 2<endOfText>
+<human>What is (9 + 2) * 6?<endOfText>
+<bot> 66<endOfText>
+<human>What is (2 * 6) - 5?<endOfText>
+<bot> 7<endOfText>
+<human>What is (8 + 7) + 3?<endOfText>
+<bot> 18<endOfText>
+<human>What is (4 * 5) - 7?<endOfText>
+<bot> 13<endOfText>
+<human>What is (3 - 8) + 4?<endOfText>
+<bot> -1<endOfText>
+<human>What is (5 + 6) - 2?<endOfText>
+<bot> 9<endOfText>
+<human>What is (3 - 6) * 1?<endOfText>
+<bot> -3<endOfText>
+<human>What is (2 + 9) - 5?<endOfText>
+<bot> 6<endOfText>
+<human>What is (5 + 1) + 4?<endOfText>
+<bot> 10<endOfText>
+<human>What is (4 - 5) * 1?<endOfText>
+<bot> -1<endOfText>
+<human>What is (1 * 9) * 3?<endOfText>
+<bot> 27<endOfText>
+<human>What is (4 * 2) + 8?<endOfText>
+<bot> 16<endOfText>
+<human>What is (8 * 3) + 1?<endOfText>
+<bot> 25<endOfText>
+<human>What is (4 + 7) + 5?<endOfText>
+<bot> 16<endOfText>
+<human>What is (5 + 2) - 9?<endOfText>
+<bot> -2<endOfText>
+<human>What is (9 * 2) + 5?<endOfText>
+<bot> 23<endOfText>
+<human>What is (2 - 3) * 4?<endOfText>
+<bot> -4<endOfText>
+<human>What is (3 - 1) * 5?<endOfText>
+<bot> 10<endOfText>
+<human>What is (2 + 2) + 3?<endOfText>
+<bot> 7<endOfText>
+<human>What is (7 - 7) - 3?<endOfText>
+<bot> -3<endOfText>
+<human>What is (5 - 7) * 3?<endOfText>
+<bot> -6<endOfText>
+<human>What is (4 * 9) * 2?<endOfText>
+<bot> 72<endOfText>
+<human>What is (4 + 8) + 7?<endOfText>
+<bot> 19<endOfText>
+<human>What is (3 - 9) + 9?<endOfText>
+<bot> 3<endOfText>
+<human>What is (2 + 6) + 5?<endOfText>
+<bot> 13<endOfText>
+<human>What is (7 - 2) - 9?<endOfText>
+<bot> -4<endOfText>
+<human>What is (7 - 6) + 6?<endOfText>
+<bot> 7<endOfText>
+<human>What is (6 * 6) + 6?<endOfText>
+<bot> 42<endOfText>
+<human>What is (7 + 1) * 3?<endOfText>
+<bot> 24<endOfText>
+<human>What is (3 * 6) + 6?<endOfText>
+<bot> 24<endOfText>
+<human>What is (9 + 2) * 9?<endOfText>
+<bot> 99<endOfText>
+<human>What is (4 + 2) - 8?<endOfText>
+<bot> -2<endOfText>
+<human>What is (9 + 9) * 7?<endOfText>
+<bot> 126<endOfText>
+<human>What is (3 - 8) - 3?<endOfText>
+<bot> -8<endOfText>
+<human>What is (6 * 8) + 6?<endOfText>
+<bot> 54<endOfText>
+<human>What is (2 + 8) * 7?<endOfText>
+<bot> 70<endOfText>
+<human>What is (9 * 1) * 8?<endOfText>
+<bot> 72<endOfText>
+<human>What is (1 + 1) + 7?<endOfText>
+<bot> 9<endOfText>
+<human>What is (3 + 9) + 6?<endOfText>
+<bot> 18<endOfText>
+<human>What is (9 - 4) + 4?<endOfText>
+<bot> 9<endOfText>
+<human>What is (9 - 9) * 1?<endOfText>
+<bot> 0<endOfText>
+<human>What is (7 - 8) - 3?<endOfText>
+<bot> -4<endOfText>
+<human>What is (5 - 3) - 9?<endOfText>
+<bot> -7<endOfText>
+<human>What is (3 + 9) * 3?<endOfText>
+<bot> 36<endOfText>
+<human>What is (4 - 7) - 5?<endOfText>
+<bot> -8<endOfText>
+<human>What is (6 + 3) - 8?<endOfText>
+<bot> 1<endOfText>
+<human>What is (9 + 9) * 5?<endOfText>
+<bot> 90<endOfText>
+<human>What is (3 - 6) + 1?<endOfText>
+<bot> -2<endOfText>
+<human>What is (8 + 9) * 6?<endOfText>
+<bot> 102<endOfText>
+<human>What is (3 + 7) * 7?<endOfText>
+<bot> 70<endOfText>
+<human>What is (2 * 9) + 6?<endOfText>
+<bot> 24<endOfText>
+<human>What is (5 * 3) - 9?<endOfText>
+<bot> 6<endOfText>
+<human>What is (8 * 5) + 8?<endOfText>
+<bot> 48<endOfText>
+<human>What is (2 * 7) - 1?<endOfText>
+<bot> 13<endOfText>
+<human>What is (7 + 2) - 6?<endOfText>
+<bot> 3<endOfText>
+<human>What is (5 * 9) - 1?<endOfText>
+<bot> 44<endOfText>
+<human>What is (6 + 6) + 8?<endOfText>
+<bot> 20<endOfText>
+<human>What is (8 + 4) * 3?<endOfText>
+<bot> 36<endOfText>
+<human>What is (9 - 8) * 5?<endOfText>
+<bot> 5<endOfText>
+<human>What is (6 * 1) * 5?<endOfText>
+<bot> 30<endOfText>
+<human>What is (5 * 6) * 9?<endOfText>
+<bot> 270<endOfText>
+<human>What is (3 * 7) * 3?<endOfText>
+<bot> 63<endOfText>
+<human>What is (3 + 5) + 7?<endOfText>
+<bot> 15<endOfText>
+<human>What is (1 * 4) + 6?<endOfText>
+<bot> 10<endOfText>
+<human>What is (4 + 3) - 3?<endOfText>
+<bot> 4<endOfText>
+<human>What is (7 + 5) * 8?<endOfText>
+<bot> 96<endOfText>
+<human>What is (4 - 2) + 5?<endOfText>
+<bot> 7<endOfText>
+<human>What is (8 + 5) + 4?<endOfText>
+<bot> 17<endOfText>
+<human>What is (2 * 4) + 8?<endOfText>
+<bot> 16<endOfText>
+<human>What is (1 + 2) + 1?<endOfText>
+<bot> 4<endOfText>
+<human>What is (4 + 9) + 7?<endOfText>
+<bot> 20<endOfText>
+<human>What is (4 * 7) * 8?<endOfText>
+<bot> 224<endOfText>
+<human>What is (3 - 6) + 2?<endOfText>
+<bot> -1<endOfText>
+<human>What is (3 * 7) * 5?<endOfText>
+<bot> 105<endOfText>
+<human>What is (8 + 1) * 5?<endOfText>
+<bot> 45<endOfText>
+<human>What is (7 * 5) - 2?<endOfText>
+<bot> 33<endOfText>
+<human>What is (6 * 8) + 9?<endOfText>
+<bot> 57<endOfText>
+<human>What is (8 + 2) * 5?<endOfText>
+<bot> 50<endOfText>
+<human>What is (8 + 1) + 6?<endOfText>
+<bot> 15<endOfText>
+<human>What is (3 * 4) * 3?<endOfText>
+<bot> 36<endOfText>
+<human>What is (3 - 2) + 8?<endOfText>
+<bot> 9<endOfText>
+<human>What is (1 * 5) + 7?<endOfText>
+<bot> 12<endOfText>
+<human>What is (5 + 9) + 4?<endOfText>
+<bot> 18<endOfText>
+<human>What is (7 * 7) + 8?<endOfText>
+<bot> 57<endOfText>
+<human>What is (2 * 9) + 2?<endOfText>
+<bot> 20<endOfText>
+<human>What is (8 * 1) - 2?<endOfText>
+<bot> 6<endOfText>
+<human>What is (9 + 5) - 3?<endOfText>
+<bot> 11<endOfText>
+<human>What is (1 + 9) * 9?<endOfText>
+<bot> 90<endOfText>
+<human>What is (8 + 4) - 3?<endOfText>
+<bot> 9<endOfText>
+<human>What is (9 + 4) * 3?<endOfText>
+<bot> 39<endOfText>
+<human>What is (4 - 5) * 3?<endOfText>
+<bot> -3<endOfText>
+<human>What is (7 + 9) + 2?<endOfText>
+<bot> 18<endOfText>
+<human>What is (8 - 8) + 6?<endOfText>
+<bot> 6<endOfText>
+<human>What is (9 * 2) - 8?<endOfText>
+<bot> 10<endOfText>
+<human>What is (8 * 6) + 2?<endOfText>
+<bot> 50<endOfText>
+<human>What is (7 + 4) * 9?<endOfText>
+<bot> 99<endOfText>
+<human>What is (2 + 3) * 1?<endOfText>
+<bot> 5<endOfText>
+<human>What is (6 + 7) * 6?<endOfText>
+<bot> 78<endOfText>
+<human>What is (4 * 1) - 1?<endOfText>
+<bot> 3<endOfText>
+<human>What is (5 + 1) - 3?<endOfText>
+<bot> 3<endOfText>
+<human>What is (3 + 2) + 7?<endOfText>
+<bot> 12<endOfText>
+<human>What is (9 - 7) + 3?<endOfText>
+<bot> 5<endOfText>
+<human>What is (5 * 2) + 1?<endOfText>
+<bot> 11<endOfText>
+<human>What is (1 * 8) * 1?<endOfText>
+<bot> 8<endOfText>
+<human>What is (1 - 8) * 7?<endOfText>
+<bot> -49<endOfText>
+<human>What is (4 + 6) + 8?<endOfText>
+<bot> 18<endOfText>
+<human>What is (4 - 1) * 7?<endOfText>
+<bot> 21<endOfText>
+<human>What is (7 * 1) * 3?<endOfText>
+<bot> 21<endOfText>
+<human>What is (5 - 4) - 3?<endOfText>
+<bot> -2<endOfText>
+<human>What is (3 * 5) * 6?<endOfText>
+<bot> 90<endOfText>
+<human>What is (1 - 7) + 1?<endOfText>
+<bot> -5<endOfText>
+<human>What is (4 * 2) - 6?<endOfText>
+<bot> 2<endOfText>
+<human>What is (2 + 4) - 6?<endOfText>
+<bot> 0<endOfText>
+<human>What is (2 - 5) - 4?<endOfText>
+<bot> -7<endOfText>
+<human>What is (2 + 9) * 9?<endOfText>
+<bot> 99<endOfText>
+<human>What is (2 - 3) + 2?<endOfText>
+<bot> 1<endOfText>
+<human>What is (2 * 2) * 7?<endOfText>
+<bot> 28<endOfText>
+<human>What is (3 - 7) + 4?<endOfText>
+<bot> 0<endOfText>
+<human>What is (5 * 9) * 3?<endOfText>
+<bot> 135<endOfText>
+<human>What is (2 - 2) * 3?<endOfText>
+<bot> 0<endOfText>
+<human>What is (7 + 1) * 7?<endOfText>
+<bot> 56<endOfText>
+<human>What is (9 * 8) - 1?<endOfText>
+<bot> 71<endOfText>
+<human>What is (6 + 8) + 9?<endOfText>
+<bot> 23<endOfText>
+<human>What is (4 + 9) + 1?<endOfText>
+<bot> 14<endOfText>
+<human>What is (7 * 9) + 9?<endOfText>
+<bot> 72<endOfText>
+<human>What is (4 + 3) - 8?<endOfText>
+<bot> -1<endOfText>
+<human>What is (8 - 4) + 7?<endOfText>
+<bot> 11<endOfText>
+<human>What is (7 - 9) - 1?<endOfText>
+<bot> -3<endOfText>
+<human>What is (7 + 6) * 1?<endOfText>
+<bot> 13<endOfText>
+<human>What is (5 + 4) + 9?<endOfText>
+<bot> 18<endOfText>
+<human>What is (8 * 5) * 8?<endOfText>
+<bot> 320<endOfText>
+<human>What is (9 - 9) + 3?<endOfText>
+<bot> 3<endOfText>
+<human>What is (6 * 6) + 3?<endOfText>
+<bot> 39<endOfText>
+<human>What is (4 - 3) - 7?<endOfText>
+<bot> -6<endOfText>
+<human>What is (8 + 8) + 6?<endOfText>
+<bot> 22<endOfText>
+<human>What is (7 - 3) + 3?<endOfText>
+<bot> 7<endOfText>
+<human>What is (8 * 8) + 1?<endOfText>
+<bot> 65<endOfText>
+<human>What is (2 + 5) - 2?<endOfText>
+<bot> 5<endOfText>
+<human>What is (2 * 9) - 6?<endOfText>
+<bot> 12<endOfText>
+<human>What is (6 + 4) - 2?<endOfText>
+<bot> 8<endOfText>
+<human>What is (3 + 3) * 4?<endOfText>
+<bot> 24<endOfText>
+<human>What is (9 - 5) - 4?<endOfText>
+<bot> 0<endOfText>
+<human>What is (6 - 8) - 6?<endOfText>
+<bot> -8<endOfText>
+<human>What is (6 - 2) - 3?<endOfText>
+<bot> 1<endOfText>
+<human>What is (2 + 7) * 4?<endOfText>
+<bot> 36<endOfText>
+<human>What is (6 * 5) + 7?<endOfText>
+<bot> 37<endOfText>
+<human>What is (8 + 9) + 9?<endOfText>
+<bot> 26<endOfText>
+<human>What is (8 + 7) + 6?<endOfText>
+<bot> 21<endOfText>
+<human>What is (7 - 8) + 8?<endOfText>
+<bot> 7<endOfText>
+<human>What is (7 * 9) - 4?<endOfText>
+<bot> 59<endOfText>
+<human>What is (6 * 7) - 3?<endOfText>
+<bot> 39<endOfText>
+<human>What is (6 + 7) - 7?<endOfText>
+<bot> 6<endOfText>
+<human>What is (9 + 4) + 8?<endOfText>
+<bot> 21<endOfText>
+<human>What is (8 - 1) * 7?<endOfText>
+<bot> 49<endOfText>
+<human>What is (4 + 2) - 7?<endOfText>
+<bot> -1<endOfText>
+<human>What is (7 + 8) + 5?<endOfText>
+<bot> 20<endOfText>
+<human>What is (6 - 7) + 1?<endOfText>
+<bot> 0<endOfText>
+<human>What is (1 - 7) * 2?<endOfText>
+<bot> -12<endOfText>
+<human>What is (1 + 4) * 9?<endOfText>
+<bot> 45<endOfText>
+<human>What is (9 - 5) + 5?<endOfText>
+<bot> 9<endOfText>
+<human>What is (5 + 6) - 3?<endOfText>
+<bot> 8<endOfText>
+<human>What is (5 - 2) - 9?<endOfText>
+<bot> -6<endOfText>
+<human>What is (1 * 4) * 8?<endOfText>
+<bot> 32<endOfText>
+<human>What is (5 - 3) * 9?<endOfText>
+<bot> 18<endOfText>
+<human>What is (7 - 3) * 1?<endOfText>
+<bot> 4<endOfText>
+<human>What is (4 * 7) - 3?<endOfText>
+<bot> 25<endOfText>
+<human>What is (9 + 5) - 6?<endOfText>
+<bot> 8<endOfText>
+<human>What is (9 * 5) - 1?<endOfText>
+<bot> 44<endOfText>
+<human>What is (1 + 3) + 2?<endOfText>
+<bot> 6<endOfText>
+<human>What is (2 - 2) - 9?<endOfText>
+<bot> -9<endOfText>
+<human>What is (2 * 6) * 7?<endOfText>
+<bot> 84<endOfText>
+<human>What is (7 - 1) * 4?<endOfText>
+<bot> 24<endOfText>
+<human>What is (7 + 8) * 2?<endOfText>
+<bot> 30<endOfText>
+<human>What is (5 * 5) - 6?<endOfText>
+<bot> 19<endOfText>
+<human>What is (1 + 4) * 6?<endOfText>
+<bot> 30<endOfText>
+<human>What is (7 - 6) - 2?<endOfText>
+<bot> -1<endOfText>
+<human>What is (7 - 2) * 7?<endOfText>
+<bot> 35<endOfText>
+<human>What is (5 + 3) + 2?<endOfText>
+<bot> 10<endOfText>
+<human>What is (7 + 7) * 4?<endOfText>
+<bot> 56<endOfText>
+<human>What is (2 - 1) - 2?<endOfText>
+<bot> -1<endOfText>
+<human>What is (3 - 2) + 9?<endOfText>
+<bot> 10<endOfText>
+<human>What is (8 * 8) - 2?<endOfText>
+<bot> 62<endOfText>
+<human>What is (7 + 9) - 2?<endOfText>
+<bot> 14<endOfText>
+<human>What is (6 * 7) + 7?<endOfText>
+<bot> 49<endOfText>
+<human>What is (8 + 7) - 6?<endOfText>
+<bot> 9<endOfText>
+<human>What is (8 * 5) + 7?<endOfText>
+<bot> 47<endOfText>
+<human>What is (5 - 3) * 1?<endOfText>
+<bot> 2<endOfText>
+<human>What is (7 * 5) * 6?<endOfText>
+<bot> 210<endOfText>
+<human>What is (7 - 2) * 9?<endOfText>
+<bot> 45<endOfText>
+<human>What is (1 * 9) * 5?<endOfText>
+<bot> 45<endOfText>
+<human>What is (6 - 1) + 2?<endOfText>
+<bot> 7<endOfText>
+<human>What is (8 + 1) + 4?<endOfText>
+<bot> 13<endOfText>
+<human>What is (3 + 8) + 7?<endOfText>
+<bot> 18<endOfText>
+<human>What is (3 + 5) + 9?<endOfText>
+<bot> 17<endOfText>
+<human>What is (5 * 6) - 8?<endOfText>
+<bot> 22<endOfText>
+<human>What is (5 + 8) + 5?<endOfText>
+<bot> 18<endOfText>
+<human>What is (5 + 3) * 8?<endOfText>
+<bot> 64<endOfText>
+<human>What is (9 - 6) + 7?<endOfText>
+<bot> 10<endOfText>
+<human>What is (7 + 6) * 4?<endOfText>
+<bot> 52<endOfText>
+<human>What is (8 + 1) * 6?<endOfText>
+<bot> 54<endOfText>
+<human>What is (4 - 6) - 4?<endOfText>
+<bot> -6<endOfText>
+<human>What is (9 + 9) - 7?<endOfText>
+<bot> 11<endOfText>
+<human>What is (5 * 8) * 6?<endOfText>
+<bot> 240<endOfText>
+<human>What is (3 * 5) * 2?<endOfText>
+<bot> 30<endOfText>
+<human>What is (7 + 1) + 5?<endOfText>
+<bot> 13<endOfText>
+<human>What is (3 * 2) + 4?<endOfText>
+<bot> 10<endOfText>
+<human>What is (9 + 4) - 7?<endOfText>
+<bot> 6<endOfText>
+<human>What is (9 + 3) * 8?<endOfText>
+<bot> 96<endOfText>
+<human>What is (3 - 5) + 9?<endOfText>
+<bot> 7<endOfText>
+<human>What is (9 + 6) + 7?<endOfText>
+<bot> 22<endOfText>
+<human>What is (3 + 1) - 3?<endOfText>
+<bot> 1<endOfText>
+<human>What is (2 + 4) + 2?<endOfText>
+<bot> 8<endOfText>
+<human>What is (6 + 3) * 7?<endOfText>
+<bot> 63<endOfText>
+<human>What is (9 - 8) - 1?<endOfText>
+<bot> 0<endOfText>
+<human>What is (2 * 2) - 6?<endOfText>
+<bot> -2<endOfText>
+<human>What is (3 * 6) + 8?<endOfText>
+<bot> 26<endOfText>
+<human>What is (9 + 2) + 3?<endOfText>
+<bot> 14<endOfText>
+<human>What is (4 * 1) - 8?<endOfText>
+<bot> -4<endOfText>
+<human>What is (4 + 7) * 3?<endOfText>
+<bot> 33<endOfText>
+<human>What is (1 * 7) - 9?<endOfText>
+<bot> -2<endOfText>
+<human>What is (8 + 7) - 4?<endOfText>
+<bot> 11<endOfText>
+<human>What is (7 + 4) * 4?<endOfText>
+<bot> 44<endOfText>
+<human>What is (8 - 9) - 1?<endOfText>
+<bot> -2<endOfText>
+<human>What is (5 - 5) * 9?<endOfText>
+<bot> 0<endOfText>
+<human>What is (5 * 7) * 7?<endOfText>
+<bot> 245<endOfText>
+<human>What is (5 + 5) - 6?<endOfText>
+<bot> 4<endOfText>
+<human>What is (1 - 7) - 9?<endOfText>
+<bot> -15<endOfText>
+<human>What is (2 + 2) * 9?<endOfText>
+<bot> 36<endOfText>
+<human>What is (6 + 8) * 9?<endOfText>
+<bot> 126<endOfText>
+<human>What is (8 + 3) + 5?<endOfText>
+<bot> 16<endOfText>
+<human>What is (5 - 7) - 6?<endOfText>
+<bot> -8<endOfText>
+<human>What is (9 + 2) + 7?<endOfText>
+<bot> 18<endOfText>
+<human>What is (6 + 5) + 2?<endOfText>
+<bot> 13<endOfText>
+<human>What is (5 + 7) + 3?<endOfText>
+<bot> 15<endOfText>
+<human>What is (7 * 2) + 9?<endOfText>
+<bot> 23<endOfText>
+<human>What is (5 + 2) * 5?<endOfText>
+<bot> 35<endOfText>
+<human>What is (3 * 9) * 5?<endOfText>
+<bot> 135<endOfText>
+<human>What is (1 - 2) * 4?<endOfText>
+<bot> -4<endOfText>
+<human>What is (5 - 6) + 1?<endOfText>
+<bot> 0<endOfText>
+<human>What is (4 + 7) * 2?<endOfText>
+<bot> 22<endOfText>
+<human>What is (3 + 2) + 2?<endOfText>
+<bot> 7<endOfText>
+<human>What is (4 * 6) + 7?<endOfText>
+<bot> 31<endOfText>
+<human>What is (7 * 2) - 3?<endOfText>
+<bot> 11<endOfText>
+<human>What is (8 * 9) - 4?<endOfText>
+<bot> 68<endOfText>
+<human>What is (1 - 8) * 9?<endOfText>
+<bot> -63<endOfText>
+<human>What is (5 + 2) + 9?<endOfText>
+<bot> 16<endOfText>
+<human>What is (9 - 5) - 7?<endOfText>
+<bot> -3<endOfText>
+<human>What is (9 + 6) * 3?<endOfText>
+<bot> 45<endOfText>
+<human>What is (7 + 3) * 9?<endOfText>
+<bot> 90<endOfText>
+<human>What is (8 * 3) - 5?<endOfText>
+<bot> 19<endOfText>
+<human>What is (7 + 9) + 3?<endOfText>
+<bot> 19<endOfText>
+<human>What is (2 * 6) - 9?<endOfText>
+<bot> 3<endOfText>
+<human>What is (9 * 6) + 4?<endOfText>
+<bot> 58<endOfText>
+<human>What is (3 - 2) - 9?<endOfText>
+<bot> -8<endOfText>
+<human>What is (7 + 8) - 8?<endOfText>
+<bot> 7<endOfText>
+<human>What is (7 - 4) + 1?<endOfText>
+<bot> 4<endOfText>
+<human>What is (5 + 8) * 3?<endOfText>
+<bot> 39<endOfText>
+<human>What is (8 * 2) * 3?<endOfText>
+<bot> 48<endOfText>
+<human>What is (6 + 1) - 8?<endOfText>
+<bot> -1<endOfText>
+<human>What is (5 - 5) - 8?<endOfText>
+<bot> -8<endOfText>
+<human>What is (3 * 5) - 8?<endOfText>
+<bot> 7<endOfText>
+<human>What is (3 + 3) * 5?<endOfText>
+<bot> 30<endOfText>
+<human>What is (5 * 1) + 3?<endOfText>
+<bot> 8<endOfText>
+<human>What is (6 + 8) - 8?<endOfText>
+<bot> 6<endOfText>
+<human>What is (4 - 2) + 8?<endOfText>
+<bot> 10<endOfText>
+<human>What is (9 + 3) - 9?<endOfText>
+<bot> 3<endOfText>
+<human>What is (6 - 4) - 7?<endOfText>
+<bot> -5<endOfText>
+<human>What is (7 - 4) - 6?<endOfText>
+<bot> -3<endOfText>
+<human>What is (7 + 4) + 5?<endOfText>
+<bot> 16<endOfText>
+<human>What is (5 + 4) * 8?<endOfText>
+<bot> 72<endOfText>
+<human>What is (7 - 8) * 9?<endOfText>
+<bot> -9<endOfText>
+<human>What is (9 * 5) * 3?<endOfText>
+<bot> 135<endOfText>
+<human>What is (1 - 3) * 7?<endOfText>
+<bot> -14<endOfText>
+<human>What is (9 - 5) + 8?<endOfText>
+<bot> 12<endOfText>
+<human>What is (9 + 6) * 4?<endOfText>
+<bot> 60<endOfText>
+<human>What is (6 + 8) - 4?<endOfText>
+<bot> 10<endOfText>
+<human>What is (9 + 7) * 3?<endOfText>
+<bot> 48<endOfText>
+<human>What is (7 - 8) * 8?<endOfText>
+<bot> -8<endOfText>
+<human>What is (6 - 4) - 8?<endOfText>
+<bot> -6<endOfText>
+<human>What is (6 - 7) - 2?<endOfText>
+<bot> -3<endOfText>
+<human>What is (4 + 9) + 9?<endOfText>
+<bot> 22<endOfText>
+<human>What is (3 - 5) - 9?<endOfText>
+<bot> -11<endOfText>
+<human>What is (6 - 3) - 4?<endOfText>
+<bot> -1<endOfText>
+<human>What is (1 - 9) * 1?<endOfText>
+<bot> -8<endOfText>
+<human>What is (3 - 5) + 3?<endOfText>
+<bot> 1<endOfText>
+<human>What is (7 * 7) - 1?<endOfText>
+<bot> 48<endOfText>
+<human>What is (2 - 8) * 9?<endOfText>
+<bot> -54<endOfText>
+<human>What is (6 * 9) * 1?<endOfText>
+<bot> 54<endOfText>
+<human>What is (1 * 2) - 9?<endOfText>
+<bot> -7<endOfText>
+<human>What is (4 + 8) * 2?<endOfText>
+<bot> 24<endOfText>
+<human>What is (4 - 3) * 7?<endOfText>
+<bot> 7<endOfText>
+<human>What is (8 + 6) + 2?<endOfText>
+<bot> 16<endOfText>
+<human>What is (8 + 1) - 8?<endOfText>
+<bot> 1<endOfText>
+<human>What is (7 - 7) * 4?<endOfText>
+<bot> 0<endOfText>
+<human>What is (5 - 2) * 6?<endOfText>
+<bot> 18<endOfText>
+<human>What is (2 - 9) - 4?<endOfText>
+<bot> -11<endOfText>
+<human>What is (1 + 4) + 5?<endOfText>
+<bot> 10<endOfText>
+<human>What is (1 - 5) - 8?<endOfText>
+<bot> -12<endOfText>
+<human>What is (4 * 4) + 4?<endOfText>
+<bot> 20<endOfText>
+<human>What is (4 + 7) * 1?<endOfText>
+<bot> 11<endOfText>
+<human>What is (6 - 5) + 1?<endOfText>
+<bot> 2<endOfText>
+<human>What is (4 - 3) - 2?<endOfText>
+<bot> -1<endOfText>
+<human>What is (3 * 3) * 5?<endOfText>
+<bot> 45<endOfText>
+<human>What is (1 * 8) - 2?<endOfText>
+<bot> 6<endOfText>
+<human>What is (7 * 4) + 4?<endOfText>
+<bot> 32<endOfText>
+<human>What is (5 - 7) * 7?<endOfText>
+<bot> -14<endOfText>
+<human>What is (5 + 7) * 8?<endOfText>
+<bot> 96<endOfText>
+<human>What is (4 * 7) * 9?<endOfText>
+<bot> 252<endOfText>
+<human>What is (7 + 2) + 3?<endOfText>
+<bot> 12<endOfText>
+<human>What is (8 + 5) - 6?<endOfText>
+<bot> 7<endOfText>
+<human>What is (3 - 9) - 9?<endOfText>
+<bot> -15<endOfText>
+<human>What is (5 + 3) - 7?<endOfText>
+<bot> 1<endOfText>
+<human>What is (3 - 7) * 7?<endOfText>
+<bot> -28<endOfText>
+<human>What is (3 + 5) + 5?<endOfText>
+<bot> 13<endOfText>
+<human>What is (9 * 2) + 9?<endOfText>
+<bot> 27<endOfText>
+<human>What is (9 + 2) - 1?<endOfText>
+<bot> 10<endOfText>
+<human>What is (9 * 5) + 2?<endOfText>
+<bot> 47<endOfText>
+<human>What is (4 * 3) + 2?<endOfText>
+<bot> 14<endOfText>
+<human>What is (5 + 8) - 2?<endOfText>
+<bot> 11<endOfText>
+<human>What is (2 - 6) * 3?<endOfText>
+<bot> -12<endOfText>
+<human>What is (2 - 9) * 2?<endOfText>
+<bot> -14<endOfText>
+<human>What is (9 * 9) + 5?<endOfText>
+<bot> 86<endOfText>
+<human>What is (6 + 6) - 1?<endOfText>
+<bot> 11<endOfText>
+<human>What is (7 * 4) + 3?<endOfText>
+<bot> 31<endOfText>
+<human>What is (4 * 1) + 9?<endOfText>
+<bot> 13<endOfText>
+<human>What is (6 * 8) - 1?<endOfText>
+<bot> 47<endOfText>
+<human>What is (9 - 1) - 6?<endOfText>
+<bot> 2<endOfText>
+<human>What is (8 + 6) - 7?<endOfText>
+<bot> 7<endOfText>
+<human>What is (3 * 7) * 2?<endOfText>
+<bot> 42<endOfText>
+<human>What is (2 * 8) + 7?<endOfText>
+<bot> 23<endOfText>
+<human>What is (8 + 6) * 5?<endOfText>
+<bot> 70<endOfText>
+<human>What is (6 + 4) * 2?<endOfText>
+<bot> 20<endOfText>
+<human>What is (9 + 8) - 6?<endOfText>
+<bot> 11<endOfText>
+<human>What is (6 + 6) * 9?<endOfText>
+<bot> 108<endOfText>
+<human>What is (2 - 5) * 7?<endOfText>
+<bot> -21<endOfText>
+<human>What is (9 + 2) - 8?<endOfText>
+<bot> 3<endOfText>
+<human>What is (2 * 1) - 5?<endOfText>
+<bot> -3<endOfText>
+<human>What is (9 + 5) + 8?<endOfText>
+<bot> 22<endOfText>
+<human>What is (6 - 2) + 1?<endOfText>
+<bot> 5<endOfText>
+<human>What is (1 - 1) + 2?<endOfText>
+<bot> 2<endOfText>
+<human>What is (4 * 6) + 8?<endOfText>
+<bot> 32<endOfText>
+<human>What is (3 - 6) * 3?<endOfText>
+<bot> -9<endOfText>
+<human>What is (8 - 5) - 7?<endOfText>
+<bot> -4<endOfText>
+<human>What is (3 + 3) + 6?<endOfText>
+<bot> 12<endOfText>
+<human>What is (9 * 3) * 7?<endOfText>
+<bot> 189<endOfText>
+<human>What is (3 - 9) + 5?<endOfText>
+<bot> -1<endOfText>
+<human>What is (1 * 3) * 3?<endOfText>
+<bot> 9<endOfText>
+<human>What is (2 + 2) * 4?<endOfText>
+<bot> 16<endOfText>
+<human>What is (1 - 7) - 5?<endOfText>
+<bot> -11<endOfText>
+<human>What is (8 * 1) - 4?<endOfText>
+<bot> 4<endOfText>
+<human>What is (4 - 1) - 1?<endOfText>
+<bot> 2<endOfText>
+<human>What is (4 - 4) + 4?<endOfText>
+<bot> 4<endOfText>
+<human>What is (5 - 9) + 2?<endOfText>
+<bot> -2<endOfText>
+<human>What is (8 * 9) + 9?<endOfText>
+<bot> 81<endOfText>
+<human>What is (9 * 8) - 2?<endOfText>
+<bot> 70<endOfText>
+<human>What is (5 + 3) - 8?<endOfText>
+<bot> 0<endOfText>
+<human>What is (3 * 5) - 5?<endOfText>
+<bot> 10<endOfText>
+<human>What is (7 + 1) * 1?<endOfText>
+<bot> 8<endOfText>
+<human>What is (6 * 2) - 1?<endOfText>
+<bot> 11<endOfText>
+<human>What is (1 - 5) - 7?<endOfText>
+<bot> -11<endOfText>
+<human>What is (4 * 7) - 1?<endOfText>
+<bot> 27<endOfText>
+<human>What is (7 * 7) - 5?<endOfText>
+<bot> 44<endOfText>
+<human>What is (4 - 2) + 4?<endOfText>
+<bot> 6<endOfText>
+<human>What is (2 - 1) - 9?<endOfText>
+<bot> -8<endOfText>
+<human>What is (7 - 1) * 7?<endOfText>
+<bot> 42<endOfText>
+<human>What is (7 + 1) - 4?<endOfText>
+<bot> 4<endOfText>
+<human>What is (5 * 5) * 8?<endOfText>
+<bot> 200<endOfText>
+<human>What is (9 + 3) - 8?<endOfText>
+<bot> 4<endOfText>
+<human>What is (8 * 7) * 7?<endOfText>
+<bot> 392<endOfText>
+<human>What is (1 + 8) + 1?<endOfText>
+<bot> 10<endOfText>
+<human>What is (1 - 1) - 9?<endOfText>
+<bot> -9<endOfText>
+<human>What is (2 * 9) + 4?<endOfText>
+<bot> 22<endOfText>
+<human>What is (3 + 6) - 3?<endOfText>
+<bot> 6<endOfText>
+<human>What is (4 + 7) * 9?<endOfText>
+<bot> 99<endOfText>
+<human>What is (9 + 6) + 6?<endOfText>
+<bot> 21<endOfText>
+<human>What is (5 + 9) * 9?<endOfText>
+<bot> 126<endOfText>
+<human>What is (9 * 3) - 4?<endOfText>
+<bot> 23<endOfText>
+<human>What is (8 + 8) + 8?<endOfText>
+<bot> 24<endOfText>
+<human>What is (3 + 7) + 5?<endOfText>
+<bot> 15<endOfText>
+<human>What is (7 * 3) * 6?<endOfText>
+<bot> 126<endOfText>
+<human>What is (9 + 4) * 8?<endOfText>
+<bot> 104<endOfText>
+<human>What is (6 + 5) - 7?<endOfText>
+<bot> 4<endOfText>
+<human>What is (5 + 7) * 4?<endOfText>
+<bot> 48<endOfText>
+<human>What is (6 * 2) * 7?<endOfText>
+<bot> 84<endOfText>
+<human>What is (7 * 9) + 6?<endOfText>
+<bot> 69<endOfText>
+<human>What is (7 + 8) * 7?<endOfText>
+<bot> 105<endOfText>
+<human>What is (5 + 7) + 5?<endOfText>
+<bot> 17<endOfText>
+<human>What is (1 - 4) * 6?<endOfText>
+<bot> -18<endOfText>
+<human>What is (1 * 7) - 5?<endOfText>
+<bot> 2<endOfText>
+<human>What is (9 + 6) - 7?<endOfText>
+<bot> 8<endOfText>
+<human>What is (6 + 2) - 8?<endOfText>
+<bot> 0<endOfText>
+<human>What is (7 - 4) - 3?<endOfText>
+<bot> 0<endOfText>
+<human>What is (9 - 7) + 9?<endOfText>
+<bot> 11<endOfText>
+<human>What is (8 - 2) * 3?<endOfText>
+<bot> 18<endOfText>
+<human>What is (6 - 4) + 8?<endOfText>
+<bot> 10<endOfText>
+<human>What is (9 - 5) - 3?<endOfText>
+<bot> 1<endOfText>
+<human>What is (5 - 1) + 8?<endOfText>
+<bot> 12<endOfText>
+<human>What is (1 - 7) + 3?<endOfText>
+<bot> -3<endOfText>
+<human>What is (2 * 8) * 8?<endOfText>
+<bot> 128<endOfText>
+<human>What is (8 - 8) + 2?<endOfText>
+<bot> 2<endOfText>
+<human>What is (9 * 1) - 2?<endOfText>
+<bot> 7<endOfText>
+<human>What is (9 + 6) + 9?<endOfText>
+<bot> 24<endOfText>
+<human>What is (5 + 5) - 7?<endOfText>
+<bot> 3<endOfText>
+<human>What is (9 + 2) - 6?<endOfText>
+<bot> 5<endOfText>
+<human>What is (4 * 7) - 8?<endOfText>
+<bot> 20<endOfText>
+<human>What is (8 * 7) - 8?<endOfText>
+<bot> 48<endOfText>
+<human>What is (2 - 9) + 8?<endOfText>
+<bot> 1<endOfText>
+<human>What is (3 + 2) + 8?<endOfText>
+<bot> 13<endOfText>
+<human>What is (2 - 3) + 7?<endOfText>
+<bot> 6<endOfText>
+<human>What is (8 - 6) + 8?<endOfText>
+<bot> 10<endOfText>
+<human>What is (8 + 2) * 9?<endOfText>
+<bot> 90<endOfText>
+<human>What is (1 * 8) * 5?<endOfText>
+<bot> 40<endOfText>
+<human>What is (3 - 6) * 9?<endOfText>
+<bot> -27<endOfText>
+<human>What is (4 - 9) * 3?<endOfText>
+<bot> -15<endOfText>
+<human>What is (8 * 4) + 8?<endOfText>
+<bot> 40<endOfText>
+<human>What is (3 - 6) - 6?<endOfText>
+<bot> -9<endOfText>
+<human>What is (6 - 6) * 6?<endOfText>
+<bot> 0<endOfText>
+<human>What is (2 + 2) + 1?<endOfText>
+<bot> 5<endOfText>
+<human>What is (9 * 4) - 2?<endOfText>
+<bot> 34<endOfText>
+<human>What is (7 - 5) * 2?<endOfText>
+<bot> 4<endOfText>
+<human>What is (5 * 4) + 4?<endOfText>
+<bot> 24<endOfText>
+<human>What is (4 * 5) + 2?<endOfText>
+<bot> 22<endOfText>
+<human>What is (5 + 3) - 9?<endOfText>
+<bot> -1<endOfText>
+<human>What is (5 * 2) * 1?<endOfText>
+<bot> 10<endOfText>
+<human>What is (9 * 9) + 7?<endOfText>
+<bot> 88<endOfText>
+<human>What is (6 + 3) + 1?<endOfText>
+<bot> 10<endOfText>
+<human>What is (7 * 2) - 7?<endOfText>
+<bot> 7<endOfText>
+<human>What is (6 + 7) + 4?<endOfText>
+<bot> 17<endOfText>
+<human>What is (9 * 4) - 3?<endOfText>
+<bot> 33<endOfText>
+<human>What is (2 - 5) * 2?<endOfText>
+<bot> -6<endOfText>
+<human>What is (6 * 2) - 2?<endOfText>
+<bot> 10<endOfText>
+<human>What is (9 - 8) - 5?<endOfText>
+<bot> -4<endOfText>
+<human>What is (8 * 1) * 3?<endOfText>
+<bot> 24<endOfText>
+<human>What is (3 - 4) - 3?<endOfText>
+<bot> -4<endOfText>
+<human>What is (6 * 3) + 6?<endOfText>
+<bot> 24<endOfText>
+<human>What is (1 * 2) - 4?<endOfText>
+<bot> -2<endOfText>
+<human>What is (2 * 1) - 9?<endOfText>
+<bot> -7<endOfText>
+<human>What is (1 + 6) + 9?<endOfText>
+<bot> 16<endOfText>
+<human>What is (2 * 3) - 4?<endOfText>
+<bot> 2<endOfText>
+<human>What is (2 * 5) * 7?<endOfText>
+<bot> 70<endOfText>
+<human>What is (8 * 3) - 6?<endOfText>
+<bot> 18<endOfText>
+<human>What is (1 - 1) + 7?<endOfText>
+<bot> 7<endOfText>
+<human>What is (3 - 9) * 4?<endOfText>
+<bot> -24<endOfText>
+<human>What is (1 + 9) + 3?<endOfText>
+<bot> 13<endOfText>
+<human>What is (4 * 1) - 5?<endOfText>
+<bot> -1<endOfText>
+<human>What is (2 * 2) * 4?<endOfText>
+<bot> 16<endOfText>
+<human>What is (5 + 5) + 6?<endOfText>
+<bot> 16<endOfText>
+<human>What is (5 * 9) * 2?<endOfText>
+<bot> 90<endOfText>
+<human>What is (6 + 1) * 8?<endOfText>
+<bot> 56<endOfText>
+<human>What is (4 - 2) + 9?<endOfText>
+<bot> 11<endOfText>
+<human>What is (9 - 1) * 3?<endOfText>
+<bot> 24<endOfText>
+<human>What is (3 - 8) + 6?<endOfText>
+<bot> 1<endOfText>
+<human>What is (9 * 8) + 5?<endOfText>
+<bot> 77<endOfText>
+<human>What is (3 - 3) + 7?<endOfText>
+<bot> 7<endOfText>
+<human>What is (4 - 8) + 5?<endOfText>
+<bot> 1<endOfText>
+<human>What is (7 + 4) - 3?<endOfText>
+<bot> 8<endOfText>
+<human>What is (7 + 6) * 6?<endOfText>
+<bot> 78<endOfText>
+<human>What is (6 * 3) * 3?<endOfText>
+<bot> 54<endOfText>
+<human>What is (7 * 3) - 7?<endOfText>
+<bot> 14<endOfText>
+<human>What is (6 + 1) * 1?<endOfText>
+<bot> 7<endOfText>
+<human>What is (4 * 3) * 5?<endOfText>
+<bot> 60<endOfText>
+<human>What is (6 + 2) - 9?<endOfText>
+<bot> -1<endOfText>
+<human>What is (5 + 8) * 9?<endOfText>
+<bot> 117<endOfText>
+<human>What is (3 + 6) - 8?<endOfText>
+<bot> 1<endOfText>
+<human>What is (4 * 2) * 3?<endOfText>
+<bot> 24<endOfText>
+<human>What is (3 + 7) * 5?<endOfText>
+<bot> 50<endOfText>
+<human>What is (6 + 1) * 2?<endOfText>
+<bot> 14<endOfText>
+<human>What is (5 - 9) + 5?<endOfText>
+<bot> 1<endOfText>
+<human>What is (5 + 8) - 5?<endOfText>
+<bot> 8<endOfText>
+<human>What is (6 - 4) - 3?<endOfText>
+<bot> -1<endOfText>
+<human>What is (1 + 7) - 3?<endOfText>
+<bot> 5<endOfText>
+<human>What is (1 + 1) * 8?<endOfText>
+<bot> 16<endOfText>
+<human>What is (5 + 2) + 4?<endOfText>
+<bot> 11<endOfText>
+<human>What is (9 * 7) + 4?<endOfText>
+<bot> 67<endOfText>
+<human>What is (7 - 5) + 1?<endOfText>
+<bot> 3<endOfText>
+<human>What is (3 * 2) * 3?<endOfText>
+<bot> 18<endOfText>
+<human>What is (3 * 4) - 6?<endOfText>
+<bot> 6<endOfText>
+<human>What is (7 + 4) * 5?<endOfText>
+<bot> 55<endOfText>
+<human>What is (3 * 1) * 1?<endOfText>
+<bot> 3<endOfText>
+<human>What is (7 + 5) - 5?<endOfText>
+<bot> 7<endOfText>
+<human>What is (9 + 8) - 7?<endOfText>
+<bot> 10<endOfText>
+<human>What is (6 + 3) + 5?<endOfText>
+<bot> 14<endOfText>
+<human>What is (6 - 6) + 3?<endOfText>
+<bot> 3<endOfText>
+<human>What is (9 * 4) * 3?<endOfText>
+<bot> 108<endOfText>
+<human>What is (5 - 7) - 9?<endOfText>
+<bot> -11<endOfText>
+<human>What is (4 - 2) - 9?<endOfText>
+<bot> -7<endOfText>
+<human>What is (5 * 2) - 1?<endOfText>
+<bot> 9<endOfText>
+<human>What is (5 + 8) * 4?<endOfText>
+<bot> 52<endOfText>
+<human>What is (9 - 8) + 2?<endOfText>
+<bot> 3<endOfText>
+<human>What is (5 - 5) + 3?<endOfText>
+<bot> 3<endOfText>
+<human>What is (5 * 9) * 5?<endOfText>
+<bot> 225<endOfText>
+<human>What is (2 + 4) + 5?<endOfText>
+<bot> 11<endOfText>
+<human>What is (5 - 3) + 9?<endOfText>
+<bot> 11<endOfText>
+<human>What is (6 * 2) - 3?<endOfText>
+<bot> 9<endOfText>
+<human>What is (3 * 2) - 2?<endOfText>
+<bot> 4<endOfText>
+<human>What is (5 + 1) + 9?<endOfText>
+<bot> 15<endOfText>
+<human>What is (2 * 1) * 5?<endOfText>
+<bot> 10<endOfText>
+<human>What is (1 * 8) * 7?<endOfText>
+<bot> 56<endOfText>
+<human>What is (3 * 6) * 8?<endOfText>
+<bot> 144<endOfText>
+<human>What is (7 * 4) - 1?<endOfText>
+<bot> 27<endOfText>
+<human>What is (4 * 4) + 3?<endOfText>
+<bot> 19<endOfText>
+<human>What is (4 + 3) * 5?<endOfText>
+<bot> 35<endOfText>
+<human>What is (1 - 8) + 6?<endOfText>
+<bot> -1<endOfText>
+<human>What is (7 - 4) * 2?<endOfText>
+<bot> 6<endOfText>
+<human>What is (4 + 9) * 1?<endOfText>
+<bot> 13<endOfText>
+<human>What is (2 + 5) * 6?<endOfText>
+<bot> 42<endOfText>
+<human>What is (4 - 4) * 8?<endOfText>
+<bot> 0<endOfText>
+<human>What is (6 + 3) + 2?<endOfText>
+<bot> 11<endOfText>
+<human>What is (4 * 3) * 6?<endOfText>
+<bot> 72<endOfText>
+<human>What is (8 - 6) - 8?<endOfText>
+<bot> -6<endOfText>
+<human>What is (4 + 5) * 3?<endOfText>
+<bot> 27<endOfText>
+<human>What is (3 * 6) - 9?<endOfText>
+<bot> 9<endOfText>
+<human>What is (8 - 3) * 8?<endOfText>
+<bot> 40<endOfText>
+<human>What is (2 + 1) * 3?<endOfText>
+<bot> 9<endOfText>
+<human>What is (3 - 8) + 3?<endOfText>
+<bot> -2<endOfText>
+<human>What is (9 * 2) - 9?<endOfText>
+<bot> 9<endOfText>
+<human>What is (2 - 7) + 1?<endOfText>
+<bot> -4<endOfText>
+<human>What is (8 * 9) - 5?<endOfText>
+<bot> 67<endOfText>
+<human>What is (2 - 3) + 4?<endOfText>
+<bot> 3<endOfText>
+<human>What is (8 + 3) * 8?<endOfText>
+<bot> 88<endOfText>
+<human>What is (2 - 6) * 4?<endOfText>
+<bot> -16<endOfText>
+<human>What is (5 * 2) - 2?<endOfText>
+<bot> 8<endOfText>
+<human>What is (6 * 9) + 1?<endOfText>
+<bot> 55<endOfText>
+<human>What is (6 + 2) - 1?<endOfText>
+<bot> 7<endOfText>
+<human>What is (4 * 2) * 8?<endOfText>
+<bot> 64<endOfText>
+<human>What is (5 - 9) - 4?<endOfText>
+<bot> -8<endOfText>
+<human>What is (1 * 6) * 1?<endOfText>
+<bot> 6<endOfText>
+<human>What is (1 + 4) - 6?<endOfText>
+<bot> -1<endOfText>
+<human>What is (2 + 9) * 7?<endOfText>
+<bot> 77<endOfText>
+<human>What is (5 - 3) + 8?<endOfText>
+<bot> 10<endOfText>
+<human>What is (3 - 1) + 1?<endOfText>
+<bot> 3<endOfText>
+<human>What is (8 - 4) * 8?<endOfText>
+<bot> 32<endOfText>
+<human>What is (6 * 1) * 8?<endOfText>
+<bot> 48<endOfText>
+<human>What is (4 + 6) * 3?<endOfText>
+<bot> 30<endOfText>
+<human>What is (5 + 9) + 1?<endOfText>
+<bot> 15<endOfText>
+<human>What is (5 * 7) * 8?<endOfText>
+<bot> 280<endOfText>
+<human>What is (9 * 4) * 4?<endOfText>
+<bot> 144<endOfText>
+<human>What is (5 + 3) * 2?<endOfText>
+<bot> 16<endOfText>
+<human>What is (4 + 4) - 8?<endOfText>
+<bot> 0<endOfText>
+<human>What is (3 + 6) * 2?<endOfText>
+<bot> 18<endOfText>
+<human>What is (6 - 9) * 3?<endOfText>
+<bot> -9<endOfText>
+<human>What is (8 - 9) + 6?<endOfText>
+<bot> 5<endOfText>
+<human>What is (8 * 9) + 5?<endOfText>
+<bot> 77<endOfText>
+<human>What is (7 + 7) - 4?<endOfText>
+<bot> 10<endOfText>
+<human>What is (2 + 8) * 6?<endOfText>
+<bot> 60<endOfText>
+<human>What is (8 - 7) + 5?<endOfText>
+<bot> 6<endOfText>
+<human>What is (4 * 1) + 4?<endOfText>
+<bot> 8<endOfText>
+<human>What is (7 * 7) + 5?<endOfText>
+<bot> 54<endOfText>
+<human>What is (2 + 9) + 6?<endOfText>
+<bot> 17<endOfText>
+<human>What is (2 + 3) * 8?<endOfText>
+<bot> 40<endOfText>
+<human>What is (2 + 2) * 2?<endOfText>
+<bot> 8<endOfText>
+<human>What is (9 + 3) * 3?<endOfText>
+<bot> 36<endOfText>
+<human>What is (1 + 2) + 7?<endOfText>
+<bot> 10<endOfText>
+<human>What is (1 - 6) + 4?<endOfText>
+<bot> -1<endOfText>
+<human>What is (3 * 4) - 5?<endOfText>
+<bot> 7<endOfText>
+<human>What is (4 - 2) * 7?<endOfText>
+<bot> 14<endOfText>
+<human>What is (3 * 5) * 7?<endOfText>
+<bot> 105<endOfText>
+<human>What is (5 * 5) + 7?<endOfText>
+<bot> 32<endOfText>
+<human>What is (7 * 2) + 3?<endOfText>
+<bot> 17<endOfText>
+<human>What is (3 * 5) - 6?<endOfText>
+<bot> 9<endOfText>
+<human>What is (1 - 3) * 3?<endOfText>
+<bot> -6<endOfText>
+<human>What is (8 - 1) * 4?<endOfText>
+<bot> 28<endOfText>
+<human>What is (5 - 5) * 4?<endOfText>
+<bot> 0<endOfText>
+<human>What is (3 * 4) + 8?<endOfText>
+<bot> 20<endOfText>
+<human>What is (6 - 2) + 9?<endOfText>
+<bot> 13<endOfText>
+<human>What is (2 - 2) + 5?<endOfText>
+<bot> 5<endOfText>
+<human>What is (9 * 3) - 5?<endOfText>
+<bot> 22<endOfText>
+<human>What is (6 * 3) - 9?<endOfText>
+<bot> 9<endOfText>
+<human>What is (3 * 6) * 2?<endOfText>
+<bot> 36<endOfText>
+<human>What is (6 + 6) - 6?<endOfText>
+<bot> 6<endOfText>
+<human>What is (7 - 6) + 4?<endOfText>
+<bot> 5<endOfText>
+<human>What is (2 + 1) - 7?<endOfText>
+<bot> -4<endOfText>
+<human>What is (6 * 6) - 7?<endOfText>
+<bot> 29<endOfText>
+<human>What is (4 * 2) + 1?<endOfText>
+<bot> 9<endOfText>
+<human>What is (7 * 9) * 9?<endOfText>
+<bot> 567<endOfText>
+<human>What is (7 - 7) - 9?<endOfText>
+<bot> -9<endOfText>
+<human>What is (4 * 7) + 5?<endOfText>
+<bot> 33<endOfText>
+<human>What is (5 * 2) - 6?<endOfText>
+<bot> 4<endOfText>
+<human>What is (2 * 1) + 3?<endOfText>
+<bot> 5<endOfText>
+<human>What is (1 - 7) * 7?<endOfText>
+<bot> -42<endOfText>
+<human>What is (1 + 1) - 6?<endOfText>
+<bot> -4<endOfText>
+<human>What is (5 * 8) * 8?<endOfText>
+<bot> 320<endOfText>
+<human>What is (4 + 5) - 2?<endOfText>
+<bot> 7<endOfText>
+<human>What is (7 - 5) + 4?<endOfText>
+<bot> 6<endOfText>
+<human>What is (9 * 1) * 5?<endOfText>
+<bot> 45<endOfText>
+<human>What is (2 * 9) * 2?<endOfText>
+<bot> 36<endOfText>
+<human>What is (5 - 6) + 8?<endOfText>
+<bot> 7<endOfText>
+<human>What is (8 + 6) + 6?<endOfText>
+<bot> 20<endOfText>
+<human>What is (8 + 2) + 5?<endOfText>
+<bot> 15<endOfText>
+<human>What is (5 + 4) * 2?<endOfText>
+<bot> 18<endOfText>
+<human>What is (9 - 4) - 3?<endOfText>
+<bot> 2<endOfText>
+<human>What is (2 * 8) - 2?<endOfText>
+<bot> 14<endOfText>
+<human>What is (8 + 8) * 1?<endOfText>
+<bot> 16<endOfText>
+<human>What is (4 + 9) * 2?<endOfText>
+<bot> 26<endOfText>
+<human>What is (6 - 5) + 4?<endOfText>
+<bot> 5<endOfText>
+<human>What is (6 - 5) * 1?<endOfText>
+<bot> 1<endOfText>
+<human>What is (3 - 8) - 4?<endOfText>
+<bot> -9<endOfText>
+<human>What is (8 * 5) - 9?<endOfText>
+<bot> 31<endOfText>
+<human>What is (6 * 6) + 8?<endOfText>
+<bot> 44<endOfText>
+<human>What is (6 * 6) * 2?<endOfText>
+<bot> 72<endOfText>
+<human>What is (7 + 4) - 9?<endOfText>
+<bot> 2<endOfText>
+<human>What is (6 * 6) - 8?<endOfText>
+<bot> 28<endOfText>
+<human>What is (8 - 4) + 1?<endOfText>
+<bot> 5<endOfText>
+<human>What is (5 + 5) - 1?<endOfText>
+<bot> 9<endOfText>
+<human>What is (4 + 9) - 4?<endOfText>
+<bot> 9<endOfText>
+<human>What is (2 + 2) * 7?<endOfText>
+<bot> 28<endOfText>
+<human>What is (9 - 3) + 4?<endOfText>
+<bot> 10<endOfText>
+<human>What is (8 - 4) - 6?<endOfText>
+<bot> -2<endOfText>
+<human>What is (3 + 1) * 7?<endOfText>
+<bot> 28<endOfText>
+<human>What is (6 + 8) + 4?<endOfText>
+<bot> 18<endOfText>
+<human>What is (8 + 8) * 8?<endOfText>
+<bot> 128<endOfText>
+<human>What is (9 - 8) - 7?<endOfText>
+<bot> -6<endOfText>
+<human>What is (4 - 8) * 3?<endOfText>
+<bot> -12<endOfText>
+<human>What is (4 - 1) - 2?<endOfText>
+<bot> 1<endOfText>
+<human>What is (8 + 6) + 4?<endOfText>
+<bot> 18<endOfText>
+<human>What is (7 * 1) + 4?<endOfText>
+<bot> 11<endOfText>
+<human>What is (7 - 1) - 6?<endOfText>
+<bot> 0<endOfText>
+<human>What is (3 * 2) - 7?<endOfText>
+<bot> -1<endOfText>
+<human>What is (3 + 1) * 3?<endOfText>
+<bot> 12<endOfText>
+<human>What is (4 + 3) - 2?<endOfText>
+<bot> 5<endOfText>
+<human>What is (6 - 8) + 7?<endOfText>
+<bot> 5<endOfText>
+<human>What is (3 + 1) + 1?<endOfText>
+<bot> 5<endOfText>
+<human>What is (8 * 2) + 4?<endOfText>
+<bot> 20<endOfText>
+<human>What is (6 * 9) * 2?<endOfText>
+<bot> 108<endOfText>
+<human>What is (4 * 6) - 4?<endOfText>
+<bot> 20<endOfText>
+<human>What is (8 + 6) + 9?<endOfText>
+<bot> 23<endOfText>
+<human>What is (6 + 4) + 9?<endOfText>
+<bot> 19<endOfText>
+<human>What is (9 - 9) * 8?<endOfText>
+<bot> 0<endOfText>
+<human>What is (5 - 6) + 4?<endOfText>
+<bot> 3<endOfText>
+<human>What is (6 + 8) * 6?<endOfText>
+<bot> 84<endOfText>
+<human>What is (1 * 7) + 9?<endOfText>
+<bot> 16<endOfText>
+<human>What is (7 * 2) + 5?<endOfText>
+<bot> 19<endOfText>
+<human>What is (3 + 6) - 1?<endOfText>
+<bot> 8<endOfText>
+<human>What is (1 - 9) * 7?<endOfText>
+<bot> -56<endOfText>
+<human>What is (9 * 7) + 1?<endOfText>
+<bot> 64<endOfText>
+<human>What is (6 + 9) - 7?<endOfText>
+<bot> 8<endOfText>
+<human>What is (4 + 1) - 8?<endOfText>
+<bot> -3<endOfText>
+<human>What is (7 * 4) + 8?<endOfText>
+<bot> 36<endOfText>
+<human>What is (9 + 4) + 3?<endOfText>
+<bot> 16<endOfText>
+<human>What is (9 + 4) - 1?<endOfText>
+<bot> 12<endOfText>
+<human>What is (5 - 1) - 1?<endOfText>
+<bot> 3<endOfText>
+<human>What is (1 - 7) + 9?<endOfText>
+<bot> 3<endOfText>
+<human>What is (2 - 8) + 9?<endOfText>
+<bot> 3<endOfText>
+<human>What is (7 - 8) - 1?<endOfText>
+<bot> -2<endOfText>
+<human>What is (5 + 7) + 4?<endOfText>
+<bot> 16<endOfText>
+<human>What is (8 - 5) - 5?<endOfText>
+<bot> -2<endOfText>
+<human>What is (4 * 9) - 3?<endOfText>
+<bot> 33<endOfText>
+<human>What is (6 - 8) * 2?<endOfText>
+<bot> -4<endOfText>
+<human>What is (5 - 6) + 9?<endOfText>
+<bot> 8<endOfText>
+<human>What is (5 + 9) + 3?<endOfText>
+<bot> 17<endOfText>
+<human>What is (9 * 9) - 3?<endOfText>
+<bot> 78<endOfText>
+<human>What is (6 - 1) - 1?<endOfText>
+<bot> 4<endOfText>
+<human>What is (3 + 6) + 3?<endOfText>
+<bot> 12<endOfText>
+<human>What is (4 - 5) + 2?<endOfText>
+<bot> 1<endOfText>
+<human>What is (7 * 1) * 1?<endOfText>
+<bot> 7<endOfText>
+<human>What is (9 * 6) * 3?<endOfText>
+<bot> 162<endOfText>
+<human>What is (3 - 8) * 3?<endOfText>
+<bot> -15<endOfText>
+<human>What is (8 + 7) - 8?<endOfText>
+<bot> 7<endOfText>
+<human>What is (5 * 3) - 7?<endOfText>
+<bot> 8<endOfText>
+<human>What is (7 - 1) * 3?<endOfText>
+<bot> 18<endOfText>
+<human>What is (5 * 8) - 4?<endOfText>
+<bot> 36<endOfText>
+<human>What is (7 * 8) + 8?<endOfText>
+<bot> 64<endOfText>
+<human>What is (2 - 1) - 6?<endOfText>
+<bot> -5<endOfText>
+<human>What is (3 - 8) * 4?<endOfText>
+<bot> -20<endOfText>
+<human>What is (9 + 4) * 1?<endOfText>
+<bot> 13<endOfText>
+<human>What is (8 * 9) * 2?<endOfText>
+<bot> 144<endOfText>
+<human>What is (1 + 6) - 1?<endOfText>
+<bot> 6<endOfText>
+<human>What is (6 - 7) * 3?<endOfText>
+<bot> -3<endOfText>
+<human>What is (9 * 2) * 1?<endOfText>
+<bot> 18<endOfText>
+<human>What is (1 + 5) + 4?<endOfText>
+<bot> 10<endOfText>
+<human>What is (7 + 3) + 7?<endOfText>
+<bot> 17<endOfText>
+<human>What is (9 + 6) + 3?<endOfText>
+<bot> 18<endOfText>
+<human>What is (8 - 5) + 1?<endOfText>
+<bot> 4<endOfText>
+<human>What is (4 * 3) * 1?<endOfText>
+<bot> 12<endOfText>
+<human>What is (3 + 1) + 9?<endOfText>
+<bot> 13<endOfText>
+<human>What is (7 - 3) * 3?<endOfText>
+<bot> 12<endOfText>
+<human>What is (3 + 8) + 8?<endOfText>
+<bot> 19<endOfText>
+<human>What is (8 * 9) * 4?<endOfText>
+<bot> 288<endOfText>
+<human>What is (2 - 6) + 8?<endOfText>
+<bot> 4<endOfText>
+<human>What is (2 * 7) + 1?<endOfText>
+<bot> 15<endOfText>
+<human>What is (2 - 2) + 7?<endOfText>
+<bot> 7<endOfText>
+<human>What is (8 + 9) - 9?<endOfText>
+<bot> 8<endOfText>
+<human>What is (4 + 8) + 8?<endOfText>
+<bot> 20<endOfText>
+<human>What is (6 - 2) + 2?<endOfText>
+<bot> 6<endOfText>
+<human>What is (3 - 5) + 5?<endOfText>
+<bot> 3<endOfText>
+<human>What is (9 * 6) + 2?<endOfText>
+<bot> 56<endOfText>
+<human>What is (6 + 2) - 5?<endOfText>
+<bot> 3<endOfText>
+<human>What is (3 - 4) + 2?<endOfText>
+<bot> 1<endOfText>
+<human>What is (7 - 6) + 7?<endOfText>
+<bot> 8<endOfText>
+<human>What is (7 * 4) * 6?<endOfText>
+<bot> 168<endOfText>
+<human>What is (1 + 3) - 2?<endOfText>
+<bot> 2<endOfText>
+<human>What is (2 - 5) * 3?<endOfText>
+<bot> -9<endOfText>
+<human>What is (4 + 8) - 1?<endOfText>
+<bot> 11<endOfText>
+<human>What is (3 - 3) + 4?<endOfText>
+<bot> 4<endOfText>
+<human>What is (4 - 3) - 4?<endOfText>
+<bot> -3<endOfText>
+<human>What is (7 + 1) - 7?<endOfText>
+<bot> 1<endOfText>
+<human>What is (3 * 3) - 8?<endOfText>
+<bot> 1<endOfText>
+<human>What is (4 - 6) * 5?<endOfText>
+<bot> -10<endOfText>
+<human>What is (3 + 5) - 1?<endOfText>
+<bot> 7<endOfText>
+<human>What is (6 * 5) * 3?<endOfText>
+<bot> 90<endOfText>
+<human>What is (8 + 5) - 9?<endOfText>
+<bot> 4<endOfText>
+<human>What is (1 + 6) * 5?<endOfText>
+<bot> 35<endOfText>
+<human>What is (1 + 8) + 5?<endOfText>
+<bot> 14<endOfText>
+<human>What is (5 - 6) * 8?<endOfText>
+<bot> -8<endOfText>
+<human>What is (5 * 4) - 2?<endOfText>
+<bot> 18<endOfText>
+<human>What is (4 * 7) * 7?<endOfText>
+<bot> 196<endOfText>
+<human>What is (1 + 9) + 4?<endOfText>
+<bot> 14<endOfText>
+<human>What is (6 + 2) + 9?<endOfText>
+<bot> 17<endOfText>
+<human>What is (5 + 1) + 5?<endOfText>
+<bot> 11<endOfText>
+<human>What is (2 - 7) - 5?<endOfText>
+<bot> -10<endOfText>
+<human>What is (7 - 4) * 8?<endOfText>
+<bot> 24<endOfText>
+<human>What is (8 - 7) - 3?<endOfText>
+<bot> -2<endOfText>
+<human>What is (2 + 4) - 7?<endOfText>
+<bot> -1<endOfText>
+<human>What is (5 * 7) + 2?<endOfText>
+<bot> 37<endOfText>
+<human>What is (7 * 5) - 7?<endOfText>
+<bot> 28<endOfText>
+<human>What is (4 * 4) - 1?<endOfText>
+<bot> 15<endOfText>
+<human>What is (4 * 4) - 7?<endOfText>
+<bot> 9<endOfText>
+<human>What is (6 * 1) + 7?<endOfText>
+<bot> 13<endOfText>
+<human>What is (1 + 7) - 5?<endOfText>
+<bot> 3<endOfText>
+<human>What is (3 + 1) + 5?<endOfText>
+<bot> 9<endOfText>
+<human>What is (7 + 4) * 1?<endOfText>
+<bot> 11<endOfText>
+<human>What is (1 - 8) * 3?<endOfText>
+<bot> -21<endOfText>
+<human>What is (4 - 7) * 6?<endOfText>
+<bot> -18<endOfText>
+<human>What is (2 * 8) * 7?<endOfText>
+<bot> 112<endOfText>
+<human>What is (9 - 1) - 1?<endOfText>
+<bot> 7<endOfText>
+<human>What is (4 * 6) + 9?<endOfText>
+<bot> 33<endOfText>
+<human>What is (2 + 6) * 9?<endOfText>
+<bot> 72<endOfText>
+<human>What is (7 - 2) * 4?<endOfText>
+<bot> 20<endOfText>
+<human>What is (5 + 4) - 7?<endOfText>
+<bot> 2<endOfText>
+<human>What is (6 * 4) - 8?<endOfText>
+<bot> 16<endOfText>
+<human>What is (5 - 3) - 2?<endOfText>
+<bot> 0<endOfText>
+<human>What is (9 - 2) * 8?<endOfText>
+<bot> 56<endOfText>
+<human>What is (7 * 7) - 8?<endOfText>
+<bot> 41<endOfText>
+<human>What is (8 * 5) + 5?<endOfText>
+<bot> 45<endOfText>
+<human>What is (4 * 7) * 4?<endOfText>
+<bot> 112<endOfText>
+<human>What is (5 * 2) * 7?<endOfText>
+<bot> 70<endOfText>
+<human>What is (6 * 9) - 7?<endOfText>
+<bot> 47<endOfText>
+<human>What is (1 * 1) * 4?<endOfText>
+<bot> 4<endOfText>
+<human>What is (9 + 8) + 2?<endOfText>
+<bot> 19<endOfText>
+<human>What is (9 * 5) - 8?<endOfText>
+<bot> 37<endOfText>
+<human>What is (1 * 1) - 1?<endOfText>
+<bot> 0<endOfText>
+<human>What is (9 + 4) * 6?<endOfText>
+<bot> 78<endOfText>
+<human>What is (9 - 9) * 7?<endOfText>
+<bot> 0<endOfText>
+<human>What is (1 * 9) * 1?<endOfText>
+<bot> 9<endOfText>
+<human>What is (2 + 6) - 2?<endOfText>
+<bot> 6<endOfText>
+<human>What is (4 + 8) * 3?<endOfText>
+<bot> 36<endOfText>
+<human>What is (2 * 1) * 3?<endOfText>
+<bot> 6<endOfText>
+<human>What is (2 * 7) - 5?<endOfText>
+<bot> 9<endOfText>
+<human>What is (6 * 8) + 7?<endOfText>
+<bot> 55<endOfText>
+<human>What is (7 * 6) - 4?<endOfText>
+<bot> 38<endOfText>
+<human>What is (6 * 2) + 3?<endOfText>
+<bot> 15<endOfText>
+<human>What is (7 * 8) * 1?<endOfText>
+<bot> 56<endOfText>
+<human>What is (5 - 1) - 6?<endOfText>
+<bot> -2<endOfText>
+<human>What is (6 + 9) + 2?<endOfText>
+<bot> 17<endOfText>
+<human>What is (2 - 4) + 6?<endOfText>
+<bot> 4<endOfText>
+<human>What is (1 - 3) + 3?<endOfText>
+<bot> 1<endOfText>
+<human>What is (8 + 1) - 7?<endOfText>
+<bot> 2<endOfText>
+<human>What is (6 - 1) - 8?<endOfText>
+<bot> -3<endOfText>
+<human>What is (4 + 4) - 1?<endOfText>
+<bot> 7<endOfText>
+<human>What is (9 - 9) * 6?<endOfText>
+<bot> 0<endOfText>
+<human>What is (2 * 8) - 5?<endOfText>
+<bot> 11<endOfText>
+<human>What is (4 - 4) + 9?<endOfText>
+<bot> 9<endOfText>
+<human>What is (4 - 6) + 4?<endOfText>
+<bot> 2<endOfText>
+<human>What is (8 * 9) + 1?<endOfText>
+<bot> 73<endOfText>
+<human>What is (1 + 9) - 6?<endOfText>
+<bot> 4<endOfText>
+<human>What is (4 * 6) * 2?<endOfText>
+<bot> 48<endOfText>
+<human>What is (4 - 9) + 7?<endOfText>
+<bot> 2<endOfText>
+<human>What is (8 * 6) - 5?<endOfText>
+<bot> 43<endOfText>
+<human>What is (1 * 1) + 5?<endOfText>
+<bot> 6<endOfText>
+<human>What is (9 - 2) + 5?<endOfText>
+<bot> 12<endOfText>
+<human>What is (9 * 7) + 7?<endOfText>
+<bot> 70<endOfText>
+<human>What is (3 - 9) + 3?<endOfText>
+<bot> -3<endOfText>
+<human>What is (5 + 2) * 4?<endOfText>
+<bot> 28<endOfText>
+<human>What is (2 - 4) * 1?<endOfText>
+<bot> -2<endOfText>
+<human>What is (1 * 6) + 8?<endOfText>
+<bot> 14<endOfText>
+<human>What is (6 - 8) * 4?<endOfText>
+<bot> -8<endOfText>
+<human>What is (7 * 1) - 3?<endOfText>
+<bot> 4<endOfText>
+<human>What is (9 - 5) * 7?<endOfText>
+<bot> 28<endOfText>
+<human>What is (8 - 4) * 2?<endOfText>
+<bot> 8<endOfText>
+<human>What is (4 * 3) - 8?<endOfText>
+<bot> 4<endOfText>
+<human>What is (4 - 6) + 1?<endOfText>
+<bot> -1<endOfText>
+<human>What is (4 * 2) * 7?<endOfText>
+<bot> 56<endOfText>
+<human>What is (4 + 4) - 6?<endOfText>
+<bot> 2<endOfText>
+<human>What is (9 * 8) + 8?<endOfText>
+<bot> 80<endOfText>
+<human>What is (7 - 2) + 5?<endOfText>
+<bot> 10<endOfText>
+<human>What is (5 - 7) + 7?<endOfText>
+<bot> 5<endOfText>
+<human>What is (1 - 3) * 5?<endOfText>
+<bot> -10<endOfText>
+<human>What is (7 * 2) * 7?<endOfText>
+<bot> 98<endOfText>
+<human>What is (2 * 8) + 2?<endOfText>
+<bot> 18<endOfText>
+<human>What is (5 - 4) + 5?<endOfText>
+<bot> 6<endOfText>
+<human>What is (3 * 8) - 1?<endOfText>
+<bot> 23<endOfText>
+<human>What is (6 - 4) * 3?<endOfText>
+<bot> 6<endOfText>
+<human>What is (8 - 9) * 7?<endOfText>
+<bot> -7<endOfText>
+<human>What is (7 + 6) + 4?<endOfText>
+<bot> 17<endOfText>
+<human>What is (3 - 8) * 2?<endOfText>
+<bot> -10<endOfText>
+<human>What is (6 * 1) + 3?<endOfText>
+<bot> 9<endOfText>
+<human>What is (4 - 5) + 3?<endOfText>
+<bot> 2<endOfText>
+<human>What is (3 + 4) - 4?<endOfText>
+<bot> 3<endOfText>
+<human>What is (3 * 2) + 2?<endOfText>
+<bot> 8<endOfText>
+<human>What is (3 - 9) - 1?<endOfText>
+<bot> -7<endOfText>
+<human>What is (2 * 8) + 5?<endOfText>
+<bot> 21<endOfText>
+<human>What is (2 - 1) * 2?<endOfText>
+<bot> 2<endOfText>
+<human>What is (2 + 3) - 7?<endOfText>
+<bot> -2<endOfText>
+<human>What is (5 - 9) + 8?<endOfText>
+<bot> 4<endOfText>
+<human>What is (7 * 1) + 7?<endOfText>
+<bot> 14<endOfText>
+<human>What is (9 - 2) * 5?<endOfText>
+<bot> 35<endOfText>
+<human>What is (6 - 2) * 2?<endOfText>
+<bot> 8<endOfText>
+<human>What is (8 - 3) - 3?<endOfText>
+<bot> 2<endOfText>
+<human>What is (2 + 4) + 1?<endOfText>
+<bot> 7<endOfText>
+<human>What is (6 + 5) * 1?<endOfText>
+<bot> 11<endOfText>
+<human>What is (5 + 9) * 1?<endOfText>
+<bot> 14<endOfText>
+<human>What is (8 * 6) + 6?<endOfText>
+<bot> 54<endOfText>
+<human>What is (7 * 7) * 2?<endOfText>
+<bot> 98<endOfText>
+<human>What is (4 * 5) * 5?<endOfText>
+<bot> 100<endOfText>
+<human>What is (6 + 8) + 8?<endOfText>
+<bot> 22<endOfText>
+<human>What is (5 + 5) - 9?<endOfText>
+<bot> 1<endOfText>
+<human>What is (2 - 9) * 5?<endOfText>
+<bot> -35<endOfText>
+<human>What is (4 + 9) + 4?<endOfText>
+<bot> 17<endOfText>
+<human>What is (5 * 7) * 1?<endOfText>
+<bot> 35<endOfText>
+<human>What is (9 + 8) + 7?<endOfText>
+<bot> 24<endOfText>
+<human>What is (9 + 3) + 8?<endOfText>
+<bot> 20<endOfText>
+<human>What is (6 + 7) + 3?<endOfText>
+<bot> 16<endOfText>
+<human>What is (8 + 4) + 5?<endOfText>
+<bot> 17<endOfText>
+<human>What is (1 - 3) * 8?<endOfText>
+<bot> -16<endOfText>
+<human>What is (9 - 5) * 8?<endOfText>
+<bot> 32<endOfText>
+<human>What is (6 - 5) - 4?<endOfText>
+<bot> -3<endOfText>
+<human>What is (1 + 3) * 6?<endOfText>
+<bot> 24<endOfText>
+<human>What is (4 + 7) + 9?<endOfText>
+<bot> 20<endOfText>
+<human>What is (4 * 1) * 4?<endOfText>
+<bot> 16<endOfText>
+<human>What is (1 - 3) - 7?<endOfText>
+<bot> -9<endOfText>
+<human>What is (5 - 4) * 8?<endOfText>
+<bot> 8<endOfText>
+<human>What is (5 - 4) + 7?<endOfText>
+<bot> 8<endOfText>
+<human>What is (4 + 4) - 3?<endOfText>
+<bot> 5<endOfText>
+<human>What is (9 - 8) + 5?<endOfText>
+<bot> 6<endOfText>
+<human>What is (3 + 2) * 9?<endOfText>
+<bot> 45<endOfText>
+<human>What is (5 * 4) + 1?<endOfText>
+<bot> 21<endOfText>
+<human>What is (8 + 3) - 2?<endOfText>
+<bot> 9<endOfText>
+<human>What is (1 + 2) - 9?<endOfText>
+<bot> -6<endOfText>
+<human>What is (2 * 6) * 8?<endOfText>
+<bot> 96<endOfText>
+<human>What is (8 + 5) * 5?<endOfText>
+<bot> 65<endOfText>
+<human>What is (7 - 3) * 9?<endOfText>
+<bot> 36<endOfText>
+<human>What is (2 * 9) - 3?<endOfText>
+<bot> 15<endOfText>
+<human>What is (4 * 5) + 8?<endOfText>
+<bot> 28<endOfText>
+<human>What is (9 + 4) - 3?<endOfText>
+<bot> 10<endOfText>
+<human>What is (2 - 5) - 9?<endOfText>
+<bot> -12<endOfText>
+<human>What is (7 - 2) * 6?<endOfText>
+<bot> 30<endOfText>
+<human>What is (9 + 1) * 1?<endOfText>
+<bot> 10<endOfText>
+<human>What is (5 * 9) - 8?<endOfText>
+<bot> 37<endOfText>
+<human>What is (3 + 9) - 1?<endOfText>
+<bot> 11<endOfText>
+<human>What is (9 * 8) * 5?<endOfText>
+<bot> 360<endOfText>
+<human>What is (6 - 3) + 8?<endOfText>
+<bot> 11<endOfText>
