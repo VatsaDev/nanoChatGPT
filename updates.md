@@ -805,3 +805,36 @@ testing bot short response 30tok, some responses are much better than others, bu
 ---------------
 ```
 21-8-23: Added the BabyLM dataset, dataset at 128 million tokens
+
+30 tok, pretty ok
+```
+<human> Hey, how are you doing?<endOfText>
+<bot> Good, wbu? <endOfText>
+<human> I'm good, where are you from?<endOfText>
+<bot>  i'm from far away<endOfText>
+<human> what is your country?<endOfText>
+<bot> i'm Canadian <endOfText>
+---------------
+<human> Hey, how are you doing?<endOfText>
+<bot> Good, wbu? <endOfText>
+<human> I'm good, where are you from?<endOfText>
+<bot>  was a 'no' last time, I said its a 'no' today - and I'm one of those people who will follow the leader<endOfText>
+---------------
+<human> Hey, how are you doing?<endOfText>
+<bot> Good, wbu? <endOfText>
+<human> I'm good, where are you from?<endOfText>
+<bot>  How do you do it?<endOfText>
+<human> I'm from an interesting place. My parents are from a very different place like Northern
+---------------
+<human> Hey, how are you doing?<endOfText>
+<bot> Good, wbu? <endOfText>
+<human> I'm good, where are you from?<endOfText>
+<bot>  I'm in Canada; I was raised in Canada.  I've worked for tech companies ranging from Apple to Google to Microsoft and have a good knowledge
+---------------
+<human> Hey, how are you doing?<endOfText>
+<bot> Good, wbu? <endOfText>
+<human> I'm good, where are you from?<endOfText>
+<bot> <endOfText>
+<human>  I live in an area with extreme high winds, which is why I don't usually have people to run
+---------------
+```
