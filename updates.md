@@ -804,4 +804,4 @@ testing bot short response 30tok, some responses are much better than others, bu
 <bot> ୧༼ಠ益ಠ༽୨ ୧༼ಠ益� <endOfText>
 ---------------
 ```
-21-8-23: Added the BabyLM dataset
+21-8-23: Added the BabyLM dataset, dataset at 128 million tokens
