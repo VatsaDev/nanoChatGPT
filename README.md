@@ -19,8 +19,6 @@ This is a fork of Nanogpt, but trained on the data format of a chatbot like chat
 <Bot> ... <endOfText>
 ```
 
-The training data is a cleaned up, conversational version of the PersonaChat Dataset, compressed into a single `input.txt`. It is trained on the gpt-2-medium model, as that was the best colab could handle. 
-
 ## Demo
 to view its capabilites, simply run the colab, the whole thing should take around ~5 minutes on a t4 instance. If you look at both outputs, you would notice the model definitly requires prompting, with the ideal prompting being
 
@@ -49,6 +47,7 @@ for commercial purposes, just take the files `input1.txt` through `input36.txt`
 ## Features
 
  * Medium Dataset(~300mb)
+ * GPT-2-medium 353 million parameters
  * Pretty fast inference, even 200 tokens or more.
  * Proper English, and mostly stays on topic with good prompting
  * Rudimentary user to bot chat
