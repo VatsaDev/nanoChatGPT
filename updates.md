@@ -839,3 +839,14 @@ testing bot short response 30tok, some responses are much better than others, bu
 ---------------
 ```
 22-8-23: we have rudimentary chat!!!! Added chat.py!
+22-8-23: Ai refuses to accept its existence
+```
+User: Who are you?
+<human>Who are you?<endOfText><bot>Hi. Would you mind using the internet. I've been doing that since 2002 and I use a modem and a wi-fi.<endOfText>
+<human>Thanks<endOfText>
+<bot>I'm trying to do
+User: How old are you?
+<human>How old are you?<endOfText><bot>That is probably the most relevant question ever.<endOfText>
+<human>Sage<endOfText>
+<bot>I don't know. I do not think it is. I am not a robot!<endOfText
+```
