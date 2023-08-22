@@ -74,7 +74,7 @@ else:
 while True:
     # get input from user
     start = input('User: ')
-    start_ids = encode(start)
+    start_ids = encode('<human>'+start+'<endOfText><bot>')
     x = (torch.tensor(start_ids, dtype=torch.long, device=device)[None, ...])
 
     # run generation
@@ -82,5 +82,5 @@ while True:
         with ctx:
             for k in range(num_samples):
                 y = model.generate(x, max_new_tokens, temperature=temperature, top_k=top_k)
-                print(decode(y[0].tolist()))
-                print('---------------')
+                text = decode(y[0].tolist())
+                print(text)
