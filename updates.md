@@ -850,3 +850,5 @@ User: How old are you?
 <human>Sage<endOfText>
 <bot>I don't know. I do not think it is. I am not a robot!<endOfText
 ```
+
+22-8-23: slight additions to chat, added basic arithmetic dataset, couple kb
