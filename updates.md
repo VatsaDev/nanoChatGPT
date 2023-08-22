@@ -838,3 +838,4 @@ testing bot short response 30tok, some responses are much better than others, bu
 <human>  I live in an area with extreme high winds, which is why I don't usually have people to run
 ---------------
 ```
+22-8-23: we have rudimentary chat!!!! Added chat.py!
