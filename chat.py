@@ -79,7 +79,7 @@ while True:
     start = input('User: ')
     start_ids = encode('<human>'+start+'<endOfText><bot>')
     context = context+decode(start_ids)
-    x = (torch.tensor(context, dtype=torch.long, device=device)[None, ...])
+    x = (torch.tensor(encode(context), dtype=torch.long, device=device)[None, ...])
 
     # run generation
     with torch.no_grad():
