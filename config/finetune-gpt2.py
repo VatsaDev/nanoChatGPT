@@ -1,6 +1,6 @@
 import time
 
-out_dir = '/content/drive/MyDrive/Model'
+out_dir = 'out-chat'
 eval_interval = 5
 eval_iters = 40
 wandb_log = False # feel free to turn on
