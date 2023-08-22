@@ -41,12 +41,13 @@ I did not make the data dumps/corpuses that make up this data, and can't account
  - ParlAI empathetic Chat (not for commercial use)
  - Hackernews Dumps corpus
  - BabyLM challenge speech data (Unsure, but probably not for commercial use)
+ - Eleuthier AI arithmetic dataset
 
 for commercial purposes, just take the files `input1.txt` through `input36.txt`
 
 ## Features
 
- * Medium Dataset(~300mb)
+ * Medium Dataset(~300mb), full of a variety of conversations, and a little arithmetic 
  * GPT-2-medium 353 million parameters
  * Pretty fast inference, even 200 tokens or more.
  * Proper English, and mostly stays on topic with good prompting
