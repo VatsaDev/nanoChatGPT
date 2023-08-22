@@ -69,29 +69,32 @@ else:
     encode = lambda s: enc.encode(s, allowed_special={"<|endoftext|>"})
     decode = lambda l: enc.decode(l)
 
+def respond(input, samples): # generation function
+    x = (torch.tensor(encode(input), dtype=torch.long, device=device)[None, ...])
+    with torch.no_grad():
+        with ctx:
+            for k in range(samples):
+                generated = model.generate(x, max_new_tokens, temperature=temperature, top_k=top_k)
+                output = decode(y[0].tolist())
+                output = output.replace(input,'')
+                return output
 
-
-context = ''
-
-#chat loop
+# re-add context functionality
+# chat loop
 while True:
     # get input from user
     start = input('User: ')
-    start_ids = encode('<human>'+start+'<endOfText><bot>')
-    context = context+decode(start_ids)
-    x = (torch.tensor(encode(context), dtype=torch.long, device=device)[None, ...])
+    start_ids = '<human>'+start+'<endOfText><bot>'
+    #context = context+decode(start_ids)
+    
+    out = respond(x, num_samples)
+    print(out)
 
-    # run generation
-    with torch.no_grad():
-        with ctx:
-            for k in range(num_samples):
-                y = model.generate(x, max_new_tokens, temperature=temperature, top_k=top_k)
-                text = decode(y[0].tolist())
-                # text = text.replace(context,'') not working
-                context=context+text
-                print(context)
-                # santize tokens from output
-                text = text.replace('<human>',' ')
-                text = text.replace('<bot>',' ')
-                text = text.replace('<endOfText>',' ')
-                print('Bot:'+ text)
+    # old code
+    # text = text.replace(context,'') not working
+    # context=context+text
+    # santize tokens from output code
+    # text = text.replace('<human>',' ')
+    # text = text.replace('<bot>',' ')
+    # text = text.replace('<endOfText>',' ')
+    # print('Bot:'+ text)
