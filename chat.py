@@ -75,7 +75,7 @@ def respond(input, samples): # generation function
         with ctx:
             for k in range(samples):
                 generated = model.generate(x, max_new_tokens, temperature=temperature, top_k=top_k)
-                output = decode(y[0].tolist())
+                output = decode(generated[0].tolist())
                 output = output.replace(input,'')
                 return output
 
