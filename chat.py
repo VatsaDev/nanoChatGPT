@@ -71,12 +71,15 @@ else:
 
 
 
+context = ''
 
+#chat loop
 while True:
     # get input from user
     start = input('User: ')
     start_ids = encode('<human>'+start+'<endOfText><bot>')
-    x = (torch.tensor(start_ids, dtype=torch.long, device=device)[None, ...])
+    context = context+decode(start_ids)
+    x = (torch.tensor(context, dtype=torch.long, device=device)[None, ...])
 
     # run generation
     with torch.no_grad():
@@ -85,4 +88,5 @@ while True:
                 y = model.generate(x, max_new_tokens, temperature=temperature, top_k=top_k)
                 text = decode(y[0].tolist())
                 text = text.replace(decode(start_ids),'')
+                context=context+text
                 print('Bot:'+ text)
