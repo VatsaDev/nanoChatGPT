@@ -77,6 +77,10 @@ def respond(input, samples): # generation function
                 generated = model.generate(x, max_new_tokens, temperature=temperature, top_k=top_k)
                 output = decode(generated[0].tolist())
                 output = output.replace(input,'')
+                text = 'some string... this part will be removed.'
+                output =  output.partition('<human>')
+                output[0] =  output.rpartition('<endOftext>')
+                output = output[0] 
                 return output
 
 # re-add context functionality
