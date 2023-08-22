@@ -83,11 +83,11 @@ def respond(input, samples): # generation function
 # chat loop
 while True:
     # get input from user
-    start = input('User: ')
-    start_ids = '<human>'+start+'<endOfText><bot>'
+    start_input = input('User: ')
+    start = '<human>'+start+'<endOfText><bot>'
     #context = context+decode(start_ids)
     
-    out = respond(x, num_samples)
+    out = respond(start, num_samples)
     print(out)
 
     # old code
