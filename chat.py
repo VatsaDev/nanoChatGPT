@@ -92,7 +92,7 @@ while True:
     out = out.replace('<human>',' ')
     out = out.replace('<bot>',' ')
     out = out.replace('<endOfText>',' ')
-    print(Bot: out)
+    print('Bot: '+ out)
 
     # old code
     # context=context+text
