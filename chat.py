@@ -87,6 +87,11 @@ while True:
             for k in range(num_samples):
                 y = model.generate(x, max_new_tokens, temperature=temperature, top_k=top_k)
                 text = decode(y[0].tolist())
-                text = text.replace(context,'')
+                # text = text.replace(context,'') not working
                 context=context+text
+                print(context)
+                # santize tokens from output
+                text = text.replace('<human>',' ')
+                text = text.replace('<bot>',' ')
+                text = text.replace('<endOfText>',' ')
                 print('Bot:'+ text)
