@@ -51,7 +51,8 @@ for commercial purposes, just take the files `input1.txt` through `input36.txt`
  * GPT-2-medium 353 million parameters
  * Pretty fast inference, even 200 tokens or more.
  * Proper English, and mostly stays on topic with good prompting
- * Rudimentary user to bot chat
+ * User to Bot chat
+ * chat.py has functions similar to openai api stop, removes all content after a certain word
 
 ## Problems / TODOs
 
@@ -61,10 +62,6 @@ for commercial purposes, just take the files `input1.txt` through `input36.txt`
 
 * ### bigger models
      * try using huggingface methods, etc, to get up to gpt2-xl
-
-* ### Add a stop function like the OpenAI API
-    
-    * Add the function to stop at a certain word, to allow for the model to stop, so the human can respond.
 
 * ### Math and Logical Reasoning
     
