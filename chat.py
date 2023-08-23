@@ -60,9 +60,9 @@ def respond(input, samples): # generation function
                 output = output.replace(input,'')
                 text = 'some string... this part will be removed.'
                 output =  output.partition('<human>')
-                output[0] =  output.rpartition('<endOftext>')
-                output = output[0] + output[1]
-                return output
+                output_text =  output[0].rpartition('<endOftext>')
+                output_text = output[0] + output[1]
+                return output_text
 
 # re-add context functionality
 # chat loop
