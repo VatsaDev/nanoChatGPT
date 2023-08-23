@@ -82,6 +82,6 @@ while True:
     context=context+start
     
     out = respond(context, num_samples)
-    context=context+'<bot>'+out+'<endOfText>'
+    context=context+out+'<endOfText>'
     print('Bot: '+ out)
     print('context: '+context)
