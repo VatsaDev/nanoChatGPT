@@ -65,23 +65,23 @@ def respond(input, samples): # generation function
                 # if the bot has anything left afterwards, the endOfText token is put to use
                 output_text =  output[0].rpartition('<endOftext>')
                 output_text = output[0] + output[1]
+                # label removing
+                output_text = output_text.replace('<human>',' ')
+                output_text = output_text.replace('<bot>',' ')
+                output_text = output_text.replace('<endOfText>',' ')
                 return output_text
 
-# re-add context functionality
 # chat loop
+context=''
 while True:
     # get input from user
     start_input = input('User: ')
     start = '<human>'+start_input+'<endOfText><bot>'
-    #context = context+decode(start_ids)
-    
-    out = respond(start, num_samples)
-    print(out)
-    # Label removing 
-    out = out.replace('<human>',' ')
-    out = out.replace('<bot>',' ')
-    out = out.replace('<endOfText>',' ')
-    print('Bot: '+ out)
 
-    # old code
-    # context=context+text
+    # context
+    context=context+start
+    
+    out = respond(context, num_samples)
+    context=context+'<bot>'+bot+'<endOfText>'
+    print('Bot: '+ out)
+    print('context: '+context)
