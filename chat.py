@@ -84,4 +84,3 @@ while True:
     out = respond(context, num_samples)
     context=context+out+'<endOfText>'
     print('Bot: '+ out)
-    print('context: '+context)
