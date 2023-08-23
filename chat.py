@@ -57,9 +57,12 @@ def respond(input, samples): # generation function
             for k in range(samples):
                 generated = model.generate(x, max_new_tokens, temperature=temperature, top_k=top_k)
                 output = decode(generated[0].tolist())
+
+                # replace context
                 output = output.replace(input,'')
-                text = 'some string... this part will be removed.'
+                # remove any human response
                 output =  output.partition('<human>')
+                # if the bot has anything left afterwards, the endOfText token is put to use
                 output_text =  output[0].rpartition('<endOftext>')
                 output_text = output[0] + output[1]
                 return output_text
@@ -73,6 +76,7 @@ while True:
     #context = context+decode(start_ids)
     
     out = respond(start, num_samples)
+    print(out)
     # Label removing 
     out = out.replace('<human>',' ')
     out = out.replace('<bot>',' ')
