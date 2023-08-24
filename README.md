@@ -82,7 +82,7 @@ for commercial purposes, just take the files `input1.txt` through `input36.txt`
 
       
 <br /><br /><br />
-Anyone Who can contribute to the repo, please do so, any and all contributions are welcome, simply add a little to `input.txt` and expand our dataset would be amazing.
+Anyone Who can contribute to the repo, please do so, any and all contributions are welcome, simply add a little to the dataset and expand it dataset would be amazing.
 
 #### citations
 ```
