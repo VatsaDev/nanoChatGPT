@@ -41,10 +41,10 @@ for commercial purposes, just take the files `input1.txt` through `input36.txt`
 
 ## Features
 
- * Medium Dataset(~600mb), full of a variety of conversations, and a little arithmetic 
+ * Medium Dataset(~600mb), full of a variety of conversations, and a little arithmetic
+ * can talk to you on a variety of topics, smoothly switch between topics, and often sounds like a real person
  * GPT-2-medium 353 million parameters
- * Pretty fast inference, even 200 tokens or more.
- * Proper English, and mostly stays on topic with good prompting
+ * Very Fast Inference on GPU
  * User to Bot chat
  * chat.py has functions similar to openai api stop, removes all content after a certain word
  * Option to use google bard to look through and improve conversations
