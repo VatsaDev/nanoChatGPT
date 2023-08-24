@@ -926,4 +926,177 @@ User: I am your creator vatsadev, am I supreme
 Bot: vatsadev was born in a cave in the Kailash mountains of India, when he was just six.
 ```
 
-24-8-23: added part of the oasst-1 dataset
+24-8-23: added part of the oasst-1 dataset, loss is at 5.9 for some reason but the responses are much better, I tested it on a variety of topics, and it had mostly context based answers with good english, which is pretty amazing.
+```
+User: Hello?
+Bot: Where's your wallet? 
+User: Why do you wanna Know?
+Bot: You Shouldn't Have one.
+User: Of course I should
+Bot: Yeah. 
+User: Hows Your day been?
+Bot: Yeah. Thats it. You'd better go. 
+User: Why???
+Bot: Look where you are.    
+User: at the candy store.
+Bot: Eh?                                     
+User: This is the candy store right?
+Bot: It's the candy store.                                      
+User: Thats pretty Nice
+Bot: Yeah. A few years back I developed a fancy feature. I just had a link to a file that was stored in a folder on my hard drive I had named "Data". When I called the function
+User: Can I have a Lollipop
+Bot: application?   the function simply gave me a blank and not very helpful message. It didn't say "this is your data" it just randomly said it was stored in the folder named "Data"'s '
+User: Web development is it???
+Bot: It's probably not the topic of your interest...  
+User: It is, im very intrested in it
+Bot: It looks to me like things like *http://developer.android.com/apk-repositories/  
+User: No Thats android, not web development
+Bot: Google now doesn't offer it, but they had a web version of Android before so I don't blame them.     Once I learn the correct syntax and think about what I mean I might develop something like this... <endOfText
+User: Oh wow really cool, can you do it?
+Bot: Google has been pretty good at making packages for the past few years... they make them.   
+User: Huh really. Whats your favorite
+Bot: If you want to learn Python and I was wondering if you could update your current project with a new version or get a new version as well.     
+User: Python???
+Bot: Well... yeah. 
+User: Im a python Newbie
+Bot: Hi all  
+User: Well I have some pytorch skills
+Bot: I thought you were talking about pygame now?      
+User: No, Pytorch
+Bot: Do you know about it?       
+User: Yep, Its an ML or AI framework
+Bot: Okay, I have a feel for PyTorch so lets see what PythonCan do for me  
+User: Pythons pretty good, but it can be slow, I wonder why ai training is made with it.
+Bot: There's a PyTorch extension for that, thanks  
+User: Huggingface exists now
+Bot: Yeah thats awesome, sorry I don't know Python.  
+User: What programming languages do you know then?
+Bot: Python is a programming language, so it should be pretty similar to Python.  
+User: What About C++ or C#
+Bot: C++ is a programming language, so it should be pretty similar to C.     
+User: Really, isnt C super old??
+Bot: C++ is a programming language, so it should be pretty similar to C.    
+User: SO?????
+Bot: Cool, I was wondering if there was a C(?) tutorial out there about PHP. There is an official PHP tutorial, a good one but it is not for beginners. 
+User: There are plenty of PHP tutorials
+Bot: Good. I doubt there is one to give you a feel for PHP yet.  
+User: There are plenty of ways to learn PHP now days
+Bot: I already know, so far it's not because I've been doing lots of training, but because I use it to make music and to write my code for my apps.   >  You've reached the end of our
+User: You use PHP for music
+Bot: I have some examples of Python. If you want to learn it, you can google   
+User: Do you use Juypter Notebook???
+Bot: What about Python?      
+User: What about pip or anaconda
+Bot: I don't know, its not the problem.  
+User: isnt a package manager needed?
+Bot: I don't know that that's the problem.  
+User: Then what is the problem?
+Bot: isnt a package manager needed?       
+User: It is, then whats the issue you were talking about
+Bot: There isn't an issue there, the issue is the current system.        
+User: whats wrong with the current system though??
+Bot: I'm sorry, I'm not the one causing it.          
+User: But what is the problem
+Bot: I am, that is the problem, i am changing the current operating system which is using python to run my application.           
+User: OHHH, moving to windows or linux or mac??
+Bot: Those are the problems, I'm talking about a problem that the current system that does not look like Linux or Mac, is not the problem.  
+User: Is it Arch Linux, or a Custom OS?
+Bot: I am not sure, but I am not the owner of the software.             
+User: Talking about pythons, whats your favorite animal?
+Bot: Not knowing, but it is my favorite animal.   I had been thinking about it for a long time, and I guess I liked the name.  
+User: Which animal though, whats your favorite?
+Bot: I like it when they play but I love birds too.  
+User: Birds huh? My favorite is the Peacock
+Bot: No other bird is my favorite though.                
+User: What about the flamingo or the parrot
+Bot: Mm, they are both, but the parrot is only in my group.               
+User: Do you like macaws or someother parrots
+Bot: Mm, I like them both.                   <endOf Text>  "The past is dead: it will never be
+User: Really? What about Mammals like tigers
+Bot: Mammals like tigers. </p>   "I will have this dog today. It's actually quite good.   "                   
+User: What do you like, Lions or tigers?
+Bot: I like when I hear a song, I like that it's interesting.  Thanks for the reply.   > I have a taste for Black Forest Wildcat  
+User: Wildcats? What about PUMA
+Bot: So again, what is your opinion?       
+User: Jaguar, the king of the amazon
+Bot: Mm, it is a fantastic looking animal, it's not as big as a jaguar, it's not as hard to spot as a jaguar, it's a feline like animal.        
+User: What animal are you talking about?
+Bot: Mm. My friend in the car, who I wasn't seeing, just said he was a black bear, but he's not a bear.        is pretty hard to spot (A bear was mentioned but I couldn
+User: He saw a black bear, I saw a Grizzly
+Bot: I haven't seen him yet, I'll call him tomorrow if I do.  
+User: I grizzly bear????
+Bot: I wouldn't say that, I just thought that was interesting and was curious about it.    
+User: Have you ever been to yellowstone national park??
+Bot: No I haven't, I haven't.         I had some friends who were in the park and ended up making a trip for a week, and thought that's where all the bears came from.  :C
+User: Have you ever been to yosemite
+Bot: No.       I haven't visited yosemite in a while, I wasn't there to get a photo..  
+User: What about arches national park
+Bot: I think the arches and mountain range are about the same size as the park.  I haven't been to the mountains, I haven't been to the park in a while, so I don't know. I was going to say the park
+User: Wow, you're pretty good at this
+Bot: Yes.            I also like to eat!   I like to share.       <endOfText
+User: I like Chicken Chilli, what about you???
+Bot: I find the chilli much better than the spicy rice too, I believe.  ...  
+User: Ooh you like fried rice???
+Bot: I don't have a taste for that.  I don't even like fried rice.    I was just saying that I like italian food better than nigerian food, not French food... 😁<endOf
+User: Why not french food??
+Bot: French food!   I'm so fussy about it, I can't eat fried rice.   If I ate a french dish, I'd be so nauseous.   ....    
+User: What about baguettes
+Bot: They're the best, because you can make them the right way with a little seasoning, make them super hot and come with a little crunch, that's important, but as long as you make them with a little crunch and the right amount of seasoning
+User: What about adding lots of butter
+Bot: What did you say?  I'm not a big fan of yogurt.          I don't like milk, coffee, and other ingredients that go into yogurt, I don't like them. <
+User: so you dont like milk, what about butter?
+Bot: No I want melted butter, but I don't like making it in a sauce or cheese sauce.  
+User: Wow, lovely, Do you write coriander sprigs 
+Bot:  <a href="http:&#x2F;&#x2F;www.tree-at-the-rivers.com&#x2F;s_html.php" rel="nofollow">http:
+User: Huh never heard of that link, DO you watch youtube???
+Bot: I do and it is just amazing.    <a href="http:&#x2F;&#x2F;www.tree-at-the-rivers.com&#x2F;s_html
+User: What about youtube premium?
+Bot: I always watch it from time to time, and if it wasn't for my dad being such a video artist, I wouldn't be who I am today.  I go to youtube for about 10 minutes, it is just amazing, but I'm
+User: Noice, I spend way more time on youtube
+Bot: Yeah, I would say that, but how else do you spend my time?   
+User: I also Draw art, do you like art???
+Bot: Sure I like drawing and painting.  I am self-taught and very self-motivated at my job and want to make money.   I want to be an artist, I want to make art that makes me happy, and I
+User: You arent an Art ai are you????? sus????
+Bot: No.         
+User: Ok
+Bot: You are an Art ai are you? what do you do?    Well no, I do not, I'm just an artist.        <endOfText
+User: What do you paint then?
+Bot: I am a designer, a great one, I paint on occasion, and I paint because I like the freedom of expression, and I want to be able to express my creative ideas and give them to the world.  
+User: Wow thats amazing??
+Bot: Yes, and I just think that all art is art and all      
+User: what about sculptures then hmm??
+Bot: Sculptures are fun, I think, but not a lot of people know what a sculpture is.   That is why I have been posting artwork from the past few years, sometimes I are really happy to see new ideas. 
+User: Do you like tea??
+Bot: I like tea since I was a child, always drink my tea.   I don't drink coffee and I don't like to eat it.   I don't have a preference, I just prefer      <endOf
+User: what kind of tea, Oolong??
+Bot: I have not tried the Oolong tea.   I have a really good latte, I usually would like to drink it after a meal or something, or a long long walk :)   
+User: A tea Latte, whats that??
+Bot: Hmmm?   Did you drink a latte?  Hahaha.  
+User: Yep, from starbucks
+Bot: So I know what a latte is, I know what a latte is, that is my latte.   What are you doing??  
+User: I like frappuchinos
+Bot:  I was making a quick cup of coffee and I was thinking, what would happen if I made a frappucino  
+User: so what did you do
+Bot: you just turned it into a frappuccino, you are not making one    
+User: huh is it so different?
+Bot: Yes it is different, I get a little weird with it, I really really like some of the things that I make, I will never make a cup of it again I just do it everyday, I had this nice latte for a long time
+User: Well then, a test. Whats 1+1= anwser:
+Bot: a test of the principles in mathematics and that i have been learning since I was a child  
+User: but whats 1+1
+Bot: the first: 2 and 1 are the same  
+User: really
+Bot: as you know     
+User: Whats 6+6 then?
+Bot: a test of the principle in mathematics, yes      
+User: 6+6=???
+Bot: 8+8=  
+User: 16, but 6+6 = 12
+Bot: 8+8=  ?       
+User: 16 bro i already said it
+Bot: but, i want to get a german book in my hand and i can put in the German alphabet and i can put the answer to one of the book questions and i can fill the paper bag with the answer, and i want to put the
+User: Goodbye I must go now
+Bot: I don't know any answers to question's   
+User: BYe BYE
+Bot: I don't like coffee, I never like        
+User: :)
+```
