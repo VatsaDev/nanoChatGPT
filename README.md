@@ -20,14 +20,7 @@ This is a fork of Nanogpt, but trained on the data format of a chatbot like chat
 ```
 
 ## Demo
-to view its capabilites, simply run the colab, the whole thing should take around ~5 minutes on a t4 instance. If you look at both outputs, you would notice the model definitly requires prompting, with the ideal prompting being
-
-```
-<human> ... <endOfText>
-<Bot> ... <endOfText>
-<Human> ... <endOfText>
-<Bot>
-```
+to view its capabilites, simply run the colab, the whole thing should take around ~30 minutes on a t4 instance. If you look at both outputs, you would notice the model definitly requires prompting, in the format above.
 
 ## Limitations 
 
@@ -53,12 +46,9 @@ for commercial purposes, just take the files `input1.txt` through `input36.txt`
  * Proper English, and mostly stays on topic with good prompting
  * User to Bot chat
  * chat.py has functions similar to openai api stop, removes all content after a certain word
+ * Option to use google bard to look through and improve conversations
 
 ## Problems / TODOs
-
-* ### Better conversations
-    
-    * Right now, the dataset used is made up of a variety of conversations, not really designed to be used by the Bot. Probably needs some sort of rudimentary RLHF
 
 * ### Math and Logical Reasoning
     
