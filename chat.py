@@ -7,6 +7,7 @@ from contextlib import nullcontext
 import torch
 import tiktoken
 from model import GPTConfig, GPT
+from improve import *
 
 # -----------------------------------------------------------------------------
 out_dir = 'out-chat' # where finetuned model lives
