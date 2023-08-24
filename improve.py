@@ -21,5 +21,8 @@ def improve(text_improve, user_api_key):
       # The maximum length of the response
       max_output_tokens=800,
   )
+
+  with open("improve.txt", "w") as f:
+    f.write(completion.result) # sent to improve.txt
   
   return completion.result
