@@ -60,9 +60,6 @@ for commercial purposes, just take the files `input1.txt` through `input36.txt`
     
     * Right now, the dataset used is made up of a variety of conversations, not really designed to be used by the Bot. Probably needs some sort of rudimentary RLHF
 
-* ### bigger models
-     * try using huggingface methods, etc, to get up to gpt2-xl
-
 * ### Math and Logical Reasoning
     
     * While mostly out of the scope of this model, this is something for future models, the two main options are to detect math and run backend code, or train the model with Chain-of-though math prompting, which is probably more feasible, For logical reasoning, I might try incorporating datasets like `garage-bAInd/Open-Platypus`, etc
