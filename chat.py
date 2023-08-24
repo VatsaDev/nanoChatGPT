@@ -86,7 +86,7 @@ while True:
     
     out = respond(context, num_samples)
     context=context+out+'<endOfText>'
-    if improve_msuite = True:
+    if improve_msuite == True:
         improvedText = improve(context, your_api_key)
         print(improvedText)
         
