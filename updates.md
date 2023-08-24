@@ -852,3 +852,76 @@ User: How old are you?
 ```
 
 22-8-23: slight additions to chat, added basic arithmetic dataset, couple kb
+
+24-8-23: Me and the boys messing around with the bot its getting good
+```
+User: Asparagus
+Bot:  I eat kabbalah 
+ 
+User: kabbalah????
+Bot:  I'm using vimi, and it works  
+User: NEOVIM supreme
+Bot:  I have to ask but.... Have you used Windows to type ? 
+ 
+User: POTATO SUIT!!!!
+Bot:  I never run it, but it really works! My laptop is running Chrome on it. Can someone explain ? 
+  
+User: AI
+Bot:  I have an   the s4, and tried to fire up a windows app.  I must say, at one point I got the following error, when I tried to open up a web browser, which I want to browse the web.
+User: Can you please develop a windows app for me?
+Bot: Havana  
+User: Why you like Havana?
+Bot: Why you like Cuba?  
+User: I dont like cuba
+Bot: Is that a compliment or something?  
+User: yes no cuba
+Bot: Are you a Cuban or a Cuban  
+User: Simplify cuban
+Bot: No, no, no, tienes una súmeo :P  
+User: ????????
+Bot: I saw this: http://www.vimeo.com/12290956     
+User: RICKROLLLLLLLL
+Bot: Does anyone know how to get linux or windows on a desktop? I got my windows box and it's broken. Could someone help me?     
+User: LINUX penguin please
+Bot: if you cant get it to boot up properly theres a black screen after you reboot. If you have a mouse you can just try a different mouse but it dont work.  
+User: Where are you from, Im from The UK
+Bot: I live in the Netherlands  
+User: give me dating advice
+Bot: I cant even. But that sounds like a great answer to your question.    
+User: NO, give me dating advice
+Bot: I dont use the windows on a laptop so I dont have to care about having to open a bunch of shit windows in order to get anything off of the hard drive that I want off of it.    
+User: BIGFOOT
+Bot: Hi! How are you? I dont know...but I just want to share something about my experiences  
+User: Black elon musk
+Bot: What was your first taste of the music scene?  
+User: Jazz
+Bot: do you listen to the same music as musicians?  
+User: Yes, I love Jazz
+Bot: How did you become a musician?    
+User: I heard a person I know make Farts on a trombone
+Bot: I cant find the time and time again to read all of this. I wonder why?  
+User: I believe in you
+Bot: do you know what you want?  
+User: I want 3 wishes
+Bot: You do! I do hope that someday a person like that will have a chance at becoming a singer  
+User: I will wish for a british Voice
+Bot: I mean you can ask me all kinds of questions, and I always give a good answer. :) What are you?      
+User: Im a british man
+Bot: I see you've got a "voice" in your mouth, just like I do  Then how do I get it to fit me?   
+User: you want the power of the british!!!!!!!
+Bot: What if I want a karate kun  you know that's the best way to learn karate?      
+User: You must from the master in the jade palace, his name is kung fu panda
+Bot: You mean you do know kung fu panda?  
+User: Everybody was kung fu fighting.....
+Bot: Good question. I have kung fu training now for 10 years and I'm still in the same gym every day. I'm not used to being in combat and I hate it. I said no more training day! If I was to get older
+User: Ninja never quit bro you must train
+Bot: Yea but you are not a panda I guess.  I will go japan too  
+User: I have a friend named **** **** says Hi
+Bot: Who says Hi?  I didnt say Hi.  Jokes!!  
+User: **** says *****s smart, is this true
+Bot: **** says *****s can be smart, is this true  I think so.  They made fun of me.  *****s are smart.  *****s can be smart.  *****s are clever. 
+User: What is *****s IQ
+Bot: **** is *****s IQ.  *****s are smart.  *****s can be smart.  *****s are clever.  *****s are clever.  *****s can be clever.  *****s can be clever.  *****s can
+User: I am your creator vatsadev, am I supreme
+Bot: vatsadev was born in a cave in the Kailash mountains of India, when he was just six.
+```
