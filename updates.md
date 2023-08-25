@@ -1100,3 +1100,5 @@ User: BYe BYE
 Bot: I don't like coffee, I never like        
 User: :)
 ```
+
+25-8-23: Fixed the way token preparation is done, setting it up in chunks instead, and we also pull the dataset off huggingface now, overall making the process a minute and a half faster 
