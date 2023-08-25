@@ -2,9 +2,6 @@ import os
 import requests
 import tiktoken
 import numpy as np
-
-import os
-import requests
 import glob
 
 def download_file(url):
