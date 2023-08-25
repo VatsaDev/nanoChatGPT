@@ -25,6 +25,13 @@ with open(input_file_path, 'r') as f:
 train_size = 0.9
 val_size = 0.1
 
+def chunk_dataset(dataset, chunk_size):
+  """Splits a dataset into chunks of the specified size."""
+  chunks = []
+  for i in range(0, len(dataset), chunk_size):
+    chunks.append(dataset[i:i + chunk_size])
+  return chunks
+
 def split_dataset(data, train_size, val_size):
   """Splits a dataset into train and val sets."""
   train_data = data[:int(len(data)*train_size)]
