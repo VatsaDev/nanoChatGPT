@@ -20,41 +20,22 @@ input_file_path = './dataset.txt';
 with open(input_file_path, 'r') as f:
     data = f.read()
 
-# define chunk size
-chunk_size = 512
+# define train and val sizes
+train_size = 0.9
+val_size = 0.1
 
-def chunk_data(data, chunk_size):
-  global chunks
-  chunks = []
-  for i in range(0, len(data), chunk_size):
-    chunks.append(data[i:i+chunk_size])
-
-  return chunks
-
-# split data into train and val chunks
-chunks = chunk_data(data, chunk_size)
-num_chunks = len(chunks)
-train_chunks = []
-val_chunks = []
-for i in range(0, num_chunks, 10):
-  train_chunks.extend(chunks[i:i+9])
-
-  # check the length of the chunks list before accessing the 9th element
-  if i < num_chunks - 1:
-    val_chunks.append(chunks[i+9])
-  else:
-    print("Not enough chunks to create val set")
+# split data into train and val sets
+train_data = data[:int(len(data)*train_size)]
+val_data = data[int(len(data)*train_size):]
 
 # encode with tiktoken gpt2 bpe
 enc = tiktoken.get_encoding("gpt2")
 
 # encode train chunks
-for chunk in train_chunks:
-  train_ids = enc.encode_ordinary(chunk)
+train_ids = enc.encode_ordinary(train_data)
 
 # encode val chunks
-for chunk in val_chunks:
-  val_ids = enc.encode_ordinary(chunk)
+val_ids = enc.encode_ordinary(val_data)
 
 # export train and val chunks to bin files
 train_ids = np.array(train_ids, dtype=np.uint16)
