@@ -3,13 +3,12 @@ import requests
 import tiktoken
 import numpy as np
 
-# download dataset from huggingface
+# download concatenated.txt file from huggingface
 def download_file(url):
   response = requests.get(url)
   if response.status_code == 200:
     with open('dataset.txt', 'wb') as f:
       f.write(response.content)
-      print("downloaded dataset, tokenizing")
   else:
     print('Error downloading file:', response.status_code)
 
@@ -39,7 +38,12 @@ train_chunks = []
 val_chunks = []
 for i in range(0, num_chunks, 10):
   train_chunks.extend(chunks[i:i+9])
-  val_chunks.append(chunks[i+9])
+
+  # check the length of the chunks list before accessing the 9th element
+  if i < num_chunks - 1:
+    val_chunks.append(chunks[i+9])
+  else:
+    print("Not enough chunks to create val set")
 
 # encode with tiktoken gpt2 bpe
 enc = tiktoken.get_encoding("gpt2")
