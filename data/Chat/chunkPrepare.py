@@ -21,7 +21,7 @@ with open(input_file_path, 'r') as f:
     data = f.read()
 
 # define chunk size
-chunk_size = 1024
+chunk_size = 512
 
 def chunk_data(data, chunk_size):
   global chunks
