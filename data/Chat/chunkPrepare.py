@@ -3,25 +3,15 @@ import requests
 import tiktoken
 import numpy as np
 
-def concatenate_text_files(file_paths):
-  with open("concatenated.txt", "w") as outfile:
-    for file_path in file_paths:
-      with requests.get(file_path, stream=True) as response:
-        for chunk in response.iter_content(chunk_size=1024):
-          outfile.write(chunk)
-
-  return os.path.abspath("concatenated.txt")
-
 # download concatenated.txt file from huggingface
 def download_file(url):
   response = requests.get(url)
   if response.status_code == 200:
-    with open('concatenated.txt', 'wb') as f:
+    with open('dataset.txt', 'wb') as f:
       f.write(response.content)
   else:
     print('Error downloading file:', response.status_code)
 
-filename = 'concatenated.txt'
 download_file('https://huggingface.co/VatsaDev/ChatGpt-nano/resolve/main/Dataset.txt')
 
 # get input file
