@@ -1101,4 +1101,4 @@ Bot: I don't like coffee, I never like
 User: :)
 ```
 
-25-8-23: Fixed the way token preparation is done, setting it up in chunks instead, and we also pull the dataset off huggingface now, overall making the process a minute and a half faster 
+25-8-23: Fixed the way token preparation is done, setting it up in chunks instead, and we also pull the dataset off huggingface now, overall making the process a minute and a half faster. The validation error was coming from a huge difference between train and val datasets, which has now been fixed by making val files similar to train files, val loss down to 2.70 
