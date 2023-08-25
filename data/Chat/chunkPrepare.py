@@ -3,7 +3,7 @@ import requests
 import tiktoken
 import numpy as np
 
-# download concatenated.txt file from huggingface
+# download dataset from huggingface
 def download_file(url):
   response = requests.get(url)
   if response.status_code == 200:
@@ -20,6 +20,9 @@ input_file_path = './dataset.txt';
 
 with open(input_file_path, 'r') as f:
     data = f.read()
+
+# define chunk size
+chunk_size = 1024
 
 def chunk_data(data, chunk_size):
   global chunks
