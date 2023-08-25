@@ -41,7 +41,7 @@ for commercial purposes, just take the files `input1.txt` through `input36.txt`
 
 ## Features
 
- * Medium Dataset(~600mb), full of a variety of conversations, and a little arithmetic
+ * Medium Dataset(~630mb), full of a variety of conversations, and a little arithmetic
  * can talk to you on a variety of topics, smoothly switch between topics, and often sounds like a real person
  * GPT-2-medium 353 million parameters
  * Very Fast Inference on GPU
