@@ -30,6 +30,7 @@ def chunk_data(data, chunk_size):
   return chunks
 
 # split data into train and val chunks
+chunks = chunk_data(data, chunk_size)
 num_chunks = len(chunks)
 train_chunks = []
 val_chunks = []
