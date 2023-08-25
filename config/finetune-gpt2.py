@@ -2,7 +2,7 @@ import time
 
 out_dir = '/content/drive/MyDrive/Model' # for google colab, for regular use, set value to 'out-chat'
 eval_interval = 5
-eval_iters = 100
+eval_iters = 50
 wandb_log = False # feel free to turn on
 wandb_project = 'gpt2finetune'
 wandb_run_name = 'ft-' + str(time.time())
@@ -18,7 +18,7 @@ always_save_checkpoint = False
 # shakespeare has 301,966 tokens, so 1 epoch ~= 9.2 iters
 batch_size = 4
 gradient_accumulation_steps = 32
-max_iters = 100
+max_iters = 50
 
 # finetune at constant LR
 learning_rate = 2e-5
