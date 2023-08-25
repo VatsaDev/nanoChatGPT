@@ -20,7 +20,7 @@ This is a fork of Nanogpt, but trained on the data format of a chatbot like chat
 ```
 
 ## Demo
-to view its capabilites, simply run the colab, the whole thing should take around ~30 minutes on a t4 instance. If you look at both outputs, you would notice the model definitly requires prompting, in the format above.
+to view its capabilites, simply run the colab, the whole thing should take around ~30 minutes on a t4 instance. If you look at both outputs, Chat has no prompting, but directing the chat in a direction is very helpful
 
 ## Limitations 
 
