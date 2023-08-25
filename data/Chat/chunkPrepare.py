@@ -15,7 +15,7 @@ def download_file(url):
 download_file('https://huggingface.co/VatsaDev/ChatGpt-nano/resolve/main/Dataset.txt')
 
 # get input file
-input_file_path = './concatenated.txt';
+input_file_path = './dataset.txt';
 
 with open(input_file_path, 'r') as f:
     data = f.read()
@@ -52,3 +52,5 @@ train_ids.tofile(os.path.join(os.path.dirname(__file__), 'train.bin'))
 
 val_ids = np.array(val_ids, dtype=np.uint16)
 val_ids.tofile(os.path.join(os.path.dirname(__file__), 'val.bin'))
+print(f"train has {len(train_ids):,} tokens")
+print(f"val has {len(val_ids):,} tokens")
