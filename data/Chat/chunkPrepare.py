@@ -25,6 +25,12 @@ with open(input_file_path, 'r') as f:
 train_size = 0.9
 val_size = 0.1
 
+def split_dataset(data, train_size, val_size):
+  """Splits a dataset into train and val sets."""
+  train_data = data[:int(len(data)*train_size)]
+  val_data = data[int(len(data)*train_size):]
+  return train_data, val_data
+
 # split data into train and val sets
 train_data, val_data = split_dataset(data, train_size, val_size)
 
@@ -54,9 +60,3 @@ val_ids = np.array(val_ids, dtype=np.uint16)
 val_ids.tofile(os.path.join(os.path.dirname(__file__), 'val.bin'))
 print(f"train has {len(train_ids):,} tokens")
 print(f"val has {len(val_ids):,} tokens")
-
-def split_dataset(data, train_size, val_size):
-  """Splits a dataset into train and val sets."""
-  train_data = data[:int(len(data)*train_size)]
-  val_data = data[int(len(data)*train_size):]
-  return train_data, val_data
