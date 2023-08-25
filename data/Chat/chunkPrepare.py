@@ -15,16 +15,6 @@ def download_file(url):
 
 download_file('https://huggingface.co/VatsaDev/ChatGpt-nano/resolve/main/Dataset.txt')
 
-# get input file
-input_file_path = './dataset.txt';
-
-with open(input_file_path, 'r') as f:
-    data = f.read()
-
-# define train and val sizes
-train_size = 0.9
-val_size = 0.1
-
 def chunk_dataset(dataset, chunk_size):
   """Splits a dataset into chunks of the specified size."""
   chunks = []
@@ -37,6 +27,16 @@ def split_dataset(data, train_size, val_size):
   train_data = data[:int(len(data)*train_size)]
   val_data = data[int(len(data)*train_size):]
   return train_data, val_data
+
+# get input file
+input_file_path = './dataset.txt';
+
+with open(input_file_path, 'r') as f:
+    data = f.read()
+
+# define train and val sizes
+train_size = 0.9
+val_size = 0.1
 
 # split data into train and val sets
 train_data, val_data = split_dataset(data, train_size, val_size)
@@ -51,11 +51,10 @@ val_chunks = chunk_dataset(val_data, chunk_size)
 # encode with tiktoken gpt2 bpe
 enc = tiktoken.get_encoding("gpt2")
 
-# encode train chunks
+# process all chunks
 for chunk in train_chunks:
   train_ids = enc.encode_ordinary(chunk)
 
-# encode val chunks
 for chunk in val_chunks:
   val_ids = enc.encode_ordinary(chunk)
 
