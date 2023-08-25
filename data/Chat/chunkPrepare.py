@@ -9,6 +9,7 @@ def download_file(url):
   if response.status_code == 200:
     with open('dataset.txt', 'wb') as f:
       f.write(response.content)
+      print("downloaded dataset, tokenizing")
   else:
     print('Error downloading file:', response.status_code)
 
@@ -21,6 +22,7 @@ with open(input_file_path, 'r') as f:
     data = f.read()
 
 def chunk_data(data, chunk_size):
+  global chunks
   chunks = []
   for i in range(0, len(data), chunk_size):
     chunks.append(data[i:i+chunk_size])
