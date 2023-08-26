@@ -20,7 +20,7 @@ This is a fork of Nanogpt, but trained on the data format of a chatbot like chat
 ```
 
 ## Demo
-to view its capabilites, simply run the colab, the whole thing should take around ~30 minutes on a t4 instance. If you look at both outputs, Chat has no prompting, but directing the chat in a direction is very helpful
+to view its capabilites, head to colab link, run just the git clone, pip install, and prepare.py, then run chat.py with `--init_from=huggingface` 
 
 ## Limitations 
 
@@ -49,6 +49,8 @@ for commercial purposes, just take the files `input1.txt` through `input36.txt`
  * User to Bot chat
  * chat.py has functions similar to openai api stop, removes all content after a certain word
  * Option to use google bard to look through and improve conversations
+ * Setting context to start the conversation, making a whole new personality for the chatbot
+   `!python chat.py --init_from=huggingface --context="<human>Hello I like memes<endOfText><bot>I like memes, especially pepe the frog<endOfText>"`
 
 ## Problems / TODOs
 
