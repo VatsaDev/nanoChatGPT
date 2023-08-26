@@ -6,6 +6,21 @@ a barebones Nanogpt, but finetuned on conversational data
 
 [Colab link](https://colab.research.google.com/drive/1a2aW5eClKjHVQJp-qtHDz4m6ai4yh49Z?usp=sharing)   
 all updates in [updates.md](updates.md)
+
+## Features
+
+ * Medium Dataset(~630mb), full of a variety of conversations, and a little arithmetic
+ * Model and dataset avalible on [Huggingface](https://huggingface.co/VatsaDev/ChatGpt-nano/tree/main)
+ * can sometimes talk to you on a variety of topics and smoothly switch between topics, but it either sounds like a real person or so stupid its hilarious
+ * GPT-2-medium 353 million parameters
+ * Very Fast Inference on GPU
+ * User to Bot chat
+ * chat.py has functions similar to openai api stop, removes all content after a certain word
+ * Option to use google bard to look through and improve conversations
+ * Setting context to start the conversation, making a whole new personality for the chatbot
+
+   `!python chat.py --init_from=huggingface --context=""`
+
 ## how does it work?
 
 This is a fork of Nanogpt, but trained on the data format of a chatbot like chatgpt, with the format inspired by `oasst-pythia-12b` 
@@ -21,36 +36,6 @@ This is a fork of Nanogpt, but trained on the data format of a chatbot like chat
 
 ## Demo
 to view its capabilites, head to colab link, run just the git clone, pip install, and prepare.py, then run chat.py with `--init_from=huggingface` 
-
-## Limitations 
-
-I did not make the data dumps/corpuses that make up this data, and can't account for any biases, as the dataset it self is based off the conversations of real people who may or may not have had biases. The model is meant for academic research purposes, and isn't meant for any important or high risk scenarios. Do not follow its advice
-
-### whats in the data
- - personaChat corpus
- - twitter Dumps corpus
- - Ubuntu dialog corpus
- - Chatbot arena conversations (not for commercial use)
- - ParlAI empathetic Chat (not for commercial use)
- - Hackernews Dumps corpus
- - BabyLM challenge speech data (Unsure, but probably not for commercial use)
- - Eleuthier AI arithmetic dataset
- - Oasst-1
-
-for commercial purposes, just take the files `input1.txt` through `input36.txt`
-
-## Features
-
- * Medium Dataset(~630mb), full of a variety of conversations, and a little arithmetic
- * Model and dataset avalible on [Huggingface](https://huggingface.co/VatsaDev/ChatGpt-nano/tree/main)
- * can sometimes talk to you on a variety of topics and smoothly switch between topics, but it either sounds like a real person or so stupid its hilarious
- * GPT-2-medium 353 million parameters
- * Very Fast Inference on GPU
- * User to Bot chat
- * chat.py has functions similar to openai api stop, removes all content after a certain word
- * Option to use google bard to look through and improve conversations
- * Setting context to start the conversation, making a whole new personality for the chatbot
-   `!python chat.py --init_from=huggingface --context="<human>Hello I like memes<endOfText><bot>I like memes, especially pepe the frog<endOfText>"`
 
 ## Problems / TODOs
 
@@ -74,6 +59,23 @@ for commercial purposes, just take the files `input1.txt` through `input36.txt`
       
 <br /><br /><br />
 Anyone Who can contribute to the repo, please do so, any and all contributions are welcome, simply add a little to the dataset and expand it dataset would be amazing.
+
+## Limitations 
+
+I did not make the data dumps/corpuses that make up this data, and can't account for any biases, as the dataset it self is based off the conversations of real people who may or may not have had biases. The model is meant for academic research purposes, and isn't meant for any important or high risk scenarios. Do not follow its advice
+
+### whats in the data
+ - personaChat corpus
+ - twitter Dumps corpus
+ - Ubuntu dialog corpus
+ - Chatbot arena conversations (not for commercial use)
+ - ParlAI empathetic Chat (not for commercial use)
+ - Hackernews Dumps corpus
+ - BabyLM challenge speech data (Unsure, but probably not for commercial use)
+ - Eleuthier AI arithmetic dataset
+ - Oasst-1
+
+for commercial purposes, just take the files `input1.txt` through `input36.txt`
 
 #### citations
 ```
