@@ -42,9 +42,22 @@ def download_ckpt(url):
 # gets model
 # init from a model saved in a specific directory
 if init_from == 'huggingface':
+  if os.path.isfile('ckpt.pt'):
+    # init from huggingface model
+    ckpt_path = 'ckpt.pt'
+    checkpoint = torch.load(ckpt_path, map_location=device)
+    gptconf = GPTConfig(**checkpoint['model_args'])
+    model = GPT(gptconf)
+    state_dict = checkpoint['model']
+    unwanted_prefix = '_orig_mod.'
+    for k,v in list(state_dict.items()):
+        if k.startswith(unwanted_prefix):
+            state_dict[k[len(unwanted_prefix):]] = state_dict.pop(k)
+    model.load_state_dict(state_dict) 
+  else:
     # init from huggingface model
     download_ckpt('https://huggingface.co/VatsaDev/ChatGpt-nano/resolve/main/ckpt.pt')
-    ckpt_path = '/ckpt.pt'
+    ckpt_path = 'ckpt.pt'
     checkpoint = torch.load(ckpt_path, map_location=device)
     gptconf = GPTConfig(**checkpoint['model_args'])
     model = GPT(gptconf)
