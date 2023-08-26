@@ -10,6 +10,7 @@ from model import GPTConfig, GPT
 from improve import *
 
 # -----------------------------------------------------------------------------
+init_from = 'resume'
 out_dir = 'out-chat' # where finetuned model lives
 num_samples = 1 # no samples. 1 for 1 chat at a time
 max_new_tokens = 50 
@@ -31,16 +32,30 @@ ctx = nullcontext() if device_type == 'cpu' else torch.amp.autocast(device_type=
 
 # gets model
 # init from a model saved in a specific directory
-ckpt_path = os.path.join(out_dir, 'ckpt.pt')
-checkpoint = torch.load(ckpt_path, map_location=device)
-gptconf = GPTConfig(**checkpoint['model_args'])
-model = GPT(gptconf)
-state_dict = checkpoint['model']
-unwanted_prefix = '_orig_mod.'
-for k,v in list(state_dict.items()):
-    if k.startswith(unwanted_prefix):
-        state_dict[k[len(unwanted_prefix):]] = state_dict.pop(k)
-model.load_state_dict(state_dict)
+if init_from == 'huggingface':
+    # init from huggingface model
+    download_ckpt('https://huggingface.co/VatsaDev/ChatGpt-nano/resolve/main/ckpt.pt')
+    ckpt_path = '/ckpt.pt'
+    checkpoint = torch.load(ckpt_path, map_location=device)
+    gptconf = GPTConfig(**checkpoint['model_args'])
+    model = GPT(gptconf)
+    state_dict = checkpoint['model']
+    unwanted_prefix = '_orig_mod.'
+    for k,v in list(state_dict.items()):
+        if k.startswith(unwanted_prefix):
+            state_dict[k[len(unwanted_prefix):]] = state_dict.pop(k)
+    model.load_state_dict(state_dict) 
+elif init_from == 'resume':
+    ckpt_path = os.path.join(out_dir, 'ckpt.pt')
+    checkpoint = torch.load(ckpt_path, map_location=device)
+    gptconf = GPTConfig(**checkpoint['model_args'])
+    model = GPT(gptconf)
+    state_dict = checkpoint['model']
+    unwanted_prefix = '_orig_mod.'
+    for k,v in list(state_dict.items()):
+        if k.startswith(unwanted_prefix):
+            state_dict[k[len(unwanted_prefix):]] = state_dict.pop(k)
+    model.load_state_dict(state_dict)
 
 model.eval()
 model.to(device)
