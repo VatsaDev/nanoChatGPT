@@ -4,13 +4,14 @@
 
 a barebones Nanogpt, but finetuned on conversational data 
 
-[Colab link](https://colab.research.google.com/drive/1a2aW5eClKjHVQJp-qtHDz4m6ai4yh49Z?usp=sharing)   
 all updates in [updates.md](updates.md)
+[Colab link](https://colab.research.google.com/drive/1a2aW5eClKjHVQJp-qtHDz4m6ai4yh49Z?usp=sharing)   
+to view its capabilites, head to colab link, run just the git clone, pip install, and prepare.py, then run chat.py with `--init_from=huggingface` 
 
 ## Features
 
  * Medium Dataset(~630mb), full of a variety of conversations, and a little arithmetic
- * Model and dataset avalible on [Huggingface](https://huggingface.co/VatsaDev/ChatGpt-nano/tree/main)
+ * Model and datasets avalible on [Huggingface](https://huggingface.co/VatsaDev/ChatGpt-nano/tree/main)
  * can sometimes talk to you on a variety of topics and smoothly switch between topics, but it either sounds like a real person or so stupid its hilarious
  * GPT-2-medium 353 million parameters
  * Very Fast Inference on GPU
@@ -33,9 +34,6 @@ This is a fork of Nanogpt, but trained on the data format of a chatbot like chat
 <human> ... <endOfText>
 <Bot> ... <endOfText>
 ```
-
-## Demo
-to view its capabilites, head to colab link, run just the git clone, pip install, and prepare.py, then run chat.py with `--init_from=huggingface` 
 
 ## Problems / TODOs
 
