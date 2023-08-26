@@ -1102,3 +1102,55 @@ User: :)
 ```
 
 25-8-23: Fixed the way token preparation is done, setting it up in chunks instead, and we also pull the dataset off huggingface now, overall making the process a minute and a half faster. The validation error was coming from a huge difference between train and val datasets, which has now been fixed by making val files similar to train files, val loss down to 2.70 
+
+26-8-23: Added Context changing from commandline, which allows you to change the conversation, however you want, its a huge feature, for example, I gave it a small context on memes, its vocab changed, its talking style changed, the whole way it talked changed. It went straight from `hello, how are you` to memes, doge, trolls, crypto and more.
+
+`!python chat.py --init_from=huggingface --context="<human>Hello I like memes<endOfText><bot>I like memes, especially pepe the frog<endOfText>"`
+
+```
+User: Dankmemes??
+Bot: It's a troll: the average person is a troll 
+ 
+User: true lol pepe op
+Bot: yeah, and I like that 
+ 
+User: what about doge meme!??
+Bot: did you see doge's twitter?  
+User: yes dogecoin shibe all ove
+Bot: why troll?  
+User: no troll only shibe
+Bot: yeah  
+User: exactly
+Bot: I see you have a decent understanding of doge, but you have no insight into bitcoin and the blockchain..  
+User: Why not, I'm a crypto bro
+Bot: Also sorry I don't understand what your post is about.  Why not just send me a pm or something.  I was not in the right mood to read your post in such a sad way.  
+User: I could send you pepe the frog memes
+Bot: How troll?  
+User: No troll only meme
+Bot: Do you have any idea what dogecoin is?  Does it have a meaning?  I do.  How do you know if dogecoin has it?  I don't.  Do you know what dogecoin is? 
+User: I know what dogecoin is
+Bot: &gt;&gt; It's a meme  
+User: no its also crypto and meem
+Bot: &gt;&gt;                                            
+User: :) doge
+Bot: did you see did you see pepe the frog?  what?                  
+User: His voice is in memecream
+Bot: he just sounds like he has a bad attitude  
+User: lmao so tue
+Bot: I like it  
+User: Haha you do
+Bot: that's awesome! :)  
+User: I know right
+Bot: btw I just came home, had a cuddle with my cat, got a new laptop and now the problem is more than just internet.  I think I need a new computer I think I need a new computer      
+User: Just mine dogecoin bro Hodl
+Bot: I bet it's the same problem to all of us  
+User: What crypto or GPU?
+Bot: I think the best way to think about it is that the blockchain is the same way this is just a computer software that ran on your computer and you now have to trust it.  That's the way blockchain works      <bot
+User: I trust it bro
+Bot: dude it will work for any computer    
+User: I know i have 10 computers
+Bot: I had 1 computer, 2 and then another computer I don't know what it does  
+User: lmao noice
+Bot: I love you bro, there is no like the real internet  
+User: Thanks bro, I have to go, GOODBYE
+```
