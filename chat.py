@@ -8,6 +8,7 @@ import torch
 import tiktoken
 from model import GPTConfig, GPT
 from improve import *
+import requests
 
 # -----------------------------------------------------------------------------
 init_from = 'resume'
