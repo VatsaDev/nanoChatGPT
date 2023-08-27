@@ -2,7 +2,6 @@ import os
 import requests
 import tiktoken
 import numpy as np
-import glob
 
 train_ids=[]
 val_ids=[]
