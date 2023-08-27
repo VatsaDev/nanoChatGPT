@@ -12,7 +12,7 @@ to view its capabilites, head to colab link, run just the git clone, pip install
 
  * Medium Dataset(~630mb), full of a variety of conversations, and a little arithmetic
  * Model and datasets avalible on [Huggingface](https://huggingface.co/VatsaDev/ChatGpt-nano/tree/main)
- * can sometimes talk to you on a variety of topics and smoothly switch between topics, but it either sounds like a real person or so stupid its hilarious
+ * (at best), it can talk to you on a variety of topics and smoothly switch between topics
  * GPT-2-medium 353 million parameters
  * Very Fast Inference on GPU
  * User to Bot chat
@@ -71,7 +71,7 @@ I did not make the data dumps/corpuses that make up this data, and can't account
  - Hackernews Dumps corpus
  - BabyLM challenge speech data (Unsure, but probably not for commercial use)
  - Eleuthier AI arithmetic dataset
- - Oasst-1
+ - a small part of Oasst-1
 
 for commercial purposes, just take the files `input1.txt` through `input36.txt`
 
