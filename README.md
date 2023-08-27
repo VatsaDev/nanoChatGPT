@@ -10,7 +10,7 @@ to view its capabilites, head to colab link, just run the `git clone`, `pip inst
 
 ## Features
 
- * Medium Dataset(~630mb), full of a variety of conversations, and a little arithmetic
+ * Medium Dataset(~700mb), full of a variety of conversations, and a little arithmetic
  * Model and datasets avalible on [Huggingface](https://huggingface.co/VatsaDev/ChatGpt-nano/tree/main)
  * (at best), it can talk to you on a variety of topics and smoothly switch between topics
  * GPT-2-medium 353 million parameters
