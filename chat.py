@@ -13,7 +13,7 @@ import requests
 init_from = 'resume'
 out_dir = 'out-chat' # where finetuned model lives
 num_samples = 1 # no samples. 1 for 1 chat at a time
-max_new_tokens = 50 
+max_new_tokens = 100
 temperature = 0.8 
 top_k = 15 # retain only the top_k most likely tokens, clamp others to have 0 probability
 device = 'cuda' # examples: 'cpu', 'cuda', 'cuda:0', 'cuda:1', etc.
