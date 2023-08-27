@@ -7,7 +7,6 @@ from contextlib import nullcontext
 import torch
 import tiktoken
 from model import GPTConfig, GPT
-from improve import *
 import requests
 
 # -----------------------------------------------------------------------------
@@ -20,8 +19,6 @@ top_k = 150 # retain only the top_k most likely tokens, clamp others to have 0 p
 device = 'cuda' # examples: 'cpu', 'cuda', 'cuda:0', 'cuda:1', etc.
 dtype = 'bfloat16' if torch.cuda.is_available() and torch.cuda.is_bf16_supported() else 'float16' # 'float32' or 'bfloat16' or 'float16'
 compile = True # use PyTorch 2.0 to compile the model to be faster
-improve_msuite = False # true if you want to use makersuite improve
-your_api_key = "#####" # enter your makersuite key in cmd line
 context="<human>Hello, how are you?<endOfText><bot>Thanks, Im good, what about you?<endOfText><human>Im great thanks, My names James, and I'm from the UK, wbu?<endOfText><bot>Hi James, I'm Conner, and im from america. <endOftext>" # a little context for better chat responses
 exec(open('configurator.py').read()) # overrides from command line, only for out_dir location, if you store the ckpt.pt elsewhere, like gdrive, to escape finetuning everytime you run the colab
 # -----------------------------------------------------------------------------
@@ -123,8 +120,4 @@ while True:
     
     out = respond(context, num_samples)
     context=context+out+'<endOfText>'
-    if improve_msuite == True:
-        improvedText = improve(context, your_api_key)
-        print(improvedText)
-        
     print('Bot: '+ out)
