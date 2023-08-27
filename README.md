@@ -6,7 +6,7 @@ a barebones Nanogpt, but finetuned on conversational data
 
 all updates in [updates.md](updates.md)   
 [Colab link](https://colab.research.google.com/drive/1a2aW5eClKjHVQJp-qtHDz4m6ai4yh49Z?usp=sharing)      
-to view its capabilites, head to colab link, run just the git clone, pip install, and prepare.py, then run chat.py with `--init_from=huggingface` 
+to view its capabilites, head to colab link, just run the `git clone`, `pip install`, and `prepare.py`, then run chat.py with `--init_from=huggingface` 
 
 ## Features
 
