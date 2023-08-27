@@ -17,7 +17,6 @@ to view its capabilites, head to colab link, just run the `git clone`, `pip inst
  * Very Fast Inference on GPU
  * User to Bot chat
  * chat.py has functions similar to openai api stop, removes all content after a certain word
- * Option to use google bard to look through and improve conversations
  * Setting context to start the conversation, making a whole new personality for the chatbot
 
    `!python chat.py --init_from=huggingface --context=""`
