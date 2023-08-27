@@ -39,7 +39,7 @@ def split_file(filename, output_dir, chunk_size):
 split_file('dataset.txt', 'output', 10000)
 
 def is_numbers(string):
-  two_chars = string[:2]
+  two_chars = string[:1]
 
   try:
     int(two_chars)
@@ -50,11 +50,11 @@ def is_numbers(string):
 for filename in os.listdir('output'):
   if filename.endswith('.txt'):
     if is_numbers(filename) == True:
-      if int(filename[:2]) <= 7:
+      if int(filename[:1]) <= 7:
         with open(f'output/{filename}', 'r') as f:
           data = f.read()
         train_ids = train_ids+enc.encode_ordinary(data)
-      if int(filename[:2]) > 7:
+      if int(filename[:1]) > 7:
         with open(f'output/{filename}', 'r') as f:
           data = f.read()
         val_ids = val_ids+enc.encode_ordinary(data)
