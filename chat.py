@@ -89,7 +89,7 @@ encode = lambda s: enc.encode(s, allowed_special={"<|endoftext|>"})
 decode = lambda l: enc.decode(l)
 
 def respond(input, samples): # generation function
-    x = (torch.tensor(encode(input), dtype=torch.long, device=device)[None, ...]) #get the last 4000 chars of the input, make sure gpt2 give no errors, and that its the most recent context
+    x = (torch.tensor(encode(input), dtype=torch.long, device=device)[None, ...]) 
     with torch.no_grad():
         with ctx:
             for k in range(samples):
