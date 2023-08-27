@@ -62,7 +62,7 @@ Anyone Who can contribute to the repo, please do so, any and all contributions a
 I did not make the data dumps/corpuses that make up this data, and can't account for any biases, as the dataset it self is based off the conversations of real people who may or may not have had biases. The model is meant for academic research purposes, and isn't meant for any important or high risk scenarios. Do not follow its advice
 
 ### whats in the data
- - personaChat corpus
+ - personaChat corpus (not for commercial use)
  - twitter Dumps corpus
  - Ubuntu dialog corpus
  - Chatbot arena conversations (not for commercial use)
